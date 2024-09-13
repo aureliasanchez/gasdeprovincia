@@ -1,0 +1,222 @@
+﻿.ffa .circle-wrapper {
+    width: 100%;
+    margin-bottom: 140px;
+}
+
+.ffa .circle-animation .outer-container {
+    width: calc((var(--circle-animation-diameter)*2) - (var(--circle-animation-diameter)/2 - var(--circle-clear-init-x)) * 2);
+    margin: 0 auto;
+}
+
+.ffa .circle-animation .inner-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 600px;
+    width: 100%;
+}
+
+.ffa .circle-animation {
+    --circle-animation-diameter: 524px;
+    --circle-solid-init-x: -210px;
+    --circle-solid-init-y: 0;
+    --circle-clear-init-x: 210px;
+    --circle-clear-init-y: 0;
+    --circle-empty-init-x: -420px;
+    --circle-empty-init-y: 0;
+    padding-bottom: 80px;
+}
+.ffa .circle-animation .header {
+    font-size: 32px;
+    font-weight: 700;
+    padding-top: 64px;
+    padding-left: 20px;
+    width: 554px;
+}
+
+.ffa .circle-animation .circle {
+    height: var(--circle-animation-diameter);
+    width: var(--circle-animation-diameter);
+    border: 0px solid #fff;
+    border-radius: calc(var(--circle-animation-diameter) / 2);
+    position: absolute;
+    z-index: 1;
+}
+
+.ffa .circle-animation .circle.circle-solid {
+    transform: translate(var(--circle-solid-init-x), var(--circle-solid-init-y));
+}
+
+.ffa .circle-animation .circle.circle-clear {
+    border-color: #fff;
+    background-color: #fff;
+    transform: translate(var(--circle-clear-init-x), var(--circle-clear-init-y));
+    overflow: hidden;
+    z-index: 2;
+}
+
+.ffa .circle-animation .circle.circle-empty {
+    border-color: black;
+    transform: translate(var(--circle-empty-init-x), var(--circle-empty-init-y));
+    border: 2px solid #DCDBDD;
+}
+
+.ffa .circle-animation .circle .content {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ffa .circle-animation .circle-clear .content .content-item {
+    opacity: 0;
+}
+
+.ffa .circle-animation .circle-clear div:nth-child(1) .content-item {
+    opacity: 1;
+}
+
+.ffa .circle-animation .circle .content .text-top {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 48px;
+    text-align:center;
+}
+.ffa .circle-animation .circle .content .text-over {
+    display:block;
+    font-size: 16px;
+}
+.ffa .circle-animation .circle .content .text-bottom {
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 57px;
+    width: 185px;
+    text-align: center;
+}
+
+.ffa .circle-animation .circle-solid .content {
+    color: #fff;
+}
+
+.ffa .circle-animation .circle-clear .content {
+    color: #751269;
+}
+
+.ffa .circle-animation .equal-sign {
+    z-index: 3;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .ffa .circle-animation {
+        --circle-animation-diameter: 433px;
+        --circle-solid-init-x: -174px;
+        --circle-solid-init-y: 0;
+        --circle-clear-init-x: 174px;
+        --circle-clear-init-y: 0;
+        --circle-empty-init-x: -348px;
+        --circle-empty-init-y: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .ffa .circle-wrapper {
+        width: 100%;
+        height: 749px;
+        margin-bottom: 80px;
+    }
+
+    .ffa .circle-animation .outer-container {
+        width: 100%;
+        height: 100%;
+    }
+
+    .ffa .circle-animation .inner-container {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        width: 100%;
+    }
+
+    .ffa .circle-animation {
+        --circle-animation-diameter: 294px;
+        --circle-clear-init-x: 0;
+        --circle-clear-init-y: 100px;
+        --circle-solid-init-x: 0;
+        --circle-solid-init-y: -150px;
+        --circle-empty-init-x: 0;
+        --circle-empty-init-y: -250px;
+    }
+
+        .ffa .circle-animation.bg-offwhite {
+            /* height: calc(var(--vh, 1vh) * 100);*/
+        }
+
+        .ffa .circle-animation .header {
+            font-size: 24px;
+            padding: 16px 0;
+            margin: 0 auto;
+            width: 288px;
+        }
+
+        .ffa .circle-animation .circle {
+            height: var(--circle-animation-diameter);
+            width: var(--circle-animation-diameter);
+            border: 0px solid #fff;
+            border-radius: calc(var(--circle-animation-diameter) / 2);
+            position: absolute;
+            z-index: 1;
+        }
+
+            .ffa .circle-animation .circle.circle-solid {
+                transform: translate(var(--circle-solid-init-x), var(--circle-solid-init-y));
+            }
+
+            .ffa .circle-animation .circle.circle-clear {
+                border-color: #fff;
+                background-color: #fff;
+                transform: translate(var(--circle-clear-init-x), var(--circle-clear-init-y));
+                overflow: hidden;
+                z-index: 2;
+            }
+
+            .ffa .circle-animation .circle.circle-empty {
+                border-color: black;
+                transform: translate(var(--circle-empty-init-x), var(--circle-empty-init-y));
+                border: 2px solid #DCDBDD;
+            }
+
+            .ffa .circle-animation .circle .content .text-top {
+                font-size: 24px;
+                margin-top: 0px;
+                margin-bottom: 20px;
+            }
+
+            .ffa .circle-animation .circle .content .text-bottom {
+                font-size: 16px;
+                font-weight: 500;
+                margin-top: 20px;
+                margin-bottom: 0;
+                max-width: 190px;
+                max-height: 50px;
+                /* overflow: hidden;*/
+                text-align: center;
+                line-height: 24px;
+            }
+
+            .ffa .circle-animation .circle .icon {
+                width: 80px;
+                height: 80px;
+            }
+
+        .ffa .circle-animation .equal-sign .icon {
+            width: 9px;
+            z-index:50;
+            transform: translateY(-25px);
+        }
+}

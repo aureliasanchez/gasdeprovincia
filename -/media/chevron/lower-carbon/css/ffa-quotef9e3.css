@@ -1,0 +1,349 @@
+﻿/* Horizontal Slider Overrides */
+.ffa .quote-panel {
+    padding: 0; 
+}
+.ffa .quote-panel .ffa-quote {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.ffa .quote-panel .ffa-quote:not(.quote-top) .quote-container {
+    padding-top: 56px;
+    max-height: 100%;
+}
+.ffa .quote-panel .ffa-quote.quote-top .quote-container {
+    height: calc(100% - 145px);
+}
+.ffa .quote-panel .quote-text:before {
+    margin:0;
+}
+.ffa .quote-panel .ffa-quote figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.ffa .quote-panel .ffa-quote figure .quote-caption {
+    margin-top: auto;
+    width: 100%;
+}
+/* End Horizontal Slider Overrides */
+
+
+.ffa .story .ffa-quote figure {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100%;
+}
+
+.ffa-quote .quote-text span {
+    opacity: 0.5;
+    position: relative;
+}
+
+.ffa-quote .quote-text span.active {
+    opacity: 1;
+    transition: opacity 0.1s
+}
+
+.ffa-quote .quote-text span.opaque {
+    opacity: .8;
+}
+
+.ffa-quote .quote-text span.opaque {
+    opacity: 1;
+    transition: opacity 0.1s
+}
+
+.ffa-quote.quote-left, 
+.ffa-quote.quote-right {
+    padding: 0 0 140px 0;
+}
+
+.ffa-quote .inner-container {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    height: 100%;
+}
+.ffa .quote-panel .ffa-quote .inner-container {
+    padding:0;
+}
+.ffa-quote .quote-container {
+    flex: 60%;
+    padding: 0 80px 56px 80px;
+}
+
+.ffa-quote .quote-image {
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.ffa-quote.quote-left .quote-image, .ffa-quote.quote-right .quote-image {
+    width: 207px;
+}
+
+.ffa-quote.quote-left .quote-image.left {
+    display: none;
+}
+
+.ffa-quote.quote-right .quote-image.right {
+    display: none;
+}
+
+.ffa-quote.quote-top .quote-image.right {
+    display: none;
+}
+
+.ffa-quote.quote-top .quote-image.left {
+    display: block;
+    height: 145px;
+    width: 100%;
+}
+
+.ffa-quote blockquote {
+    margin: 0;
+    border: none;
+    overflow: auto;
+    padding: 0;
+    height: 100%;
+}
+
+.ffa-quote blockquote p {
+    line-height: 4.8rem;
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.ffa-quote blockquote p::before {
+    content: '\201C';
+    display: block;
+    color: white;
+    font-size: 6.4rem;
+    line-height: 8rem;
+    height: 63px;
+    margin: 45px 0 0px 0px;
+}
+
+.ffa-quote .quote-caption .quote-name {
+    font-weight: 700;
+}
+
+.ffa-quote .quote-caption .quote-title {
+    font-weight: 500;
+}
+
+.ffa-quote .quote-caption {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.ffa-quote .quote-caption .signature {
+    font-size: 1.8rem;
+    line-height: 3.2rem;
+    padding-top: 8px;
+    padding-right: 10px;
+    /*max-width: 500px;*/
+}
+
+
+.ffa-quote .quote-caption .button-container {
+    margin-top: auto;
+    padding-bottom: 6px;
+    margin-left: auto
+}
+
+.ffa-quote .stop-animation {
+    width: 10px;
+    height: 16px;
+    border: 3px solid #fff;
+    background-color: transparent;
+    border-top: 2px;
+    border-bottom: 2px;
+    padding: 3.5px;
+    border-radius: 0;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .ffa-quote.padding-top {
+        padding-top: 80px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .ffa .story .quote-container {
+        height:650px;
+    }
+    .ffa .quote-panel .ffa-quote .inner-container.width-1200 {
+        max-width: none !important;
+    }
+    .ffa .quote-panel .ffa-quote.quote-left .quote-image,
+    .ffa .quote-panel .ffa-quote.quote-right .quote-image {
+        width: calc((100vh - var(--navbar-height)) * 207 / 820);
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    /*.ffa-quote.quote-left, 
+    .ffa-quote.quote-right {*/
+        /*padding: 0 0 40px 0;*/
+        /*padding-top:80px
+    }*/
+
+    .ffa-quote .quote-container {
+        padding: 0 64px 56px 64px;
+    }
+    .ffa-quote.quote-left .quote-image, .ffa-quote.quote-right .quote-image {
+        width: 137px;
+    }
+    .ffa .story .quote-container {
+        height: 700px;
+    }
+
+    .ffa-quote blockquote p {
+        line-height: 3.8rem;
+        font-size: 3rem;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+    .ffa-quote blockquote p {
+        line-height: 4.8rem;
+        font-size: 4rem;
+        font-weight: 500;
+    }
+    .ffa .quote-panel .ffa-quote blockquote p {
+        line-height: 3.8rem;
+        font-size: 3rem;
+        font-weight: 500;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-height: 900px) {
+    .ffa .quote-panel .ffa-quote blockquote p {
+        line-height: calc(45 * (100vh - var(--navbar-height)) / 820);
+        font-size: calc(38 * (100vh - var(--navbar-height)) / 820);
+    }
+}
+@media only screen and (min-width: 992px) and (max-height: 600px) {
+    .ffa .quote-panel .ffa-quote .quote-container {
+        padding: 0 32px 32px;
+    }
+    .ffa .quote-panel .ffa-quote blockquote p::before {
+        font-size: 4rem;
+        line-height: 5.2rem;
+        height: 36px;
+    }
+    .ffa-quote .quote-caption .signature {
+        font-size: 1.4rem;
+        line-height: 2.0rem;
+    }
+}
+@media only screen and (max-width: 991px) {
+    .ffa .quote-panel .ffa-quote .quote-image.left {
+        display: none;
+    }
+    .ffa .quote-panel .ffa-quote .quote-image.right {
+        display: block;
+    }
+    .ffa .quote-panel .ffa-quote.quote-left .quote-image,
+    .ffa .quote-panel .ffa-quote.quote-right .quote-image,
+    .ffa .quote-panel .ffa-quote.quote-top .quote-image.right {
+        width: 100%;
+        height: calc(100vw * 287 / 767);
+        min-height: 140px;
+        max-height: 287px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    .ffa .quote-panel .ffa-quote .quote-container {
+        padding: 32px 44px 32px 44px;
+    }
+
+    .ffa .quote-panel .ffa-quote:not(.quote-top) .quote-container {
+        padding-top: 32px;
+    }
+
+    .ffa .quote-panel .ffa-quote blockquote {
+        margin-bottom: 80px;
+    }
+
+    .ffa .quote-panel .ffa-quote blockquote p {
+        line-height: 4rem;
+        font-size: 2.4rem;
+    }
+
+    .ffa .quote-panel .ffa-quote.quote-top {
+        width: 100%;
+    }
+}
+
+/* Media Queries*/
+@media only screen and (max-width: 767px) {
+    .ffa-quote .quote-container .quote-text {
+        font-size: 3rem;
+        line-height: 3.8rem;
+    }
+
+    .ffa-quote.quote-left,
+    .ffa-quote.quote-right,
+    .ffa-quote .inner-container {
+        padding: 0px;
+    }
+
+    .ffa-quote .quote-image.left {
+        display: none;
+    }
+
+    .ffa-quote.quote-right .quote-image.right,
+    .ffa-quote.quote-left .quote-image.right {
+        display: block;
+    }
+
+    .ffa-quote.quote-left .quote-image,
+    .ffa-quote.quote-right .quote-image,
+    .ffa-quote.quote-top .quote-image.right {
+        width: 100%;
+        height: calc(100vw * 287 / 767);
+        min-height: 140px;
+        max-height: 287px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .ffa-quote.quote-top .quote-image.left {
+        display: none;
+    }
+
+    .ffa-quote.quote-top .quote-image.right {
+        display: block;
+    }
+
+    .ffa-quote .quote-container {
+        padding: 32px 44px 32px 44px;
+    }
+
+    .ffa-quote blockquote {
+        margin-bottom: 80px;
+    }
+
+    .ffa-quote blockquote p {
+        line-height: 4rem;
+        font-size: 2.4rem;
+    }
+
+    .ffa-quote.quote-top {
+        width: 100%;
+    }
+
+    .story.words .ffa-quote + .c03,
+    .story.words .ffa-quote + .c21 {
+        padding-top: 80px;
+    }
+}

@@ -125,13 +125,7 @@
 
         <main role="main" id="main-content" tabindex="-1">
 
-
-
-
             <div class=" module-looper">
-
-
-
                 <div id="mod_200e951a" class="r c70 video-common carousel-shared background-color-gradient " data-cvx-first-module-no-adjustment="true" data-cvx-module-name="c70">
                     <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
                         <section class="splide splide-image centered" aria-label="Image Carousel">
@@ -203,92 +197,53 @@
                                     <li class="list-item active">
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">a new deepwater frontier</h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">Tu seguridad y confianza en cada recarga de gas LP</h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Anchor is helping us safely deliver more energy from greater pressures in the U.S. Gulf of Mexico.
+                                                    Brindando servicio de calidad y seguridad desde 2005
                                                 </div>
-                                                <p class="cta-container">
-                                                    <a href="what-we-do/energy/oil-and-natural-gas/assets/anchor.html" class="cta-link type-cta text-base" target=""> <span class="cta-glyphicon">
-                                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                        </span>
-                                                        <span class="cta-underline">learn more about anchor</span>
-                                                    </a>
-                                                </p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-blue color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">2Q 2024 earnings</h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">Seguridad Garantizada</h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Our latest quarterly earnings insights are now available.
+                                                    Instalaciones y servicios que cumplen con todas las normativas oficiales para garantizar tu seguridad.
                                                 </div>
-                                                <p class="cta-container">
-                                                    <a href="investors.html" class="cta-link type-cta text-base" target="" title="visit our investor page to learn more"> <span class="cta-glyphicon">
-                                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                        </span>
-                                                        <span class="cta-underline">visit our investor page to learn more</span>
-                                                    </a>
-                                                </p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-blue color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">moving towards a lower <nobr>carbon future</nobr>
-                                                </h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">Servicio Personalizado</h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Progress depends on scalable solutions that deliver affordable, reliable and ever-cleaner energy.
+                                                    Atención a medida para cada cliente (tanto en hogares como en empresas), para satisfacer las necesidades específicas de cada cliente, a su medida.
                                                 </div>
-                                                <p class="cta-container">
-                                                    <a href="sustainability/environment/energy-transition.html" class="cta-link type-cta text-base" target=""> <span class="cta-glyphicon">
-                                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                        </span>
-                                                        <span class="cta-underline">learn about the energy transition</span>
-                                                    </a>
-                                                </p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-purple color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">seeking solutions using <nobr>human ingenuity</nobr>
-                                                </h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">Tecnología Avanzada</h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    How do you help change the global energy system? By combining bold thinking with diverse ideas to solve problems.
+                                                    Utilizamos equipos y técnicas modernas para asegurar la eficiencia en cada recarga.
                                                 </div>
-                                                <p class="cta-container">
-                                                    <a href="what-we-do/energy/new-energies.html" class="cta-link type-cta text-base" target=""> <span class="cta-glyphicon">
-                                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                        </span>
-                                                        <span class="cta-underline">discover our solutions</span>
-                                                    </a>
-                                                </p>
                                             </div>
                                         </div>
                                     </li>
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">evolving energy for today <nobr>and tomorrow</nobr>
-                                                </h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">Compromiso Ambiental</h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Transformation on a global scale takes partnership. It takes innovation. And it takes human ingenuity.
+                                                    Prácticas sostenibles y amigables con el medio ambiente.
                                                 </div>
-                                                <p class="cta-container">
-                                                    <a href="newsroom/2022/q3/methane-management.html" class="cta-link type-cta text-base" target=""> <span class="cta-glyphicon">
-                                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                        </span>
-                                                        <span class="cta-underline">see how we collaborate</span>
-                                                    </a>
-                                                </p>
                                             </div>
                                         </div>
                                     </li>
-
                                 </ul>
                             </div>
                             <div class="control">
@@ -311,18 +266,15 @@
                     </div>
                 </div>
 
-
-
-
                 <div class="r text-marquee background-color-dark-blue">
                     <div class="inner-container centered">
                         <div class="background-initial">&nbsp;</div>
                         <div class="heading-container centered">
-                            <p class="type-eyebrow text-base width-600 centered text-center">who we are</p>
+                            <p class="type-eyebrow text-base width-600 centered text-center">Gas LP</p>
                             <h2 class="heading type-display text-elevated centered">
-                                <span class="text-animation first-item color-light-blue color-important">critical thinkers</span>
-                                <span class="text-animation second-item color-medium-blue color-important">collaborators</span>
-                                <span class="text-animation third-item color-dark-blue color-important">innovators</span>
+                                <span class="text-animation first-item color-light-blue color-important">Somos</span>
+                                <span class="text-animation second-item color-medium-blue color-important">el calor</span>
+                                <span class="text-animation third-item color-dark-blue color-important">de tu hogar</span>
                             </h2>
                             <p class="type-eyebrow text-base width-600 centered text-center">
                             </p>
@@ -341,841 +293,855 @@
                             </div>
                             <div class="text-container centered">
                                 <div class="description type-subhead text-super width-1200">
-                                    <p>We believe that humanity can solve any challenge. <span class="text-opacity">That our greatest resource is our people. And that responsibility, trust and integrity will help us drive a prosperous future.</span></p>
+                                    <p>Descuento del 10% en Recargas de Gas LP. <span class="text-opacity">Aprovecha nuestro descuento especial en recargas de gas LP durante este mes.
+                                    </p>
                                 </div>
                                 <div class="cta-container">
-                                    <a href="who-we-are.html" class="cta-button type-cta text-base">
+                                    <a href="" class="cta-button type-cta text-base">
                                         <span class="cta-glyphicon">
-                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                            <span class="animate glyphicon glyphicon-2023-arrow-right"
+                                                aria-hidden="true"></span>
                                         </span>
-                                        discover who we are
+                                        Saber más
                                     </a>
                                 </div>
+
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
 
-                <style>
-                    .text-marquee {
-                        position: relative;
-                        overflow: hidden;
-                        background-color: transparent !important;
-                    }
+            <style>
+                .text-marquee {
+                    position: relative;
+                    overflow: hidden;
+                    background-color: transparent !important;
+                }
 
-                    .text-marquee .background-initial {
-                        position: absolute;
-                        height: 100vh;
-                        width: 100%;
-                        background: linear-gradient(180deg, #0B2D71 0%, #0066B2 179.9%);
-                        z-index: 1;
-                    }
+                .text-marquee .background-initial {
+                    position: absolute;
+                    height: 100vh;
+                    width: 100%;
+                    background: linear-gradient(180deg, #0B2D71 0%, #0066B2 179.9%);
+                    z-index: 1;
+                }
 
-                    .text-marquee .heading-container {
-                        min-height: 100vh;
-                        display: flex;
-                        flex-direction: column;
-                        justify-content: space-between;
-                        align-items: center;
-                        z-index: 3;
-                        position: relative;
-                    }
+                .text-marquee .heading-container {
+                    min-height: 100vh;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                    align-items: center;
+                    z-index: 3;
+                    position: relative;
+                }
 
-                    .text-marquee .heading {
-                        margin-bottom: 0;
-                    }
+                .text-marquee .heading {
+                    margin-bottom: 0;
+                }
 
+                .text-marquee .type-eyebrow {
+                    margin-top: 56px;
+                }
+
+                .text-marquee .content-container {
+                    z-index: 2;
+                    position: relative;
+                }
+
+                .text-marquee .text-animation {
+                    transform: translateX(75%);
+                    display: block;
+                    margin-bottom: 8px;
+                }
+
+                .text-marquee .text-animation.second-item {
+                    transform: translateX(-75%);
+                }
+
+                .text-marquee .images-container {
+                    display: flex;
+                    flex-direction: column;
+                    padding: 0 24px;
+                    align-items: flex-end
+                }
+
+                .text-marquee .image {
+                    border-radius: 12px;
+                    overflow: hidden;
+                    transform: translateY(30%);
+                }
+
+                .text-marquee .first-image .img-fluid {
+                    height: 101px;
+                }
+
+                .text-marquee .second-image {
+                    align-self: flex-start;
+                    margin-top: 50%;
+                }
+
+                .text-marquee .second-image .img-fluid {
+                    height: 86px;
+                }
+
+                .text-marquee .third-image {
+                    margin-top: 40%;
+                }
+
+                .text-marquee .third-image .img-fluid {
+                    height: 143px;
+                }
+
+                .text-marquee .text-container {
+                    height: 100vh;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: column;
+                    padding: 28px;
+                }
+
+                .text-marquee .description {
+                    font-family: var(--font-gotham-book);
+                    text-align: center;
+                    margin-bottom: 40px;
+                }
+
+                .text-marquee .text-opacity {
+                    opacity: 0.25;
+                }
+
+                @media screen and (min-width: 768px) {
                     .text-marquee .type-eyebrow {
-                        margin-top: 56px;
-                    }
-
-                    .text-marquee .content-container {
-                        z-index: 2;
-                        position: relative;
-                    }
-
-                    .text-marquee .text-animation {
-                        transform: translateX(75%);
-                        display: block;
-                        margin-bottom: 8px;
-                    }
-
-                    .text-marquee .text-animation.second-item {
-                        transform: translateX(-75%);
-                    }
-
-                    .text-marquee .images-container {
-                        display: flex;
-                        flex-direction: column;
-                        padding: 0 24px;
-                        align-items: flex-end
-                    }
-
-                    .text-marquee .image {
-                        border-radius: 12px;
-                        overflow: hidden;
-                        transform: translateY(30%);
-                    }
-
-                    .text-marquee .first-image .img-fluid {
-                        height: 101px;
-                    }
-
-                    .text-marquee .second-image {
-                        align-self: flex-start;
-                        margin-top: 50%;
-                    }
-
-                    .text-marquee .second-image .img-fluid {
-                        height: 86px;
-                    }
-
-                    .text-marquee .third-image {
-                        margin-top: 40%;
-                    }
-
-                    .text-marquee .third-image .img-fluid {
-                        height: 143px;
-                    }
-
-                    .text-marquee .text-container {
-                        height: 100vh;
-                        display: flex;
-                        justify-content: center;
-                        align-items: center;
-                        flex-direction: column;
-                        padding: 28px;
+                        margin-top: 120px;
                     }
 
                     .text-marquee .description {
-                        font-family: var(--font-gotham-book);
-                        text-align: center;
-                        margin-bottom: 40px;
+                        margin-bottom: 80px;
+                        max-width: 600px;
                     }
 
-                    .text-marquee .text-opacity {
-                        opacity: 0.25;
+                    .text-marquee .first-image {
+                        margin-right: 15%;
                     }
 
-                    @media screen and (min-width: 768px) {
-                        .text-marquee .type-eyebrow {
-                            margin-top: 120px;
-                        }
-
-                        .text-marquee .description {
-                            margin-bottom: 80px;
-                            max-width: 600px;
-                        }
-
-                        .text-marquee .first-image {
-                            margin-right: 15%;
-                        }
-
-                        .text-marquee .first-image .img-fluid {
-                            height: 246px;
-                        }
-
-                        .text-marquee .second-image {
-                            transform: translateY(100%);
-                            margin-top: 15%;
-                        }
-
-                        .text-marquee .second-image .img-fluid {
-                            height: 144px;
-                        }
-
-                        .text-marquee .third-image {
-                            margin-right: 12%;
-                        }
-
-                        .text-marquee .third-image .img-fluid {
-                            height: 194px;
-                        }
+                    .text-marquee .first-image .img-fluid {
+                        height: 246px;
                     }
 
-                    @media screen and (min-width: 992px) {
-                        .text-marquee .description {
-                            max-width: 1200px;
-                        }
-
-                        .text-marquee .type-eyebrow {
-                            margin-top: 200px;
-                        }
-
-                        .text-marquee .first-image .img-fluid {
-                            height: 296px;
-                        }
-
-                        .text-marquee .second-image .img-fluid {
-                            height: 210px;
-                        }
-
-                        .text-marquee .third-image {
-                            margin-top: 120px;
-                        }
-
-                        .text-marquee .third-image .img-fluid {
-                            height: 236px;
-                        }
+                    .text-marquee .second-image {
+                        transform: translateY(100%);
+                        margin-top: 15%;
                     }
 
-                    @media screen and (min-width: 1200px) {
-                        .text-marquee .images-container {
-                            padding: 0 120px;
-                        }
+                    .text-marquee .second-image .img-fluid {
+                        height: 144px;
                     }
-                </style>
-                <script type="text/javascript">
-                    (function(d) {
-                        function init(textMarquee) {
-                            gsap.registerPlugin(ScrollTrigger);
-                            const headingContainer = textMarquee.querySelector(".heading-container");
-                            const contentContainer = textMarquee.querySelector(".content-container");
-                            const textContainer = contentContainer.querySelector(".text-container");
-                            const backgroundInitial = textMarquee.querySelector(".background-initial");
-                            const openingTextTl = gsap.timeline();
-                            openingTextTl.to(headingContainer.querySelectorAll(".text-animation:not(.second-item)"), {
-                                x: "-200%",
-                                duration: 1
-                            }, "start");
-                            openingTextTl.to(headingContainer.querySelector(".second-item"), {
-                                x: "200%",
-                                duration: 1
-                            }, "start");
-                            ScrollTrigger.create({
-                                trigger: backgroundInitial,
-                                start: "top",
-                                //end: "376% bottom",
-                                end: () => `${textMarquee.offsetHeight}px`,
-                                scrub: 1,
-                                pin: true,
-                                pinSpacing: true,
-                                invalidateOnRefresh: true,
-                            });
-                            //header stays at the top
-                            ScrollTrigger.create({
-                                trigger: headingContainer,
-                                start: "top 50%",
-                                end: "400% 50%",
-                                scrub: 1,
-                                animation: openingTextTl,
-                                invalidateOnRefresh: true,
-                            });
-                            ScrollTrigger.create({
-                                trigger: headingContainer,
-                                start: "top",
-                                end: "150% 50%",
-                                scrub: 1,
-                                pin: true,
-                                pinSpacing: false,
-                                invalidateOnRefresh: true,
-                            });
-                            const imagesTl = gsap.timeline();
-                            imagesTl.to(contentContainer.querySelector(".first-image"), {
-                                y: "-30%",
-                                duration: 2
-                            }, "startImages");
-                            imagesTl.to(contentContainer.querySelector(".second-image"), {
-                                y: "30%",
-                                duration: 2
-                            }, "startImages");
-                            imagesTl.to(contentContainer.querySelector(".third-image"), {
-                                y: "-60%",
-                                duration: 2
-                            }, "startImages");
-                            imagesTl.to(contentContainer.querySelector(".images-container"), {
-                                opacity: "0",
-                                duration: 0.75
-                            }, "startImages+=1.75");
-                            ScrollTrigger.create({
-                                trigger: headingContainer,
-                                start: "top",
-                                end: "250% 50%",
-                                scrub: 1,
-                                animation: imagesTl,
-                                invalidateOnRefresh: true,
-                            });
-                            const textOpacityTl = gsap.timeline();
-                            textOpacityTl.to(textContainer.querySelector(".text-opacity"), {
-                                opacity: 1,
-                                duration: 4,
-                                delay: 1
-                            });
-                            ScrollTrigger.create({
-                                trigger: textContainer,
-                                start: "top",
-                                end: "100%",
-                                scrub: 1,
-                                pin: true,
-                                pinSpacing: true,
-                                animation: textOpacityTl,
-                                invalidateOnRefresh: true,
-                            });
-                        }
 
-                        d.addEventListener("DOMContentLoaded", function(_event) {
-                            d.querySelectorAll(".text-marquee").forEach((textMarquee) => {
-                                init(textMarquee);
-                            });
+                    .text-marquee .third-image {
+                        margin-right: 12%;
+                    }
+
+                    .text-marquee .third-image .img-fluid {
+                        height: 194px;
+                    }
+                }
+
+                @media screen and (min-width: 992px) {
+                    .text-marquee .description {
+                        max-width: 1200px;
+                    }
+
+                    .text-marquee .type-eyebrow {
+                        margin-top: 200px;
+                    }
+
+                    .text-marquee .first-image .img-fluid {
+                        height: 296px;
+                    }
+
+                    .text-marquee .second-image .img-fluid {
+                        height: 210px;
+                    }
+
+                    .text-marquee .third-image {
+                        margin-top: 120px;
+                    }
+
+                    .text-marquee .third-image .img-fluid {
+                        height: 236px;
+                    }
+                }
+
+                @media screen and (min-width: 1200px) {
+                    .text-marquee .images-container {
+                        padding: 0 120px;
+                    }
+                }
+            </style>
+            <script type="text/javascript">
+                (function(d) {
+                    function init(textMarquee) {
+                        gsap.registerPlugin(ScrollTrigger);
+                        const headingContainer = textMarquee.querySelector(".heading-container");
+                        const contentContainer = textMarquee.querySelector(".content-container");
+                        const textContainer = contentContainer.querySelector(".text-container");
+                        const backgroundInitial = textMarquee.querySelector(".background-initial");
+                        const openingTextTl = gsap.timeline();
+                        openingTextTl.to(headingContainer.querySelectorAll(".text-animation:not(.second-item)"), {
+                            x: "-200%",
+                            duration: 1
+                        }, "start");
+                        openingTextTl.to(headingContainer.querySelector(".second-item"), {
+                            x: "200%",
+                            duration: 1
+                        }, "start");
+                        ScrollTrigger.create({
+                            trigger: backgroundInitial,
+                            start: "top",
+                            //end: "376% bottom",
+                            end: () => `${textMarquee.offsetHeight}px`,
+                            scrub: 1,
+                            pin: true,
+                            pinSpacing: true,
+                            invalidateOnRefresh: true,
                         });
-                    })(document);
-                </script>
+                        //header stays at the top
+                        ScrollTrigger.create({
+                            trigger: headingContainer,
+                            start: "top 50%",
+                            end: "400% 50%",
+                            scrub: 1,
+                            animation: openingTextTl,
+                            invalidateOnRefresh: true,
+                        });
+                        ScrollTrigger.create({
+                            trigger: headingContainer,
+                            start: "top",
+                            end: "150% 50%",
+                            scrub: 1,
+                            pin: true,
+                            pinSpacing: false,
+                            invalidateOnRefresh: true,
+                        });
+                        const imagesTl = gsap.timeline();
+                        imagesTl.to(contentContainer.querySelector(".first-image"), {
+                            y: "-30%",
+                            duration: 2
+                        }, "startImages");
+                        imagesTl.to(contentContainer.querySelector(".second-image"), {
+                            y: "30%",
+                            duration: 2
+                        }, "startImages");
+                        imagesTl.to(contentContainer.querySelector(".third-image"), {
+                            y: "-60%",
+                            duration: 2
+                        }, "startImages");
+                        imagesTl.to(contentContainer.querySelector(".images-container"), {
+                            opacity: "0",
+                            duration: 0.75
+                        }, "startImages+=1.75");
+                        ScrollTrigger.create({
+                            trigger: headingContainer,
+                            start: "top",
+                            end: "250% 50%",
+                            scrub: 1,
+                            animation: imagesTl,
+                            invalidateOnRefresh: true,
+                        });
+                        const textOpacityTl = gsap.timeline();
+                        textOpacityTl.to(textContainer.querySelector(".text-opacity"), {
+                            opacity: 1,
+                            duration: 4,
+                            delay: 1
+                        });
+                        ScrollTrigger.create({
+                            trigger: textContainer,
+                            start: "top",
+                            end: "100%",
+                            scrub: 1,
+                            pin: true,
+                            pinSpacing: true,
+                            animation: textOpacityTl,
+                            invalidateOnRefresh: true,
+                        });
+                    }
+
+                    d.addEventListener("DOMContentLoaded", function(_event) {
+                        d.querySelectorAll(".text-marquee").forEach((textMarquee) => {
+                            init(textMarquee);
+                        });
+                    });
+                })(document);
+            </script>
 
 
 
-                <div id="mod_5865131d" class="c06r r container-fluid background-color-offwhite text-base " data-cvx-module-name="c06r">
-                    <div class="inner-container centered width-1920" style="margin-top:60px;margin-bottom:60px;">
-                        <div class="width-1000 centered text-center text-container">
-                            <p class="type-eyebrow text-base color-dark-blue">what we do</p>
-                            <h2 class="type-display text-base header color-dark-blue">energy that fuels <nobr>the world</nobr>
-                            </h2>
-                            <div class="description width-600 type-body text-base">
-                                We’re working to deliver the energy needed today. To lower the carbon intensity of our operations. And to build the lower carbon energy system of tomorrow.
+            <div id="mod_215c5be0" class="r c73 container-fluid background-color-offwhite " data-cvx-module-name="c73">
+                <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
+                    <div class="heading-container">
+                        <h2 class="heading type-display text-elevated color-dark-green width-1000 centered">Certificados y Premios</h2>
+                    </div>
+                    <div class="content-container background-color-dark-green width-1400 centered">
+                        <div class="upper-content centered">
+                            <div class="image-container centered">
+                                <img src="-/media/chevron/homepage/images/storage_tablet97dc.svg?la=en&amp;hash=25A23CCC07F49866EC2C421B95FEF1A2" class="img-fluid" alt="" />
                             </div>
-                            <a href="what-we-do/energy.html" class="cta-button type-cta text-base" target=""> <span class="cta-glyphicon">
-                                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                </span>
-                                see our solutions</a>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_d096fbc1" class="r c72 container-fluid  background-color-offwhite" data-cvx-module-name="c72">
-                    <div class="inner-container centered" style="margin-top:0px;margin-bottom:40px;">
-                        <div class="large-layout-container">
-                            <style type="text/css">
-                                #mod_d096fbc1_1 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_01_large3e67.jpg?h=427&amp;hash=078081CC48156B93A0E5B137593EE346');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_1 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_01_large4d1c.jpg?h=463&amp;hash=21DFC79143F1D90EF71E0325535CEF6B');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_1" class="image-cell" style="background-position:center center;"></div>
-                            <style type="text/css">
-                                #mod_d096fbc1_2 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_04_large5674.jpg?h=427&amp;hash=0AF94D2F394B726483423DB4103FEAF3');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_2 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_04_large634e.jpg?h=463&amp;hash=8BA4D72E23AFCEBEE2E165399E5281B1');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_2" class="image-cell" style="background-position:center center;"></div>
-                            <style type="text/css">
-                                #mod_d096fbc1_3 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_06_largef213.jpg?h=427&amp;hash=BAB0FC85D23633E69D5CC40009F8A404');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_3 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_06_largef826.jpg?h=463&amp;hash=0A5E2761176E757DB6E16DD3268ABC66');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_3" class="image-cell" style="background-position:center center;"></div>
-                            <style type="text/css">
-                                #mod_d096fbc1_4 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_05_fallback_large32e1.jpg?h=427&amp;hash=B1C238B8CDBC7020942E6E25DC831FB5');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_4 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_05_fallback_large99d6.jpg?h=463&amp;hash=215A62CF06699C04B5868A82AA957854');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_4" class="image-cell" style="background-position:center center;"></div>
-                            <style type="text/css">
-                                #mod_d096fbc1_5 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_02_fallback_largebd17.jpg?h=427&amp;hash=B3B1BEF5A48CDA19B4B5A3E6153C61DF');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_5 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_02_fallback_largebace.jpg?h=463&amp;hash=3371D172596ABE4CF2D557371330BC98');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_5" class="image-cell" style="background-position:center center;"></div>
-                            <style type="text/css">
-                                #mod_d096fbc1_6 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_03_large37af.jpg?h=427&amp;hash=D8EAAE2DC7F83F5DC7664EB7C15AC9BF');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_6 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_03_large3995.jpg?h=463&amp;hash=D2A2FE53E0F74504B4A1740F42CE5BB9');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_6" class="image-cell" style="background-position:center center;"></div>
-                            <style type="text/css">
-                                #mod_d096fbc1_7 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_07_large6475.jpg?h=427&amp;hash=E30823397E79070C2F35230927F24781');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_7 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_07_large8611.jpg?h=463&amp;hash=2227421D8F876FC7057619F7AEDC51F2');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_7" class="image-cell" style="background-position:center center;"></div>
-                            <style type="text/css">
-                                #mod_d096fbc1_8 {
-                                    background-image: url('-/media/chevron/homepage/images/wwd_08_fallback_large3d83.jpg?h=427&amp;hash=0E387D23782E93754816BDEBD9EBB409');
-                                }
-
-                                @media screen and (min-width: 768px) {
-                                    #mod_d096fbc1_8 {
-                                        background-image: url('-/media/chevron/homepage/images/wwd_08_fallback_large8720.jpg?h=463&amp;hash=E0A0CFAD326F0A32CADFD57FF5CC7CE2');
-                                    }
-                                }
-                            </style>
-                            <div id="mod_d096fbc1_8" class="image-cell" style="background-position:center center;"></div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div id="mod_215c5be0" class="r c73 container-fluid background-color-offwhite " data-cvx-module-name="c73">
-                    <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
-                        <div class="heading-container">
-                            <h2 class="heading type-display text-elevated color-dark-green width-1000 centered">lower carbon solutions</h2>
-                        </div>
-                        <div class="content-container background-color-dark-green width-1400 centered">
-                            <div class="upper-content centered">
-                                <div class="image-container centered">
-                                    <img src="-/media/chevron/homepage/images/storage_tablet97dc.svg?la=en&amp;hash=25A23CCC07F49866EC2C421B95FEF1A2" class="img-fluid" alt="" />
-                                </div>
-                                <div class="text-container">
-                                    <h3 class="sub-heading text-left type-display text-reduced text-super color-medium-green color-important">carbon capture and storage</h3>
-                                    <div class="description type-body text-base">
-                                        We’re targeting 25 million tonnes of CO2 per year in offsets business and CCUS by the end of this decade. Captured carbon emissions are safely stored several thousand feet below ground.
-                                    </div>
-                                    <div class="cta-container">
-                                        <a href="what-we-do/technology-and-innovation/capturing-and-storing-carbon-emissions.html" class="cta-button type-cta text-base" target=""> <span class="cta-glyphicon">
-                                                <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                            </span>
-                                            learn about CCS</a>
-                                    </div>
-
+                            <div class="text-container">
+                                <h3 class="sub-heading text-left type-display text-reduced text-super color-medium-green color-important">Certificación ISO</h3>
+                                <div class="description type-body text-base">
+                                    Cumplimos con los más altos estándares de calidad.
                                 </div>
                             </div>
 
                         </div>
+                        <div class="upper-content centered">
+                            <div class="image-container centered">
+                                <img src="-/media/chevron/homepage/images/storage_tablet97dc.svg?la=en&amp;hash=25A23CCC07F49866EC2C421B95FEF1A2" class="img-fluid" alt="" />
+                            </div>
+                            <div class="text-container">
+                                <h3 class="sub-heading text-left type-display text-reduced text-super color-medium-green color-important">Premio a la Exelencia</h3>
+                                <div class="description type-body text-base">
+                                    Reconocimiento a nuestra dedicación y servicio.
+                                </div>
+                            </div>
 
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+    </div>
+
+
+    <div id="mod_d187c1f3" class="c11 container-fluid  column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
+        <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
+            <div class="parent-text-container centered text-center r">
+                <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">Opiniones de Clientes Satisfechos</h3>
+            </div>
+            <div class="c11-container">
+
+
+                <div class="tile fact-tile bg-dark-blue theme-text-white">
+                    <div class="fact-tile-inner text-center">
+
+                        <p class="figure theme-text-color font-gotham text-bold">Juan Pérez</p>
+                        <p class="description theme-text-color body-2">"El servicio de Gas de Provincia es excepcional. Siempre puntuales y con atención personalizada" </p>
                     </div>
                 </div>
 
 
+                <div class="tile fact-tile bg-dark-blue theme-text-white">
+                    <div class="fact-tile-inner text-center">
 
+                        <p class="figure theme-text-color font-gotham text-bold">María López</p>
+                        <p class="description theme-text-color body-2">"Confío plenamente en la seguridad y calidad del gas que nos suministran. Altamente recomendable."</p>
+                    </div>
+                </div>
 
-                <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
-                    <div class="inner-container centered" style="margin-top:0px;">
-                        <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
-                            <div class="articles">
-                                <div class="splide-wrapper">
-                                    <div class="opening-content">
-                                        <div>
-                                            <p class="type-eyebrow color-dark-blue">newsroom</p>
-                                            <h3 class="type-header text-base main-header color-dark-blue">latest at chevron</h3>
+            </div>
+
+            <div class="modal-container">
+            </div>
+        </div>
+    </div>
+
+    <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
+        <div class="inner-container centered" style="margin-top:0px;">
+            <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
+
+                <div class="articles">
+                    <div class="splide-wrapper">
+                        <div class="opening-content">
+                            <div>
+                                <p class="type-eyebrow color-dark-blue">Gas LP</p>
+                                <h3 class="type-header text-base main-header color-dark-blue">Lo más relevante</h3>
+                            </div>
+                        </div>
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                <a class="splide__slide cta-link-parent" href="">
+                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                        <div class="opacity-cover"></div>
+                                        <div class="image-container">
+                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                        </div>
+                                        <div class="content-container text-left">
+                                            <p class="type-body text-caption date">Consejos de Seguridad para el Uso de Gas LP en el Hogar</p>
+                                            <h4 class="type-subhead text-reduced slide-header">Descubre cómo mantener tu hogar seguro con estos prácticos consejos.</h4>
+                                            <p class="cta-container">
+                                                <span class="cta-link type-cta text-base">
+                                                    <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">Saber más</span>
+                                                </span>
+                                            </p>
                                         </div>
                                     </div>
-                                    <div class="splide__track">
-                                        <div class="splide__list">
-
-                                            <a class="splide__slide cta-link-parent" href="newsroom/2024/q3/marking-a-century-of-progress-in-indonesia.html">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">August 27, 2024</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">marking a century of progress in Indonesia</h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline">read article</span>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a class="splide__slide cta-link-parent" href="newsroom/events/chevron-at-gastech-2024.html">
-                                                <div class="inner-slide-wrapper background-color-dark-teal">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/chevron-at-gastech-2024-01eba6.jpg?h=216&amp;hash=0590EA7E4706021D1EE86FC74E5C123E" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">August 26, 2024</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">chevron at gastech 2024</h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline">read article</span>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a class="splide__slide cta-link-parent" href="newsroom/2024/q3/titan-drillship-charts-new-territory.html">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/titan-drillship-charters-new-territory-01db9a.jpg?h=216&amp;hash=80A6DFAF6E863C0E0BAFB5073EC5DE3A" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">August 26, 2024</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">titan drillship charts new territory</h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline">read article</span>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a class="splide__slide cta-link-parent" href="newsroom/2024/q3/1st-us-hydrogen-powered-passenger-ferry-open-for-business.html">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/1st-us-hydrogen-powered-passenger-ferry-open-for-business-hero7949.jpg?h=216&amp;hash=19AE6DFA1E96880A6CD3C3E43E2AB0F5" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">August 23, 2024</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">1st US hydrogen-powered passenger ferry open for business</h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline">read article</span>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a class="splide__slide cta-link-parent" href="newsroom/2024/q3/chevron-powers-up-engineering-and-innovation-engine-in-india.html">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/worldwide/images/chevron-worldwide-india-ogc303.jpg?h=216&amp;hash=D3A0AAE6EF57AB56C239D2DCD20E2C72" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">August 20, 2024</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">chevron powers up engineering and innovation ENGINE in india</h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline">read article</span>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a class="splide__slide cta-link-parent" href="newsroom/2024/q3/mini-robots-clean-platforms-underwater.html">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/mini-robots-clean-platforms-underwater-hero3dd9.jpg?h=216&amp;hash=7F4172C18CBD541CADDBD43D380C4B76" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">August 20, 2024</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">mini robots clean platforms underwater</h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline">read article</span>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </a>
-
+                                </a>
+                                <a class="splide__slide cta-link-parent" href="">
+                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                        <div class="opacity-cover"></div>
+                                        <div class="image-container">
+                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                        </div>
+                                        <div class="content-container text-left">
+                                            <p class="type-body text-caption date">Innovaciones en el Transporte de Gas LP</p>
+                                            <h4 class="type-subhead text-reduced slide-header">Conoce las últimas tecnologías en el transporte de gas LP.</h4>
+                                            <p class="cta-container">
+                                                <span class="cta-link type-cta text-base">
+                                                    <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">Saber más</span>
+                                                </span>
+                                            </p>
                                         </div>
                                     </div>
-                                </div>
+                                </a>
+                                <a class="splide__slide cta-link-parent" href="">
+                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                        <div class="opacity-cover"></div>
+                                        <div class="image-container">
+                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                        </div>
+                                        <div class="content-container text-left">
+                                            <p class="type-body text-caption date">Suscríbete a Nuestro Boletín</p>
+                                            <h4 class="type-subhead text-reduced slide-header">Recibe las últimas noticias y ofertas especiales directamente en tu correo.</h4>
+                                            <p class="cta-container">
+                                                <span class="cta-link type-cta text-base">
+                                                    <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">Saber más</span>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                                <a class="splide__slide cta-link-parent" href="">
+                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                        <div class="opacity-cover"></div>
+                                        <div class="image-container">
+                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                        </div>
+                                        <div class="content-container text-left">
+                                            <p class="type-body text-caption date">Contactanos</p>
+                                            <h4 class="type-subhead text-reduced slide-header">Ponte en contacto con nuestro equipo de trabajo.</h4>
+                                            <p class="cta-container">
+                                                <span class="cta-link type-cta text-base">
+                                                    <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">Saber más</span>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                                <a class="splide__slide cta-link-parent" href="">
+                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                        <div class="opacity-cover"></div>
+                                        <div class="image-container">
+                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                        </div>
+                                        <div class="content-container text-left">
+                                            <p class="type-body text-caption date">Registrate</p>
+                                            <h4 class="type-subhead text-reduced slide-header">Registrate con nosotros.</h4>
+                                            <p class="cta-container">
+                                                <span class="cta-link type-cta text-base">
+                                                    <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">Saber más</span>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
+                                <a class="splide__slide cta-link-parent" href="">
+                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                        <div class="opacity-cover"></div>
+                                        <div class="image-container">
+                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                        </div>
+                                        <div class="content-container text-left">
+                                            <p class="type-body text-caption date">Compra</p>
+                                            <h4 class="type-subhead text-reduced slide-header">Adquiere alguno de nuestros productos.</h4>
+                                            <p class="cta-container">
+                                                <span class="cta-link type-cta text-base">
+                                                    <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">Saber más</span>
+                                                </span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </a>
                             </div>
-                            <div class="control">
-                                <div class="splide__arrows">
-                                    <button class="splide__arrow splide__arrow--prev cta-button secondary">
-                                        <span class="cta-glyphicon">
-                                            <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
-                                        </span>
-                                    </button>
-                                </div>
-                                <ul class="splide__pagination"></ul>
-                                <div class="splide__arrows">
-                                    <button class="splide__arrow splide__arrow--next cta-button secondary">
-                                        <span class="cta-glyphicon">
-                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                        </span>
-                                    </button>
-                                </div>
-                            </div>
-                        </section>
+                        </div>
                     </div>
                 </div>
 
-
-                <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
-                    <div class="toast-header">
-                        <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
-                            <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
+                <div class="control">
+                    <div class="splide__arrows">
+                        <button class="splide__arrow splide__arrow--prev cta-button secondary">
+                            <span class="cta-glyphicon">
+                                <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
+                            </span>
                         </button>
                     </div>
-                    <div class="toast-body font-gotham">
-                        <p class="toast-message">subscribe to our newsletter to receive news and updates.</p>
-                        <div class="mt-2 pt-2 primary-link">
-                            <a href="newsroom/subscribe.html" class="link signup-button theme-bg-color" target="">sign up now</a>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
-                <style>
-                    #mod_200e951a div#splide01-track {
-                        margin-bottom: 0;
-                    }
-
-                    #mod_215c5be0 .color-medium-green.color-important {
-                        color: #B2CC34 !important;
-                    }
-
-                    #mod_215c5be0 .image-container {
-                        margin-top: 120px
-                    }
-
-                    #mod_215c5be0 .image-container img {
-                        border-radius: 16px;
-                    }
-
-                    @media screen and (max-width: 768px) {
-                        #mod_215c5be0 .image-container {
-                            margin-top: 30px
-                        }
-
-                        #mod_215c5be0 .image-container img {
-                            border-radius: 12px;
-                            width: 100%
-                        }
-                    }
-
-                    .video-common .video-container .video {
-                        width: 100%;
-                        max-width: 100%
-                    }
-
-                    .c70 .background,
-                    .c70 .video-container {
-                        max-width: 100%
-                    }
-
-                    .c70 .list-item .text-container {
-                        -webkit-backdrop-filter: blur(10px) opacity(1);
-                    }
-
-                    #mod_f92a6c4a {
-                        background-position: 80% center !important;
-                    }
-                </style>
-
-
-            </div>
-
-
-        </main>
-
-        <footer id="footer" class="r footer-2023 container-fluid background-color-dark-blue " data-cvx-module-name="footer">
-            <div class="row main-row width-1200 centered">
-                <div class="col-12 col-md-6 col-lg-4 left-col">
-                    <div class="image-container">
-                        <img src="-/media/chevron/Footer/footer-hallmark7102.svg?h=131&amp;w=200&amp;la=en&amp;hash=01934D32B4670AE47B0829C6662F7A2E" height="131" width="200" class="img-fluid" alt="the human energy company" />
-                    </div>
-                    <div class="description type-body text-reduced">
-                        <p>Chevron has always put people at the center of the energy conversation. Because we understand that the well-being of people everywhere depends on energy. Energy that is affordable, reliable and ever-cleaner.</p>
-                    </div>
-                    <div class="cta-container">
-                        <a href="newsroom/subscribe.html" class="cta-link type-cta text-reduced" target=""> <span class="cta-glyphicon">
+                    <ul class="splide__pagination"></ul>
+                    <div class="splide__arrows">
+                        <button class="splide__arrow splide__arrow--next cta-button secondary">
+                            <span class="cta-glyphicon">
                                 <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
                             </span>
-                            <span class="cta-underline">subscribe to our newsletter</span>
-                        </a>
+                        </button>
                     </div>
                 </div>
-                <div class="col-12 col-md-6 col-lg-8 right-col">
-                    <div id="footer-accordion" class="accordion">
-                        <div class="accordion-item">
-                            <button id="heading-0" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-0" aria-expanded="true" aria-controls="collapse-0">get to know us</button>
-                            <ul id="collapse-0" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-0" data-bs-parent="#footer-accordion" data-item-index="0">
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are.html" class="cta-link accordion-link"> <span class="cta-underline">who we are</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are/leadership.html" class="cta-link accordion-link"> <span class="cta-underline">our leadership</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="what-we-do.html" class="cta-link accordion-link"> <span class="cta-underline">what we do</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are/our-brands.html" class="cta-link accordion-link"> <span class="cta-underline">our brands</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="what-we-do/technology-and-innovation.html" class="cta-link accordion-link"> <span class="cta-underline">technology and innovation</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="sustainability.html" class="cta-link accordion-link"> <span class="cta-underline">sustainability</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="worldwide.html" class="cta-link accordion-link"> <span class="cta-underline">chevron around the world</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="investors.html" class="cta-link accordion-link"> <span class="cta-underline">investor relations</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="accordion-item">
-                            <button id="heading-1" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">latest at chevron</button>
-                            <ul id="collapse-1" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-1" data-bs-parent="#footer-accordion" data-item-index="1">
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="newsroom.html" class="cta-link accordion-link"> <span class="cta-underline">newsroom</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="investors/events-presentations.html" class="cta-link accordion-link"> <span class="cta-underline">investors events and presentations</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="investors/reports-and-filings.html" class="cta-link accordion-link"> <span class="cta-underline">financial information</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="investors/stock-and-dividend.html" class="cta-link accordion-link"> <span class="cta-underline">stock information</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="what-we-do/technology-and-innovation/technology-ventures.html" class="cta-link accordion-link"> <span class="cta-underline">technology ventures</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="accordion-item">
-                            <button id="heading-2" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">future of energy</button>
-                            <ul id="collapse-2" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-2" data-bs-parent="#footer-accordion" data-item-index="2">
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="what-we-do/technology-and-innovation/capturing-and-storing-carbon-emissions.html" class="cta-link accordion-link"> <span class="cta-underline">carbon capture and storage</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are/energy-in-progress.html" class="cta-link accordion-link"> <span class="cta-underline">energy in progress</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="what-we-do/energy/new-energies.html" class="cta-link accordion-link"> <span class="cta-underline">new energies</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="what-we-do/energy/fuels/renewable-fuels-in-transportation.html" class="cta-link accordion-link"> <span class="cta-underline">renewable fuels in transportation</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="newsroom/2022/q3/methane-management.html" class="cta-link accordion-link"> <span class="cta-underline">methane management</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="accordion-item">
-                            <button id="heading-3" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="true" aria-controls="collapse-3">popular links</button>
-                            <ul id="collapse-3" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-3" data-bs-parent="#footer-accordion" data-item-index="3">
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are/our-brands/gift-credit-cards.html" class="cta-link accordion-link"> <span class="cta-underline">credit and gift cards</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="https://www.chevrontexacorewards.com/" class="cta-link accordion-link" rel="noopener noreferrer" target="_blank"> <span class="cta-underline">chevron texaco rewards</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are/contact/jobs.html" class="cta-link accordion-link"> <span class="cta-underline">careers</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are/contact.html" class="cta-link accordion-link"> <span class="cta-underline">contact us</span>
-                                    </a>
-                                </li>
-                                <li class="accordion-list-item type-body text-reduced">
-                                    <a href="who-we-are/our-brands/fuel-stations.html" class="cta-link accordion-link"> <span class="cta-underline">find a service station</span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
+            </section>
+        </div>
+    </div>
 
+    <div>
+        <div class="col col-12 width-800 centered text-container">
+            <h1 class="headline dark-blue"><BR> Productos Y Servicios Destacados</h1>
+        </div>
+
+        <div id="mod_31b75867" class="x09 container-fluid  section-bg-color bg-white" data-cvx-module-name="x09">
+            <div class="inner-container centered width-1200" style="margin-bottom:60px;">
+
+                <ul class="nav nav-tabs font-gotham icon-list" role="tablist">
+                    <li role="presentation" class="nav-item">
+                        <a class="secondary-link nav-link active" data-bs-toggle="tab" href="#tabpanel_8fd0ce04"
+                            id="tab_8fd0ce04" aria-controls="tabpanel_8fd0ce04" aria-selected="true" tabindex="0" role="tab">
+                            <span class="underline">Tanques Estacionarios</span>
+                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a class="secondary-link nav-link " data-bs-toggle="tab" href="#tabpanel_5f47e823" id="tab_5f47e823"
+                            aria-controls="tabpanel_5f47e823" aria-selected="false" tabindex="-1" role="tab">
+                            <span class="underline">Cilindros Portátiles</span>
+                        </a>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <a class="secondary-link nav-link " data-bs-toggle="tab" href="#tabpanel_adb27da7" id="tab_adb27da7"
+                            aria-controls="tabpanel_adb27da7" aria-selected="false" tabindex="-1" role="tab">
+                            <span class="underline">Servicios de Mantenimiento</span>
+                        </a>
+                    </li>
+                </ul>
+
+
+                <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane active" id="tabpanel_8fd0ce04" aria-labelledby="tab_8fd0ce04">
+                        <div id="mod_8fd0ce04" class="c06 container-fluid   section-bg-color bg-white"
+                            data-cvx-module-name="c06">
+                            <div class="inner-container col centered width-800" style="margin-top:0px;margin-bottom:60px;">
+                                <h2 class="headline dark-blue">Tanques Estacionarios</h2>
+                                <div class="body width-600 centered">
+                                    <div class="width-600 centered">
+                                        <img src="../-/media/chevron/about/images/pacific-coast-oildde8.jpg?"
+                                            width="600"
+                                            height="400" 
+                                            style="max-width: 100%; max-height: width 100px;"/>
+                                    </div>
+                                    <h3 style="text-align: center;" class="dark-blue">
+                                        Ideal para grandes consumos.
+                                        <br>
+                                        Ofresemos tanques estacionarios con instalación segura y mantenimiento garantizado.
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane " id="tabpanel_5f47e823" aria-labelledby="tab_5f47e823">
+                        <div id="mod_5f47e823" class="c06 container-fluid   section-bg-color bg-white"
+                            data-cvx-module-name="c06">
+                            <div class="inner-container col centered width-800" style="margin-bottom:60px;">
+                                <h2 class="headline dark-blue">Cilindros Portátiles</h2>
+                                <div class="body width-600 centered">
+                                    <div class="width-600 centered">
+                                        <img src="../-/media/chevron/about/images/1915-social-sausalito-horse-wagon.jpg"
+                                            height="400"
+                                            width="600"
+                                            style="max-width: 100%; max-height: width 100px;" />
+                                    </div>
+                                    <h3 style="text-align: center;" class="dark-blue">
+                                        Perfectos para uso doméstico y pequeñas empresas.
+                                        <br>
+                                        Disponibles en capacidades de 20 y 30 litros.
+                                    </h3>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane" id="tabpanel_adb27da7" aria-labelledby="tab_adb27da7">
+                        <div id="mod_adb27da7" class="c06 container-fluid   section-bg-color bg-white"
+                            data-cvx-module-name="c06">
+                            <div class="inner-container col centered width-800" style="margin-bottom:60px;">
+                                <h2 class="headline dark-blue">Servicios de Mantenimiento</h2>
+                                <div class="body width-600 centered">
+                                    <div class="width-600 centered">
+                                        <img src="../-/media/chevron/about/images/chevron-history-in-war-and-peace.jpg"
+                                            width="600"
+                                            height="400"
+                                            style="max-width: 100%; max-height: width 100px;" />
+                                        <h3 style="text-align: center;" class="dark-blue">
+                                            Mantenimiento preventivo y correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="row social-row width-1200 centered">
-                <div class="col-12 col-lg-7 left-col">
-                    <ul class="global-links list-unstyled">
-                        <li class="global-list-item type-body text-caption">
-                            <a href="global-pages/site-map.html" class="cta-link global-link"> <span class="cta-underline">site map</span>
-                            </a>
-                        </li>
-                        <li class="global-list-item type-body text-caption">
-                            <a href="accessibility.html" class="cta-link global-link"> <span class="cta-underline">accessibility</span>
-                            </a>
-                        </li>
-                        <li class="global-list-item type-body text-caption">
-                            <a href="terms-of-use.html" class="cta-link global-link"> <span class="cta-underline">terms of use</span>
-                            </a>
-                        </li>
-                        <li class="global-list-item type-body text-caption">
-                            <a href="privacy.html" class="cta-link global-link"> <span class="cta-underline">privacy</span>
-                            </a>
-                        </li>
-                        <li class="global-list-item type-body text-caption">
-                            <a href="javascript:OneTrust.ToggleInfoDisplay()" class="cta-link global-link"> <span class="cta-underline">cookie settings</span>
-                            </a>
-                        </li>
-                        <li class="global-list-item type-body text-caption">
-                            <a href="privacy/global-cookie-statement.html" class="cta-link global-link"> <span class="cta-underline">cookie statement</span>
-                            </a>
-                        </li>
-                        <li class="geo-link type-cta text-caption" data-cvx-countries="{
+        </div>
+    </div>
+
+
+    <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
+        <div class="toast-header">
+            <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
+                <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
+            </button>
+        </div>
+        <div class="toast-body font-gotham">
+            <p class="toast-message">subscribe to our newsletter to receive news and updates.</p>
+            <div class="mt-2 pt-2 primary-link">
+                <a href="newsroom/subscribe.html" class="link signup-button theme-bg-color" target="">sign up now</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <style>
+        #mod_200e951a div#splide01-track {
+            margin-bottom: 0;
+        }
+
+        #mod_215c5be0 .color-medium-green.color-important {
+            color: #B2CC34 !important;
+        }
+
+        #mod_215c5be0 .image-container {
+            margin-top: 120px
+        }
+
+        #mod_215c5be0 .image-container img {
+            border-radius: 16px;
+        }
+
+        @media screen and (max-width: 768px) {
+            #mod_215c5be0 .image-container {
+                margin-top: 30px
+            }
+
+            #mod_215c5be0 .image-container img {
+                border-radius: 12px;
+                width: 100%
+            }
+        }
+
+        .video-common .video-container .video {
+            width: 100%;
+            max-width: 100%
+        }
+
+        .c70 .background,
+        .c70 .video-container {
+            max-width: 100%
+        }
+
+        .c70 .list-item .text-container {
+            -webkit-backdrop-filter: blur(10px) opacity(1);
+        }
+
+        #mod_f92a6c4a {
+            background-position: 80% center !important;
+        }
+    </style>
+
+
+    </div>
+
+
+    </main>
+
+    <footer id="footer" class="r footer-2023 container-fluid background-color-dark-blue " data-cvx-module-name="footer">
+        <div class="row main-row width-1200 centered">
+            <div class="col-12 col-md-6 col-lg-4 left-col">
+                <div class="image-container">
+                    <img src="-/media/chevron/Footer/footer-hallmark7102.svg?h=131&amp;w=200&amp;la=en&amp;hash=01934D32B4670AE47B0829C6662F7A2E" height="131" width="200" class="img-fluid" alt="the human energy company" />
+                </div>
+                <div class="description type-body text-reduced">
+                    <p>Chevron has always put people at the center of the energy conversation. Because we understand that the well-being of people everywhere depends on energy. Energy that is affordable, reliable and ever-cleaner.</p>
+                </div>
+                <div class="cta-container">
+                    <a href="newsroom/subscribe.html" class="cta-link type-cta text-reduced" target=""> <span class="cta-glyphicon">
+                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                        </span>
+                        <span class="cta-underline">subscribe to our newsletter</span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-lg-8 right-col">
+                <div id="footer-accordion" class="accordion">
+                    <div class="accordion-item">
+                        <button id="heading-0" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-0" aria-expanded="true" aria-controls="collapse-0">get to know us</button>
+                        <ul id="collapse-0" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-0" data-bs-parent="#footer-accordion" data-item-index="0">
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are.html" class="cta-link accordion-link"> <span class="cta-underline">who we are</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are/leadership.html" class="cta-link accordion-link"> <span class="cta-underline">our leadership</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="what-we-do.html" class="cta-link accordion-link"> <span class="cta-underline">what we do</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are/our-brands.html" class="cta-link accordion-link"> <span class="cta-underline">our brands</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="what-we-do/technology-and-innovation.html" class="cta-link accordion-link"> <span class="cta-underline">technology and innovation</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="sustainability.html" class="cta-link accordion-link"> <span class="cta-underline">sustainability</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="worldwide.html" class="cta-link accordion-link"> <span class="cta-underline">chevron around the world</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="investors.html" class="cta-link accordion-link"> <span class="cta-underline">investor relations</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="heading-1" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">latest at chevron</button>
+                        <ul id="collapse-1" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-1" data-bs-parent="#footer-accordion" data-item-index="1">
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="newsroom.html" class="cta-link accordion-link"> <span class="cta-underline">newsroom</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="investors/events-presentations.html" class="cta-link accordion-link"> <span class="cta-underline">investors events and presentations</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="investors/reports-and-filings.html" class="cta-link accordion-link"> <span class="cta-underline">financial information</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="investors/stock-and-dividend.html" class="cta-link accordion-link"> <span class="cta-underline">stock information</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="what-we-do/technology-and-innovation/technology-ventures.html" class="cta-link accordion-link"> <span class="cta-underline">technology ventures</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="heading-2" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">future of energy</button>
+                        <ul id="collapse-2" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-2" data-bs-parent="#footer-accordion" data-item-index="2">
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="what-we-do/technology-and-innovation/capturing-and-storing-carbon-emissions.html" class="cta-link accordion-link"> <span class="cta-underline">carbon capture and storage</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are/energy-in-progress.html" class="cta-link accordion-link"> <span class="cta-underline">energy in progress</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="what-we-do/energy/new-energies.html" class="cta-link accordion-link"> <span class="cta-underline">new energies</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="what-we-do/energy/fuels/renewable-fuels-in-transportation.html" class="cta-link accordion-link"> <span class="cta-underline">renewable fuels in transportation</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="newsroom/2022/q3/methane-management.html" class="cta-link accordion-link"> <span class="cta-underline">methane management</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="heading-3" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="true" aria-controls="collapse-3">popular links</button>
+                        <ul id="collapse-3" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-3" data-bs-parent="#footer-accordion" data-item-index="3">
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are/our-brands/gift-credit-cards.html" class="cta-link accordion-link"> <span class="cta-underline">credit and gift cards</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="https://www.chevrontexacorewards.com/" class="cta-link accordion-link" rel="noopener noreferrer" target="_blank"> <span class="cta-underline">chevron texaco rewards</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are/contact/jobs.html" class="cta-link accordion-link"> <span class="cta-underline">careers</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are/contact.html" class="cta-link accordion-link"> <span class="cta-underline">contact us</span>
+                                </a>
+                            </li>
+                            <li class="accordion-list-item type-body text-reduced">
+                                <a href="who-we-are/our-brands/fuel-stations.html" class="cta-link accordion-link"> <span class="cta-underline">find a service station</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="row social-row width-1200 centered">
+            <div class="col-12 col-lg-7 left-col">
+                <ul class="global-links list-unstyled">
+                    <li class="global-list-item type-body text-caption">
+                        <a href="global-pages/site-map.html" class="cta-link global-link"> <span class="cta-underline">site map</span>
+                        </a>
+                    </li>
+                    <li class="global-list-item type-body text-caption">
+                        <a href="accessibility.html" class="cta-link global-link"> <span class="cta-underline">accessibility</span>
+                        </a>
+                    </li>
+                    <li class="global-list-item type-body text-caption">
+                        <a href="terms-of-use.html" class="cta-link global-link"> <span class="cta-underline">terms of use</span>
+                        </a>
+                    </li>
+                    <li class="global-list-item type-body text-caption">
+                        <a href="privacy.html" class="cta-link global-link"> <span class="cta-underline">privacy</span>
+                        </a>
+                    </li>
+                    <li class="global-list-item type-body text-caption">
+                        <a href="javascript:OneTrust.ToggleInfoDisplay()" class="cta-link global-link"> <span class="cta-underline">cookie settings</span>
+                        </a>
+                    </li>
+                    <li class="global-list-item type-body text-caption">
+                        <a href="privacy/global-cookie-statement.html" class="cta-link global-link"> <span class="cta-underline">cookie statement</span>
+                        </a>
+                    </li>
+                    <li class="geo-link type-cta text-caption" data-cvx-countries="{
   &quot;countrylinks&quot;: [
     {
       &quot;countrycode&quot;: &quot;US&quot;,
@@ -1309,52 +1275,52 @@
     }
   ]
 }">
-                            <a href="index.html" class="cta-link">
-                                <span class="cta-glyphicon">
-                                    <span class="glyphicon glyphicon-2023-internet-on" aria-hidden="true"></span>
-                                </span>
-                                <span class="cta-underline">United States</span>
-                            </a>
-                        </li>
-                    </ul>
+                        <a href="index.html" class="cta-link">
+                            <span class="cta-glyphicon">
+                                <span class="glyphicon glyphicon-2023-internet-on" aria-hidden="true"></span>
+                            </span>
+                            <span class="cta-underline">United States</span>
+                        </a>
+                    </li>
+                </ul>
 
-                </div>
-                <div class="col-12 col-lg-5 right-col">
-                    <ul class="social-links list-unstyled">
-                        <li>
-                            <a href="https://www.facebook.com/Chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/facebook.svg" alt="facebook" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://twitter.com/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/twitter.svg" alt="twitter" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.instagram.com/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/instagram.svg" alt="instagram" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.tiktok.com/@chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/tiktok.svg" alt="instagram" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.youtube.com/user/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/youtube.svg" alt="youtube" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://www.linkedin.com/company/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/linkedin.svg" alt="linkedin" />
-                            </a>
-                        </li>
-                    </ul>
-                </div>
             </div>
-            <div class="copyright-row centered width-1200">
+            <div class="col-12 col-lg-5 right-col">
+                <ul class="social-links list-unstyled">
+                    <li>
+                        <a href="https://www.facebook.com/Chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/facebook.svg" alt="facebook" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/twitter.svg" alt="twitter" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/instagram.svg" alt="instagram" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.tiktok.com/@chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/tiktok.svg" alt="instagram" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/user/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/youtube.svg" alt="youtube" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.linkedin.com/company/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="-/media/chevron/Footer/linkedin.svg" alt="linkedin" />
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="copyright-row centered width-1200">
 
-                <div class="copyright type-body text-caption">
-                    <p>&copy; 2001 &ndash; 2024 Chevron Corporation. <span class="d-block d-md-inline">All rights reserved.</span></p>
-                </div>
+            <div class="copyright type-body text-caption">
+                <p>&copy; 2001 &ndash; 2024 Chevron Corporation. <span class="d-block d-md-inline">All rights reserved.</span></p>
             </div>
-        </footer>
+        </div>
+    </footer>
     </div>
     <script src="bundles/siteNavigationb9c1?v=9Kd8nQjERRHmWsj1-_ve2HyH3ztwPW5Fs5o0-YIEJI01"></script>
 

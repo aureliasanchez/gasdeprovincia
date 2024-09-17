@@ -162,9 +162,9 @@
 
                     <div class="inner-container row centered width-1200" style="margin-top:0px;margin-bottom:10px;">
                         <div class="col col-12 width-800 centered text-container">
-                            <h1 class="headline dark-blue">chevron worldwide</h1>
+                            <h1 class="headline dark-blue">Medidas de seguridad</h1>
                             <div class="body width-600 centered">
-                                <span style="text-align: center;">Chevron conducts business all around the globe. The links below will provide you with detailed information for the countries where Chevron&rsquo;s work is most extensive.</span><br>
+                                <span style="text-align: center;">Adoptar y mantener estrictas medidas de seguridad es esencial para prevenir accidentes y garantizar el bienestar de nuestros clientes y sus instalaciones.</span><br>
                                 <div><span style="text-align: center;"><br>
                                     </span></div>
                             </div>
@@ -177,11 +177,9 @@
 
                 <div id="mod_03ab109b" class="c11 container-fluid  column-count-3 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
                     <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
-                        <div class="parent-text-container centered text-center r">
+                        <div class="parent-text-container centered text-center r"></div>
 
-                        </div>
                         <div class="c11-container">
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
@@ -189,14 +187,14 @@
                                     </div>
                                     <!--Displaying anchor tag if url is available-->
                                     <p class="margin-0">
-                                        <a href="https://angola.chevron.com/en/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Angola website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
+                                        <a class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank">
+                                            <span class="underline">
+                                                Mantén los cilindros retirados de cualquier instalación eléctrica para prevenir cortocircuitos y posibles explosiones.
+                                            </span>
+                                        </a>
                                     </p>
-
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
@@ -204,14 +202,15 @@
                                     </div>
                                     <!--Displaying anchor tag if url is available-->
                                     <p class="margin-0">
-                                        <a href="worldwide/argentina.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Argentina summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
+                                        <a class="secondary-link medium-blue" target="_blank">
+                                            <span class="underline">
+                                                Protege los cilindros de cualquier posible daño causado por animales.
+                                            </span>
                                         </a>
                                     </p>
 
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
@@ -219,14 +218,15 @@
                                     </div>
                                     <!--Displaying anchor tag if url is available-->
                                     <p class="margin-0">
-                                        <a href="https://australia.chevron.com/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Australia website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
+                                        <a class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank">
+                                            <span class="underline">
+                                                Coloca los cilindros sobre un suelo nivelado y que ofrezca protección contra movimientos bruscos.
+                                            </span>
+                                        </a>
                                     </p>
 
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
@@ -234,14 +234,14 @@
                                     </div>
                                     <!--Displaying anchor tag if url is available-->
                                     <p class="margin-0">
-                                        <a href="https://bangladesh.chevron.com/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Bangladesh website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
+                                        <a class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank">
+                                            <span class="underline">
+                                                Mantén los cilindros alejados de objetos o materiales inflamables que puedan generar riesgos de incendio.
+                                            </span>
+                                        </a>
                                     </p>
-
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
@@ -249,14 +249,14 @@
                                     </div>
                                     <!--Displaying anchor tag if url is available-->
                                     <p class="margin-0">
-                                        <a href="https://brazil.chevron.com/en/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Brazil website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
+                                        <a class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank">
+                                            <span class="underline">
+                                                Siempre que sea posible, instala los cilindros en azoteas para evitar la acumulación de gas en espacios cerrados.
+                                            </span>
+                                        </a>
                                     </p>
-
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
@@ -264,29 +264,16 @@
                                     </div>
                                     <!--Displaying anchor tag if url is available-->
                                     <p class="margin-0">
-                                        <a href="worldwide/cambodia.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Cambodia summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
+                                        <a class="secondary-link medium-blue" target="_blank">
+                                            <span class="underline">
+                                                Asegúrate de que los cilindros estén situados al menos a 3 metros de cualquier fuente de chispa o flama.
+                                            </span>
                                         </a>
                                     </p>
 
                                 </div>
                             </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-canada-worldwide3ad8.jpg?h=42&amp;w=70&amp;la=en&amp;hash=B3533757A46A007886759CEDF165F5BC" class="centered img-fluid" alt="canada" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="https://canada.chevron.com/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Canada website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
-                                </div>
-                            </div>
-
+                            <div class="tile linked-item common-tile"></div>
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
@@ -294,314 +281,17 @@
                                     </div>
                                     <!--Displaying anchor tag if url is available-->
                                     <p class="margin-0">
-                                        <a href="https://china.chevron.com/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the China website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-colombia-worldwide27ab.jpg?h=42&amp;w=70&amp;la=en&amp;hash=5CF4694D02661513DA22AEF5B750F2AC" class="centered img-fluid" alt="colombia" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/colombia.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Colombia summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
+                                        <a class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank">
+                                            <span class="underline">
+                                                No utilices recámaras ni espacios sin ventilación adecuada para cocinar, para evitar la acumulación de gases tóxicos.
+                                            </span>
                                         </a>
                                     </p>
-
                                 </div>
                             </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-india-worldwideaf14.png?h=42&amp;w=70&amp;la=en&amp;hash=F055EE1B089015D45572AAABF40175A2" class="centered img-fluid" alt="flag of india" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/india.html" class="secondary-link medium-blue" target=""> <span class="underline">view our India summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-indonesia-worldwide9a5d.jpg?h=42&amp;w=70&amp;la=en&amp;hash=58B9BCD9FEC9D9C8D2C1385DB2EFAD98" class="centered img-fluid" alt="indonesia" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="https://indonesia.chevron.com/en/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Indonesia website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-israel-worldwide4f7c.jpg?h=42&amp;w=70&amp;la=en&amp;hash=2AFB99E8F12CE0008472B8F5425DB56F" class="centered img-fluid" alt="Israel" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="https://israel.chevron.com/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Israel website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-kazakhstan-worldwidef631.jpg?h=42&amp;w=70&amp;la=en&amp;hash=1BA24896F4A815378DAAD7ABFDCF3EAE" class="centered img-fluid" alt="kazakhstan" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/kazakhstan.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Kazakhstan summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-kuwait-worldwidedb04.jpg?h=42&amp;w=70&amp;la=en&amp;hash=207E8EBD97C60AD64DACD9007EC818A7" class="centered img-fluid" alt="kuwait" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/kuwait.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Kuwait summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-malaysia-worldwide11a7.jpg?h=42&amp;w=70&amp;la=en&amp;hash=12319A06685EC76D2DBD696E94CEDC03" class="centered img-fluid" alt="malaysia" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/malaysia.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Malaysia summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-netherlands-worldwide418d.jpg?h=42&amp;w=70&amp;la=en&amp;hash=C0EE97FB3F0A6C8D6ABE82D42F9AFB88" class="centered img-fluid" alt="netherlands" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/netherlands.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Netherlands summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-nigeria-worldwide8db0.jpg?h=42&amp;w=70&amp;la=en&amp;hash=E47F77240739B518567F3A7F88D8E602" class="centered img-fluid" alt="nigeria" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/nigeria.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Nigeria summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-philippines-worldwidecfbf.jpg?h=42&amp;w=70&amp;la=en&amp;hash=4AD952E15621C013FCFACC2CA325D869" class="centered img-fluid" alt="philippines" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/philippines.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Philippines summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-republic-of-congo37e3.jpg?h=42&amp;w=70&amp;la=en&amp;hash=C6B05DF883A076C5E19E66A81C2F907E" class="centered img-fluid" alt="republic of congo" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/republic-of-congo.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Republic of Congo summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-saudi-arabia-worldwide47cb.jpg?h=42&amp;w=70&amp;la=en&amp;hash=8667D0ADD25D259144A311FCE06F576D" class="centered img-fluid" alt="saudi arabia" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/saudi-arabia.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Saudi Arabia summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-singapore-worldwide7ead.jpg?h=42&amp;w=70&amp;la=en&amp;hash=6B75F1B6E6FB3690FC3FAA21BD52FFA9" class="centered img-fluid" alt="singapore" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/singapore.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Singapore summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-south-korea-worldwide2fcc.jpg?h=42&amp;w=70&amp;la=en&amp;hash=B72585A1A2A555402901BB403766D2E8" class="centered img-fluid" alt="south korea" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/south-korea.html" class="secondary-link medium-blue" target=""> <span class="underline">view our South Korea summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-srilanka-worldwide74ab.jpg?h=42&amp;w=84&amp;la=en&amp;hash=0E296CFA2832A927FD9E8C48C2FCD3A0" class="centered img-fluid" alt="" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="http://www.chevron.lk/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Sri Lanka website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-thailand-worldwide97eb.jpg?h=42&amp;w=70&amp;la=en&amp;hash=30E31661F1F08675986CA0EEE114EED7" class="centered img-fluid" alt="thailand" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="https://thailand.chevron.com/en/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">visit the Thailand website</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-united-kingdom-worldwidec592.jpg?h=42&amp;w=70&amp;la=en&amp;hash=5827FE11A8C6F14918928E44432EF283" class="centered img-fluid" alt="united kingdom" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/united-kingdom.html" class="secondary-link medium-blue" target=""> <span class="underline">visit our United Kingdom summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-united-states-worldwide3602.jpg?h=42&amp;w=70&amp;la=en&amp;hash=DF42F860E6ABD3E9EDBE8F4299200C77" class="centered img-fluid" alt="united states" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/united-states.html" class="secondary-link medium-blue" target=""> <span class="underline">view our United States summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="-/media/chevron/worldwide/images/flag-venezuela-worldwidef76f.jpg?h=42&amp;w=70&amp;la=en&amp;hash=DA4EE279D8EADC6CD3E452B0B8179C8D" class="centered img-fluid" alt="venezuela" />
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="worldwide/venezuela.html" class="secondary-link medium-blue" target=""> <span class="underline">view our Venezuela summary</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-
+                            <div class="tile linked-item common-tile"></div>
                         </div>
 
-                        <div class="modal-container">
-                        </div>
-                    </div>
-                </div>
-
-
-                <div id="mod_9e4e76b9" class="a14 newsroom container-fluid section-bg-color bg-offwhite" data-cvx-module-name="a14">
-                    <div class="inner-container centered width-1200" style="margin-bottom:62px;">
-                        <h2 class="headline dark-blue">chevron email updates</h2>
-                        <p class="subscribe-text font-gotham-narrow"> Subscribe to our newsletter to receive news and updates.</p>
-                        <div class="primary-link ">
-                            <a href="newsroom/subscribe.html" class="link theme-bg-color" target="">sign up for the newsletter</a>
-                        </div>
                     </div>
                 </div>
 

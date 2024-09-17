@@ -964,10 +964,6 @@
             max-width: 100%
         }
 
-        .c70 .list-item .text-container {
-            -webkit-backdrop-filter: blur(10px) opacity(1);
-        }
-
         #mod_f92a6c4a {
             background-position: 80% center !important;
         }

@@ -577,8 +577,6 @@
                 })(document);
             </script>
 
-
-
             <div id="mod_215c5be0" class="r c73 container-fluid background-color-offwhite " data-cvx-module-name="c73">
                 <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
                     <div class="heading-container">
@@ -814,94 +812,92 @@
             <h1 class="headline dark-blue"><BR> Productos Y Servicios Destacados</h1>
         </div>
 
-        <div id="mod_31b75867" class="x09 container-fluid  section-bg-color bg-white" data-cvx-module-name="x09">
+        <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
             <div class="inner-container centered width-1200" style="margin-bottom:60px;">
+                <!--Parent item properties-->
+                <div class="slider">
 
-                <ul class="nav nav-tabs font-gotham icon-list" role="tablist">
-                    <li role="presentation" class="nav-item">
-                        <a class="secondary-link nav-link active" data-bs-toggle="tab" href="#tabpanel_8fd0ce04"
-                            id="tab_8fd0ce04" aria-controls="tabpanel_8fd0ce04" aria-selected="true" tabindex="0" role="tab">
-                            <span class="underline">Tanques Estacionarios</span>
-                        </a>
-                    </li>
-                    <li role="presentation" class="nav-item">
-                        <a class="secondary-link nav-link " data-bs-toggle="tab" href="#tabpanel_5f47e823" id="tab_5f47e823"
-                            aria-controls="tabpanel_5f47e823" aria-selected="false" tabindex="-1" role="tab">
-                            <span class="underline">Cilindros Portátiles</span>
-                        </a>
-                    </li>
-                    <li role="presentation" class="nav-item">
-                        <a class="secondary-link nav-link " data-bs-toggle="tab" href="#tabpanel_adb27da7" id="tab_adb27da7"
-                            aria-controls="tabpanel_adb27da7" aria-selected="false" tabindex="-1" role="tab">
-                            <span class="underline">Servicios de Mantenimiento</span>
-                        </a>
-                    </li>
-                </ul>
-
-
-                <div class="tab-content">
-                    <div role="tabpanel" class="tab-pane active" id="tabpanel_8fd0ce04" aria-labelledby="tab_8fd0ce04">
-                        <div id="mod_8fd0ce04" class="c06 container-fluid   section-bg-color bg-white"
-                            data-cvx-module-name="c06">
-                            <div class="inner-container col centered width-800" style="margin-top:0px;margin-bottom:60px;">
-                                <h2 class="headline dark-blue">Tanques Estacionarios</h2>
-                                <div class="body width-600 centered">
-                                    <div class="width-600 centered">
-                                        <img src="../-/media/chevron/about/images/pacific-coast-oildde8.jpg?"
-                                            width="600"
-                                            height="400" 
-                                            style="max-width: 100%; max-height: width 100px;"/>
+                    <div class="item row">
+                        <div class="row card-box bg-white">
+                            <div class="col-12 col-lg-6 background-col col-no-padding">
+                                <div class="image-container responsive-container">
+                                    <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
                                     </div>
-                                    <h3 style="text-align: center;" class="dark-blue">
-                                        Ideal para grandes consumos.
-                                        <br>
-                                        Ofresemos tanques estacionarios con instalación segura y mantenimiento garantizado.
-                                    </h3>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div role="tabpanel" class="tab-pane " id="tabpanel_5f47e823" aria-labelledby="tab_5f47e823">
-                        <div id="mod_5f47e823" class="c06 container-fluid   section-bg-color bg-white"
-                            data-cvx-module-name="c06">
-                            <div class="inner-container col centered width-800" style="margin-bottom:60px;">
-                                <h2 class="headline dark-blue">Cilindros Portátiles</h2>
-                                <div class="body width-600 centered">
-                                    <div class="width-600 centered">
-                                        <img src="../-/media/chevron/about/images/1915-social-sausalito-horse-wagon.jpg"
-                                            height="400"
-                                            width="600"
-                                            style="max-width: 100%; max-height: width 100px;" />
+                            <div class="col-12 col-lg-6 text-col col-no-padding">
+                                <div class="text-container">
+                                    <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                        <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                            <h2 class="headline dark-blue">Tanques Estacionarios</h2>
+                                        </div>
                                     </div>
-                                    <h3 style="text-align: center;" class="dark-blue">
-                                        Perfectos para uso doméstico y pequeñas empresas.
-                                        <br>
-                                        Disponibles en capacidades de 20 y 30 litros.
-                                    </h3>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                    <div role="tabpanel" class="tab-pane" id="tabpanel_adb27da7" aria-labelledby="tab_adb27da7">
-                        <div id="mod_adb27da7" class="c06 container-fluid   section-bg-color bg-white"
-                            data-cvx-module-name="c06">
-                            <div class="inner-container col centered width-800" style="margin-bottom:60px;">
-                                <h2 class="headline dark-blue">Servicios de Mantenimiento</h2>
-                                <div class="body width-600 centered">
-                                    <div class="width-600 centered">
-                                        <img src="../-/media/chevron/about/images/chevron-history-in-war-and-peace.jpg"
-                                            width="600"
-                                            height="400"
-                                            style="max-width: 100%; max-height: width 100px;" />
-                                        <h3 style="text-align: center;" class="dark-blue">
-                                            Mantenimiento preventivo y correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
-                                        </h3>
+                                    <div class="description body-2 black d-print-none">
+                                        Ideal para grandes consumos. Ofrecemos tanques estacionarios con instalación segura y mantenimiento garantizado.
+                                    </div>
+                                    <div class="bottom">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="item row">
+                        <div class="row card-box bg-white">
+                            <div class="col-12 col-lg-6 background-col col-no-padding">
+                                <div class="image-container responsive-container">
+                                    <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-6 text-col col-no-padding">
+                                <div class="text-container">
+                                    <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                        <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                            <h2 class="headline dark-blue">Cilindros Portátiles</h2>
+                                        </div>
+                                    </div>
+                                    <div class="description body-2 black d-print-none">
+                                        Perfectos para uso doméstico y pequeñas empresas. Disponibles en capacidades de 20 y 30 litros.
+                                    </div>
+                                    <div class="bottom">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item row">
+                        <div class="row card-box bg-white">
+                            <div class="col-12 col-lg-6 background-col col-no-padding">
+                                <div class="image-container responsive-container">
+                                    <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12 col-lg-6 text-col col-no-padding">
+                                <div class="text-container">
+                                    <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                        <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                            <h2 class="headline dark-blue">Servicios de Mantenimiento</h2>
+                                        </div>
+                                    </div>
+                                    <div class="description body-2 black d-print-none">
+                                        Mantenimiento preventivo y correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
+                                    </div>
+                                    <div class="bottom">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="control" aria-hidden="true">
+                    <p class="timeline-indicator font-gotham medium-blue"></p>
+                    <div class="indicator-container">
+                        <span class="indicator-active"></span>
+                        <ul class="indicator-track"></ul>
+                    </div>
+                    <p class="timeline-indicator font-gotham medium-blue"></p>
                 </div>
             </div>
         </div>

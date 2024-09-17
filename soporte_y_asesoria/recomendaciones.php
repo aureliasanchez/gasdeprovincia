@@ -190,411 +190,28 @@
         include("../components/header.html");
         ?>
         <main role="main" id="main-content" tabindex="-1">
-
-
-
-
             <div class=" module-looper">
-
-
-
                 <div id="mod_d7b0c924" class="c01f container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01f">
                     <div class="inner-container row centered width-1920" style="margin-top:0px;margin-bottom:40px;">
                         <div class="box-container">
                             <div class="background-container" style="background-image: url('../../-/media/chevron/sustainability/images/energy-transition-richmond-refinery-1920x1080.jpg')"></div>
                             <div class="content-container bg-white width-800">
-                                <p class="eyebrow font-gotham dark-blue">climate</p>
-                                <h1 class="headline dark-blue">we believe the future of energy is lower carbon</h1>
+                                <p class="eyebrow font-gotham dark-blue">Gas LP</p>
+                                <h1 class="headline dark-blue">Recomendaciones</h1>
                                 <p class="text-center">
-                                <p><span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">We all have a stake in a reliable and affordable energy system and a lower carbon future. This belief drives Chevron&rsquo;s lower carbon ambitions and the actions we take to advance them.</span></p>
+                                <p>
+                                    <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
+                                        Para mantener la seguridad y el buen funcionamiento de las instalaciones de gas LP, es fundamental seguir las siguientes recomendaciones.
+                                    </span>
+                                </p>
                                 </p>
                             </div>
-
                         </div>
                     </div>
                 </div>
 
 
-
-
-                <div id="mod_a12034cb" class="n05 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-bottom:20px;">
-                        <div class="primary-link ">
-                            <a href="../../-/media/chevron/sustainability/documents/climate-change-resilience-report.pdf" class="link theme-bg-color" rel="noopener noreferrer" target="_blank">download our latest climate change resilience report</a>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_aebff8dc" class="n05 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-bottom:60px;">
-                        <a href="../../disclosures.html" class="secondary-link theme-text-color" rel="noopener noreferrer" target="_blank"> <span class="underline">California voluntary carbon market disclosures act (AB-1305)</span>
-                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                            <span class="visually-hidden">opens in new window</span></a>
-                    </div>
-                </div>
-
-
-
-                <a class="in-page-anchor" name="our-strategy" tabindex="-1"><span class="visually-hidden">our-strategy</span></a>
-                <div id="mod_f3cfee3c" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:60px;margin-bottom:40px;">
-                        <p class="eyebrow font-gotham text-center dark-blue">our strategy</p>
-                        <h2 class="headline dark-blue">our strategy is clear</h2>
-                        <div class="body width-600 centered">
-                            <p>We&rsquo;re leveraging our strengths to safely deliver lower carbon energy to a growing world.&nbsp;</p>
-                            We aim to lead in lower carbon intensity oil, products and natural gas, and advance new solutions to reduce carbon emissions of major industries. &nbsp;
-                        </div>
-
-                    </div>
-                </div><!-- suppressed: {F7C06D56-3F44-43F1-9801-64015F2C0A33} -->
-
-
-                <a class="in-page-anchor" name="our-actions" tabindex="-1"><span class="visually-hidden">our-actions</span></a>
-                <div id="mod_f9096ba4" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:60px;margin-bottom:20px;">
-                        <p class="eyebrow font-gotham text-center dark-blue">our actions</p>
-                        <h2 class="headline dark-blue">lowering the carbon intensity
-                            of our oil, products and
-                            natural gas operations</h2>
-                        <div class="body width-600 centered">
-                            We&rsquo;re taking action to lower the carbon
-                            intensity of our operations, including methane, flaring and energy management.
-                        </div>
-
-                    </div>
-                </div>
-
-
-
-                <div id="mod_35bea48b" class="n05 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-bottom:40px;">
-                        <a href="../../investors/esg%23greenhouse-gas-ghg-emissions-management.html" class="secondary-link theme-text-color" target=""> <span class="underline">learn how we're lowering our carbon intensity</span>
-                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_eee4041d" class="c17b container-fluid newsroom-image-fade  section-bg-color bg-offwhite" data-cvx-module-name="c17b">
-                    <div class="inner-container centered width-600" style="margin-top:0px;margin-bottom:60px;">
-
-
-
-
-                        <div class="row">
-                            <div class="col col-12">
-                                <img src="../../-/media/chevron/sustainability/images/energy-transition-methane-drone-1024x768371f.jpg?h=768&amp;w=1024&amp;la=en&amp;hash=03BA9C0B4AFC79F4C0D4EDB9340B4E64" class="centered img-fluid newsroom-image-fade-item" loading="lazy" alt="Chevron methane drone experts detect and measure methane emissions" />
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <a class="in-page-anchor" name="our-actions" tabindex="-1"><span class="visually-hidden">our-actions</span></a>
-                <div id="mod_efc3de63" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:20px;margin-bottom:20px;">
-                        <h2 class="headline dark-blue">advancing solutions with chevron new energies</h2>
-                        <div class="body width-600 centered">
-                            We&rsquo;re growing our capabilities in renewable fuels,
-                            carbon capture, and offsets, hydrogen and other
-                            emerging technologies.
-                        </div>
-
-                    </div>
-                </div>
-
-
-
-                <div id="mod_0f62edfb" class="n05 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-bottom:40px;">
-                        <a href="../../what-we-do/energy/new-energies.html" class="secondary-link theme-text-color" target=""> <span class="underline">discover chevron new energies</span>
-                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_e4a40ddf" class="c17b container-fluid newsroom-image-fade  section-bg-color bg-offwhite" data-cvx-module-name="c17b">
-                    <div class="inner-container centered width-600" style="margin-top:0px;margin-bottom:60px;">
-
-
-
-
-                        <div class="row">
-                            <div class="col col-12">
-                                <img src="../../-/media/chevron/sustainability/images/energy-transition-carbon-capture-projection-1024x768d5d3.jpg?h=768&amp;w=1024&amp;la=en&amp;hash=261D71929AA4F52ACAE281ACE8E63440" class="centered img-fluid newsroom-image-fade-item" loading="lazy" alt="In a dark office room, two engineers study a projection mapping of a carbon capture site that shows the Earth’s layers and drilling depth." />
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div id="mod_c54c5f9d" class="n03 carousel container-fluid section-bg-color bg-offwhite " data-cvx-module-name="n03">
-                    <div class="inner-container centered width-1200" style="margin-bottom:60px;">
-
-
-                        <h3 class="dark-blue theme-text-color">explore our actions toward a lower carbon future</h3>
-                        <div class="slider">
-
-                            <div class="item link-item">
-                                <a href="../../what-we-do/technology-and-innovation/capturing-and-storing-carbon-emissions.html" data-bs-target="#" class="card-link card-box-link vertical-align bg-white" target="">
-                                    <div class="text-container text-center">
-                                        <div class="title font-gotham dark-blue">
-                                            capturing and storing carbon emissions
-                                        </div>
-                                        <p class="secondary-link medium-blue">
-                                            <span class="underline">learn more</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-
-                                        </p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="item link-item">
-                                <a href="../../what-we-do/energy/fuels/renewable-fuels-in-transportation.html" data-bs-target="#" class="card-link card-box-link vertical-align bg-white" target="">
-                                    <div class="text-container text-center">
-                                        <div class="title font-gotham dark-blue">
-                                            renewable fuels in transportation
-                                        </div>
-                                        <p class="secondary-link medium-blue">
-                                            <span class="underline">learn more</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-
-                                        </p>
-                                    </div>
-                                </a>
-                            </div>
-                            <div class="item link-item">
-                                <a href="../../newsroom/2022/q3/methane-management.html" data-bs-target="#" class="card-link card-box-link vertical-align bg-white" target="">
-                                    <div class="text-container text-center">
-                                        <div class="title font-gotham dark-blue">
-                                            our goal is simple &ndash; keep methane in the pipe
-                                        </div>
-                                        <p class="secondary-link medium-blue">
-                                            <span class="underline">learn more</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-
-                                        </p>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="control" aria-hidden="true">
-                            <div class="indicator-container">
-                                <span class="indicator-active"></span>
-                                <ul class="indicator-track"></ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_00e80a65" class="c17b container-fluid newsroom-image-fade  section-bg-color bg-offwhite" data-cvx-module-name="c17b">
-                    <div class="inner-container centered width-600" style="margin-bottom:20px;">
-
-
-
-
-                        <div class="row">
-                            <div class="col col-12">
-                                <img src="../../-/media/chevron/sustainability/images/energy-transition-MKW-CNN-still-capturecef9.jpg?h=671&amp;w=1201&amp;la=en&amp;hash=F49C0BA02A3CD8E4013D91DD21BFB96E" class="centered img-fluid newsroom-image-fade-item" loading="lazy" alt="Chevron SEO speaks on the future of fossil fuels on CNN" />
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-
-
-                <div id="mod_28e061f5" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:0px;margin-bottom:0px;max-width: 600px;">
-                        <h3 class="headline dark-blue">the energy transition needs solutions, scale and speed</h3>
-                        <div class="body width-600 centered">
-
-                        </div>
-
-                    </div>
-                </div>
-
-
-
-                <div id="mod_12e44a29" class="n05 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-top:0px;margin-bottom:20px;">
-                        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7041453352139833344?utm_source=share&amp;utm_medium=member_desktop" class="secondary-link theme-text-color" rel="noopener noreferrer" target="_blank"> <span class="underline">hear from our chairman and CEO, Mike Wirth</span>
-                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                            <span class="visually-hidden">opens in new window</span></a>
-                    </div>
-                </div>
-
-
-
-                <a class="in-page-anchor" name="our-outlook" tabindex="-1"><span class="visually-hidden">our-outlook</span></a>
-                <div id="mod_be7fed36" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:60px;margin-bottom:40px;">
-                        <p class="eyebrow font-gotham text-center dark-blue">our outlook</p>
-                        <h2 class="headline dark-blue">affordable, reliable, ever-cleaner
-                            energy is essential to achieving
-                            a more prosperous world</h2>
-                        <div class="body width-600 centered">
-                            <p><span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">The world&rsquo;s energy demand in recent years is greater than at any time in human history.</span>&nbsp;We&rsquo;re working to meet demand today while we help build the energy system
-                                of tomorrow.</p>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div id="mod_e8e2081a" class="c52 container-fluid bg-offwhite " data-cvx-module-name="c52">
-                    <div class="inner-container centered width-1200" style="margin-top:30px;margin-bottom:60px;">
-                        <div class="grid card-count-2">
-                            <a href="../../-/media/chevron/sustainability/images/energy-transition-2050-forecast-population-growth/chart_Population-growth/energy-transition-2050-forecast-population-growth.png" class="card-item" target="_blank" title="">
-                                <div class="image-container">
-                                    <img src="../../-/media/chevron/sustainability/images/energy-transition-2050-forecast-population-growth/chart_Population-growth/energy-transition-2050-forecast-population-growth523d.png?h=1667&amp;w=2617&amp;la=en&amp;hash=6E2891F144493FC9F478B015C4A5CECD" class="img-fluid" alt="Infographic illustrating a forecast global population growth of an additional 2 billion people, from 8 billion people in 2022 to 10 billion people in 2050. " />
-                                </div>
-                                <div class="text-container">
-                                    <h3 class="headline header-3 dark-blue">enabling human progress</h3>
-                                    <div class="text body-2 black">
-                                        As populations and incomes rise, urban areas expand and
-                                        billions of people in less-developed countries seek a higher
-                                        standard of living, the world&rsquo;s energy needs continue to
-                                        grow.
-                                    </div>
-
-                                    <div class="secondary-link">
-                                        <span class="underline"></span><span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                    </div>
-                                </div>
-                            </a>
-                            <a href="../../-/media/chevron/sustainability/images/energy-transition-2040-forecast-demand/chart_Forecast-energy-demand.png" class="card-item" target="_blank" title="">
-                                <div class="image-container">
-                                    <img src="../../-/media/chevron/sustainability/images/energy-transition-2040-forecast-demand/chart_Forecast-energy-demandfff5.png?h=1667&amp;w=2617&amp;la=en&amp;hash=1D5046E6F0F308CBACA7B73CBFA72CAA" class="img-fluid" alt="Whisker chart comparing 2022 energy demand to 2040 forecast range for selected energy sources. The average of 2040 scenarios energy demand compared to 2022 actual energy demand suggests an absolute decrease in oil, coal and gas and an absolute increase in wind &amp; solar and other low carbon energies. " />
-                                </div>
-                                <div class="text-container">
-                                    <h3 class="headline header-3 dark-blue">the future energy mix</h3>
-                                    <div class="text body-2 black">
-                                        <p>While there are many potential paths to a lower carbon future, many energy experts agree that a mix of energy sources, including oil and gas, will be required to satisfy global energy demand under almost any future market scenario.</p>
-                                    </div>
-
-                                    <div class="secondary-link">
-                                        <span class="underline"></span><span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
-                <div id="mod_ab0aebae" class="c02 container-fluid font-gotham-narrow  section-bg-color bg-offwhite theme-text-dark-blue" data-cvx-module-name="c02">
-                    <div class="inner-container col centered width-800 text-center" style="margin-bottom:60px;">
-                        <div class="row">
-                            <div class="col col-12 centered">
-                                <img src="../../-/media/shared-media/icons/blue/blue-quotation-icon1b96.png?h=35&amp;w=44&amp;la=en&amp;hash=A532ED56737B876A588E587A784D23A7" class="centered img-fluid" alt="" />
-                            </div>
-                        </div>
-                        <div class="body body-quote theme-text-color">We’re at the center of one of the world’s greatest challenges:
-                            meeting the energy needs of a growing world and doing so
-                            in lower carbon ways.</div>
-                        <p class="body-xs margin-bottom-0">Mike Wirth</p>
-                        <p class="body-3">Chairman and CEO, Chevron</p>
-
-                    </div>
-                </div>
-
-
-                <a class="in-page-anchor" name="our-approach" tabindex="-1"><span class="visually-hidden">our-approach</span></a>
-                <div id="mod_e3eafaf9" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:60px;margin-bottom:20px;">
-                        <p class="eyebrow font-gotham text-center dark-blue">our approach</p>
-                        <h2 class="headline dark-blue">a pragmatic conversation
-                            about energy</h2>
-                        <div class="body width-600 centered">
-                            At Chevron, we believe the future of energy is lower carbon, and we support the global net zero ambitions of the Paris Agreement.
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div id="mod_a2dad152" class="c11 container-fluid  column-count-2 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
-                    <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
-                        <div class="parent-text-container centered text-center r">
-
-                        </div>
-                        <div class="c11-container">
-                            <div class="tile header-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <p class="header dark-blue font-gotham text-bold">
-                                    <h3 class="headline header-3 dark-blue">climate policy</h3>
-                                    </p>
-                                    <div class="description">
-                                        <p>Chevron supports well-designed climate policy. We believe&nbsp;that broad, market-based mechanisms are the most efficient approach to addressing GHG emissions reductions.</p>
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="../../investors/esg%23climate-policy.html" class="secondary-link medium-blue" target=""> <span class="underline">see our approach to climate policy</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-                            <div class="tile header-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <p class="header dark-blue font-gotham text-bold">
-                                    <h3 class="headline header-3 dark-blue">portfolio carbon intensity</h3>
-                                    </p>
-                                    <div class="description">
-                                        <p>We utilize a portfolio carbon intensity (PCI) metric that
-                                            encompasses the full value chain carbon intensity of the products
-                                            we sell, including our own emissions, emissions from third parties,
-                                            and emissions from customer use of our products.</p>
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="../../-/media/chevron/sustainability/documents/climate-change-resilience-report3f56.pdf?v=11#page=69" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">see our calculation methodology</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">pdf opens in new window</span></a>
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="modal-container">
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_91745d61" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:40px;margin-bottom:0px;">
-                        <h3 class="headline dark-blue">targets to lower the carbon intensity of our operations</h3>
-                        <div class="body width-600 centered">
-
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div id="mod_3202dd35" class="c11 container-fluid  column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
+                <div id="mod_3202dd35" class="c11 container-fluid  column-count-8 section-bg-color bg-offwhite background-color-white" data-cvx-module-name="c11">
                     <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:50px;">
                         <div class="parent-text-container centered text-center r">
 
@@ -607,199 +224,113 @@
                                         <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="description">
-                                        <strong><span style="color: #009dd9;">71 g CO<sub>2</sub>/MJ</span></strong><br />
-                                        portfolio carbon intensity
-                                        (scope 1, 2 and 3) by 2028
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                Evitar colocar tanques estacionarios en escaleras para prevenir accidentes.
+                                            </span>
+                                        </strong>
                                     </div>
-
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
-                                        <img src="../../-/media/shared-media/icons/cvx_oil-rig_icon_RGB_FA3924.svg?la=en&amp;hash=74B7455829CF499A94362BBD61611829" class="centered img-fluid" alt="Chevron oil rig icon" />
+                                        <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="description">
-                                        <strong><span style="color: #009dd9;">24 kg CO<sub>2</sub>e/boe</span></strong><br />
-                                        gas carbon intensity<br />
-                                        (scope 1 and 2) by 2028
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                Proteger los tanques contra animales y mantenerlos alejados de instalaciones eléctricas.
+                                            </span>
+                                        </strong>
                                     </div>
-
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
-                                        <img src="../../-/media/shared-media/icons/cvx_icon_oil-derrick_pipe-extended_RGB_FAe820.png?h=1501&amp;w=1501&amp;la=en&amp;hash=D89BE888682386A94D31E965BC5D6C9B" class="centered img-fluid" alt="Chevron oil pipe icon" />
+                                        <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="description">
-                                        <strong><span style="color: #009dd9;">24 kg CO<sub>2</sub>e/boe</span></strong><br />
-                                        oil carbon intensity<br />
-                                        (scope 1 and 2) by 2028
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                No utilizar recámaras y espacios no ventilados para cocinar, para prevenir acumulaciones peligrosas de gas.
+                                            </span>
+                                        </strong>
                                     </div>
-
                                 </div>
                             </div>
-
                             <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
                                     <div class="image-container margin-bottom-20">
-                                        <img src="../../-/media/shared-media/icons/cvx_refining_icon_RGB_FAfc31.svg?la=en&amp;hash=E5DB8FA054A6993E06A28CCDD0774E58" class="centered img-fluid" alt="Chevron refinery icon" />
+                                        <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="description">
-                                        <strong><span style="color: #009dd9;">36 kg CO<sub>2</sub>e/boe</span></strong><br />
-                                        refining carbon intensity
-                                        (scope 1 and 2) by 2028
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                Mantener los alrededores de los tanques libres de basura y enseres domésticos que puedan obstruir el acceso o generar riesgos.
+                                            </span>
+                                        </strong>
                                     </div>
-
                                 </div>
                             </div>
-
-                        </div>
-
-                        <div class="modal-container">
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div id="mod_80c4a4e6" class="c11 container-fluid  column-count-1 section-bg-color bg-dark-blue background-color-dark-blue" data-cvx-module-name="c11">
-                    <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:60px;">
-                        <div class="parent-text-container centered text-center r">
-
-                        </div>
-                        <div class="c11-container">
-
-
-                            <div class="tile fact-tile bg- theme-text-white">
-                                <div class="fact-tile-inner text-center">
-
-                                    <p class="figure theme-text-color font-gotham text-bold">$10 billion</p>
-                                    <p class="figure-description theme-text-color font-gotham text-bold">capital investments</p>
-                                    <p class="description theme-text-color body-2">We plan to invest $8 billion in lower carbon investments and $2 billion in carbon reduction projects from 2021 through 2028.</p>
-                                </div>
-                            </div>
-
-                        </div>
-
-                        <div class="modal-container">
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_8965f821" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:60px;margin-bottom:20px;">
-                        <div class="body width-600 centered">
-                            Chevron’s ability to achieve any goal, target or aspiration, including with respect to climate-related initiatives, our lower carbon strategy and any lower carbon new energy businesses, is subject to numerous risks, many of which are outside of our control. Chevron regularly evaluates its goals, targets and aspirations and may eliminate, increase or decrease them for various reasons, including market conditions; changes in its portfolio; and financial, operational, regulatory, reputational, legal and other factors.
-                        </div>
-
-                    </div>
-                </div>
-
-
-
-                <div id="mod_3139471b" class="n05 container-fluid   section-bg-color bg-white" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-top:0px;margin-bottom:0px;">
-                        <a href="../../terms-of-use.html#forward-lookingstatementsandotherdisclaimers" class="secondary-link theme-text-color" rel="noopener noreferrer" target="_blank" title="Forward-Looking Statements Warning and Other Legal Disclaimers"> <span class="underline">Forward-Looking Statements Warning and Other Legal Disclaimers</span>
-                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                            <span class="visually-hidden">opens in new window</span></a>
-                    </div>
-                </div>
-
-
-
-                <div id="mod_56bba014" class="c11 container-fluid  column-count-3 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
-                    <div class="inner-container width-1200 centered" style="margin-top:50px;margin-bottom:40px;">
-                        <div class="parent-text-container centered text-center r">
-
-                        </div>
-                        <div class="c11-container">
-                            <div class="tile header-item common-tile">
+                            <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
-                                    <p class="header dark-blue font-gotham text-bold">
-                                    <h3 class="headline header-3 dark-blue">executive compensation</h3>
-                                    </p>
-                                    <div class="description">
-                                        <p style="text-align: left;">Energy transition is one of four
-                                            performance measurements in the
-                                            Chevron Incentive Plan.</p>
+                                    <div class="image-container margin-bottom-20">
+                                        <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="../../-/media/shared-media/documents/chevron-proxy-statement-2023.pdf" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">learn more</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">pdf opens in new window</span></a>
-                                    </p>
-
+                                    <div class="description">
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                Colocar los cilindros y las instalaciones en azoteas o áreas elevadas, siempre que sea posible.
+                                            </span>
+                                        </strong>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="tile header-item common-tile">
+                            <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
-                                    <p class="header dark-blue font-gotham text-bold">
-                                    <h3 class="headline header-3 dark-blue">trade associations</h3>
-                                    </p>
-                                    <div class="description">
-                                        <p>Our political engagements are designed to support our ambition to deliver affordable, reliable and ever-cleaner energy.</p>
+                                    <div class="image-container margin-bottom-20">
+                                        <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="../../investors/esg%23trade-associations.html" class="secondary-link medium-blue" target=""> <span class="underline">learn more</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
+                                    <div class="description">
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                Asegurarse de que los tanques estén sobre un piso nivelado y protegido por muros de material incombustible.
+                                            </span>
+                                        </strong>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="tile header-item common-tile">
+                            <div class="tile linked-item common-tile">
                                 <div class="tile-inner text-center">
-                                    <p class="header dark-blue font-gotham text-bold">
-                                    <h3 class="headline header-3 dark-blue">partnership and investments</h3>
-                                    </p>
-                                    <div class="description">
-                                        <p style="text-align: left;">We&rsquo;re collaborating in new ways and
-                                            working toward innovations that help advance a lower carbon
-                                            future.</p>
+                                    <div class="image-container margin-bottom-20">
+                                        <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="../../what-we-do/energy/new-energies/partnerships.html" class="secondary-link medium-blue" target=""> <span class="underline">learn more</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
+                                    <div class="description">
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                Instalar los cilindros a una distancia mínima de 3 metros de cualquier fuente de flama o chispa, y en lugares ventilados o al aire libre.
+                                            </span>
+                                        </strong>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                            <div class="tile linked-item common-tile">
+                                <div class="tile-inner text-center">
+                                    <div class="image-container margin-bottom-20">
+                                        <img src="../../-/media/shared-media/icons/cvx_focus_icon_RGB_FAbf8d.svg?h=90&amp;w=90&amp;la=en&amp;hash=52D1B8926E5AE88924B4C9A741596F8F" class="centered img-fluid" alt="Chevron center of target icon" />
+                                    </div>
+                                    <div class="description">
+                                        <strong>
+                                            <span style="color: #009dd9;">
+                                                Mantener el área alrededor de los tanques limpia y alejada de materiales combustibles para evitar riesgos de incendio.
+                                            </span>
+                                        </strong>
+                                    </div>
+                                </div>
+                            </div>
 
-                        <div class="modal-container">
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_c12b37b4" class="n05 container-fluid   section-bg-color bg-white" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-top:0px;margin-bottom:60px;">
-                        <div class="primary-link ">
-                            <a href="../../-/media/chevron/sustainability/documents/climate-change-resilience-report.pdf" class="link theme-bg-color" rel="noopener noreferrer" target="_blank">download our latest climate change resilience report</a>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div id="mod_9e4e76b9" class="a14 newsroom container-fluid section-bg-color bg-offwhite" data-cvx-module-name="a14">
-                    <div class="inner-container centered width-1200" style="margin-bottom:62px;">
-                        <h2 class="headline dark-blue">chevron email updates</h2>
-                        <p class="subscribe-text font-gotham-narrow"> Subscribe to our newsletter to receive news and updates.</p>
-                        <div class="primary-link ">
-                            <a href="../../newsroom/subscribe.html" class="link theme-bg-color" target="">sign up for the newsletter</a>
                         </div>
                     </div>
                 </div>

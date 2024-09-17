@@ -147,77 +147,34 @@
 
         <main role="main" id="main-content" tabindex="-1">
 
-
-
-
             <div class=" module-looper">
-
-
-
-
-
-
                 <div id="mod_a3130970" class="c01 container-fluid  section-bg-color bg-white" data-cvx-module-name="c01">
-
                     <div class="inner-container row centered width-1200" style="margin-bottom:0px;">
                         <div class="col col-12 centered image-container">
                             <img src="../-/media/chevron/about/images/culture-hero-chevron-employees-put-values-into-action0959.jpg?h=560&amp;w=1200&amp;la=en&amp;hash=80058161B4F65DF66E1BC3B6784D26BD" class="centered img-fluid d-none d-md-block" alt="Chevron culture, our employees putting values into action" />
                             <img src="../-/media/chevron/about/images/culture-hero-chevron-employees-put-values-into-action-mobile4ace.jpg?h=500&amp;w=375&amp;la=en&amp;hash=0964ECEE2E9411F4C8312A26DC752D3B" class="d-block d-md-none centered img-fluid" alt="Chevron culture, our employees putting values into action" />
                         </div>
                         <div class="col col-12 width-800 centered text-container">
-                            <p class="eyebrow font-gotham text-center dark-blue">culture</p>
-                            <h1 class="headline dark-blue">our employees put values into action</h1>
-                            <div class="body width-600 centered">
-
-                            </div>
+                            <p class="eyebrow font-gotham text-center dark-blue">Gas LP</p>
+                            <h1 class="headline dark-blue">Nosotros</h1>
                         </div>
                     </div>
-
-
                 </div>
-
-
 
                 <div id="mod_9b4961ca" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
                     <div class="inner-container col centered width-800" style="margin-bottom:60px;">
                         <div class="body width-600 centered">
-                            <p>We&rsquo;re a global team united by a shared set of values, called The Chevron Way. From our volunteering initiatives to our commitment to diversity and inclusion, you&rsquo;ll see that our values are so much more than words on a screen&nbsp;&ndash; they&rsquo;re our way of life.</p>
+                            <p>
+                                En Gas de Provincia S.A. de C.V., somos líderes en la venta y distribución de Gas L.P., comprometidos con la seguridad y satisfacción de nuestros clientes desde 2005 en Hidalgo, y con una historia que se remonta a 1947 en Toluca y Atlacomulco. Nos destacamos por nuestra calidad, servicio y honestidad, atendiendo tanto a hogares como a industrias y comercios.
+                            </p>
                         </div>
-
                     </div>
                 </div>
-
-
-
-                <div id="mod_94c5d128" class="n05 container-fluid   section-bg-color bg-white" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-top:10px;margin-bottom:0px;">
-                        <a href="culture/the-chevron-way.html" class="secondary-link theme-text-color" target=""> <span class="underline">learn more about the chevron way</span>
-                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                        </a>
-                    </div>
-                </div>
-
-
-
-
-                <div id="mod_4c4fb665" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:47px;margin-bottom:60px;">
-                        <h2 class="headline dark-blue">volunteering around the world</h2>
-                        <div class="body width-600 centered">
-                            <p>In countries around the world, Chevron employees are applying their skills, experience and energy in volunteer activities that help improve education, provide basic needs, foster new business opportunities and ultimately strengthen the communities in which we operate. </p>
-                        </div>
-
-                    </div>
-                </div>
-
 
                 <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
                     <div class="inner-container centered width-1200" style="margin-bottom:60px;">
                         <!--Parent item properties-->
-
-
                         <div class="slider">
-
 
                             <div class="item row">
                                 <div class="row card-box bg-white">
@@ -226,22 +183,17 @@
                                             <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
                                             </div>
                                         </div>
-
                                     </div>
                                     <div class="col-12 col-lg-6 text-col col-no-padding">
                                         <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
+                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                                    <h2 class="headline dark-blue">Misión</h2>
+                                                </div>
+                                            </div>
                                             <div class="description body-2 black d-print-none">
-                                                Chevron&rsquo;s Anar Aitekenova is pictured conducting a cooking class at Almaty orphanage in Kazakhstan.
-
+                                                Ser la empresa número uno en distribución y comercialización de Gas L.P., proporcionando confianza y seguridad en cada servicio. Nuestro compromiso es reafirmar estos valores en todos los niveles, desde nuestros empleados hasta nuestros clientes.
                                             </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Chevron&rsquo;s Anar Aitekenova is pictured conducting a cooking class at Almaty orphanage in Kazakhstan.
-                                            </div>
-
                                             <div class="bottom">
                                             </div>
                                         </div>
@@ -252,25 +204,20 @@
                                 <div class="row card-box bg-white">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevron-knitting-club-presenting-clothes-almaty-orphanage.jpg); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
                                             </div>
                                         </div>
-
                                     </div>
                                     <div class="col-12 col-lg-6 text-col col-no-padding">
                                         <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
+                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                                    <h2 class="headline dark-blue">Visión</h2>
+                                                </div>
+                                            </div>
                                             <div class="description body-2 black d-print-none">
-                                                Members of Chevron Knitting Club presented almost 100 warm vests, hats and scarves to children from the Almaty orphanage.
-
+                                                Distinguirnos como la empresa líder en la distribución de gas LP en Hidalgo, excediendo las expectativas de nuestros clientes a través de un servicio de calidad y atención excepcional.
                                             </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Members of Chevron Knitting Club presented almost 100 warm vests, hats and scarves to children from the Almaty orphanage.
-                                            </div>
-
                                             <div class="bottom">
                                             </div>
                                         </div>
@@ -281,234 +228,27 @@
                                 <div class="row card-box bg-white">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-tengizchevroil-employees-plant-tree-campaign-kazakhstan.jpg); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
                                             </div>
                                         </div>
-
                                     </div>
                                     <div class="col-12 col-lg-6 text-col col-no-padding">
                                         <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
+                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                                    <h2 class="headline dark-blue">Factor Humano</h2>
+                                                </div>
+                                            </div>
                                             <div class="description body-2 black d-print-none">
-                                                Tengizchevroil employees and their families joined the campaign &lsquo;Plant a tree,&rsquo; organized by the Yntymak Volunteer Organization, at the Speech Impaired School in Atyrau, Kazakhstan.
-
+                                                Nuestro equipo se distingue por su motivación, capacitación y dedicación, identificándose plenamente con los valores y objetivos de la empresa.
                                             </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Tengizchevroil employees and their families joined the campaign &lsquo;Plant a tree,&rsquo; organized by the Yntymak Volunteer Organization, at the Speech Impaired School in Atyrau, Kazakhstan.
-                                            </div>
-
                                             <div class="bottom">
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-olive-ridley-sea-turtles-sighted-after-chevron-volunteers-coastal-clean-up.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
 
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Sightings of olive ridley sea turtles were reported soon after 300 Chevron volunteers and residents held the 10th annual coastal clean-up along the terminal coastline in San Pascual, Batangas, in the Philippines. About 2.4 tons of litter was cleared from the beach.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Sightings of olive ridley sea turtles were reported soon after 300 Chevron volunteers and residents held the 10th annual coastal clean-up along the terminal coastline in San Pascual, Batangas, in the Philippines. About 2.4 tons of litter was cleared from the beach.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-the-international-products-leadership-team-food-from-the-heart-charity.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                In October 2018, the International Products&rsquo; leadership team visited local food charity, Food from the Heart. A total of 19 volunteers dedicated their time to packing 183 food packs that were sent to families and school children across Singapore.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                In October 2018, the International Products&rsquo; leadership team visited local food charity, Food from the Heart. A total of 19 volunteers dedicated their time to packing 183 food packs that were sent to families and school children across Singapore.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevron-singapore-signature-social-investment-caltex-fuel-your-school.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                The XYZ Network Singapore recorded 60 volunteer hours to help 97 direct beneficiaries learn basic circuitry to build robotic insects. Conducted in partnership with Science Centre Singapore, the event created awareness of Chevron Singapore&rsquo;s signature social investment, Caltex Fuel Your School.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                The XYZ Network Singapore recorded 60 volunteer hours to help 97 direct beneficiaries learn basic circuitry to build robotic insects. Conducted in partnership with Science Centre Singapore, the event created awareness of Chevron Singapore&rsquo;s signature social investment, Caltex Fuel Your School.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-international-products-legal-team-willing-hearts-soup-kitchen.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                As part of their team-building efforts, the International Products&rsquo; Legal team of 29 volunteers contributed 101.5 volunteer hours to Willing Hearts, a soup kitchen that provides meals to some 5,000 Singaporeans in need.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                As part of their team-building efforts, the International Products&rsquo; Legal team of 29 volunteers contributed 101.5 volunteer hours to Willing Hearts, a soup kitchen that provides meals to some 5,000 Singaporeans in need.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-almaty-orphanage-plant-a-tree.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Chevron employees contributed their time to tree planting and beautification of the landscape of Orphanage #10 in Almaty.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Chevron employees contributed their time to tree planting and beautification of the landscape of Orphanage #10 in Almaty.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevron-volunteers-digging-irrigation-canal-thailand.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Chevron volunteers are seen digging an irrigation canal to prevent flood as part of We Volunteer in Thailand.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Chevron volunteers are seen digging an irrigation canal to prevent flood as part of We Volunteer in Thailand.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-Indonesia-ibu-earthquake-emergency-response-team.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Indonesia Business Unit (IBU) dispatched two medical officers, Dr. Rahmat and Nurse Mike to Palu, Central Sulawesi, Indonesia to join an earthquake emergency response team. The team was coordinated by SKK Migas, an industry regulator, to support local health authorities in providing medical services to the affected community.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Indonesia Business Unit (IBU) dispatched two medical officers, Dr. Rahmat and Nurse Mike to Palu, Central Sulawesi, Indonesia to join an earthquake emergency response team. The team was coordinated by SKK Migas, an industry regulator, to support local health authorities in providing medical services to the affected community.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <div class="control" aria-hidden="true">
                             <p class="timeline-indicator font-gotham medium-blue"></p>
@@ -521,465 +261,164 @@
                     </div>
                 </div>
 
-
-
-
-                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                        <h2 class="headline dark-blue">chevron humankind</h2>
-                        <div class="body width-600 centered">
-                            <p>Through Chevron Humankind, employees, retirees and contractors&nbsp;in the United States provide support for their communities throughout the year. </p>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div id="mod_50a9e9b1" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
-                    <div class="inner-container centered width-1200" style="margin-bottom:60px;">
-                        <!--Parent item properties-->
-
-
-                        <div class="slider">
-
-
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-180-chevron-volunteers-work-trees-for-houston-lets-grow.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Over 180 Chevron volunteers work with Trees For Houston every year on the signature &ldquo;Let’s Grow&rdquo; event, solidifying a relationship that began 25 years ago. Our volunteers prepared the trees for planting in public spaces throughout greater Houston. Over the life of our partnership, Chevron has planted more than 225,000 trees.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Over 180 Chevron volunteers work with Trees For Houston every year on the signature &ldquo;Let’s Grow&rdquo; event, solidifying a relationship that began 25 years ago. Our volunteers prepared the trees for planting in public spaces throughout greater Houston. Over the life of our partnership, Chevron has planted more than 225,000 trees.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevron-executive-womens-group-san-ramon-volunteers-stem-students-oakland.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Chevron Executive Women&rsquo;s Group and San Ramon volunteers engaged female students from an Oakland, CA middle school in STEM activities. This event is part of our STEM initiative with Techbridge Girls, a partnership which began in 2009. The fieldtrip involved learning opportunities including a hands-on biofuels experience.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Chevron Executive Women&rsquo;s Group and San Ramon volunteers engaged female students from an Oakland, CA middle school in STEM activities. This event is part of our STEM initiative with Techbridge Girls, a partnership which began in 2009. The fieldtrip involved learning opportunities including a hands-on biofuels experience.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevron-chairman-ceo-mike-wirth-employees-houston-food-bank.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Chevron Chairman and CEO Mike Wirth joined over 200 employees to sort and package food at the Houston Food Bank. Employees spent more than 550 volunteer hours during the event. Throughout 2018, a total of 1,800 volunteers attended 66 volunteering events at the Houston Food Bank totaling 6,960 volunteer hours.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Chevron Chairman and CEO Mike Wirth joined over 200 employees to sort and package food at the Houston Food Bank. Employees spent more than 550 volunteer hours during the event. Throughout 2018, a total of 1,800 volunteers attended 66 volunteering events at the Houston Food Bank totaling 6,960 volunteer hours.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevron-volunteers-filled-250-backpacks-local-at-risk-youth-food-bank.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Chevron volunteers worked to fill 250 backpacks for local at-risk youth in need of supplies for the 2018-19 school year. The Northshore Food Bank in Covington, Louisiana, provides food assistance to more than 375 individuals and families each week who live at or below the poverty threshold.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Chevron volunteers worked to fill 250 backpacks for local at-risk youth in need of supplies for the 2018-19 school year. The Northshore Food Bank in Covington, Louisiana, provides food assistance to more than 375 individuals and families each week who live at or below the poverty threshold.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="control" aria-hidden="true">
-                            <p class="timeline-indicator font-gotham medium-blue"></p>
-                            <div class="indicator-container">
-                                <span class="indicator-active"></span>
-                                <ul class="indicator-track"></ul>
-                            </div>
-                            <p class="timeline-indicator font-gotham medium-blue"></p>
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div id="mod_d187c1f3" class="c11 container-fluid  column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
+                <div id="mod_d187c1f3" class="c11 container-fluid  column-count-5 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
                     <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
+                        
                         <div class="parent-text-container centered text-center r">
-                            <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">2019 chevron humankind snapshot</h3>
+                            <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">Valores</h3>
                         </div>
+
                         <div class="c11-container">
-
-
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-
-                                    <p class="figure theme-text-color font-gotham text-bold">$36.7</p>
-                                    <p class="figure-description theme-text-color font-gotham text-bold">million</p>
-                                    <p class="description theme-text-color body-2">has been contributed to U.S. nonprofits through a combination of employee and retiree giving and company matching funds </p>
+                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                        Compromiso
+                                    </p>
+                                    <p class="description theme-text-color body-2">
+                                        Cumplimos con lo prometido, generando orgullo y satisfacción tanto para la empresa como para nuestros colaboradores.
+                                    </p>
                                 </div>
                             </div>
-
-
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-
-                                    <p class="figure theme-text-color font-gotham text-bold">7,752</p>
-                                    <p class="description theme-text-color body-2">employees and retirees volunteered through Chevron Humankind</p>
+                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                        Calidad
+                                    </p>
+                                    <p class="description theme-text-color body-2">
+                                        Nos esforzamos por satisfacer las necesidades de nuestros clientes desde la primera vez.
+                                    </p>
                                 </div>
                             </div>
-
-
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-
-                                    <p class="figure theme-text-color font-gotham text-bold">193,369+</p>
-                                    <p class="description theme-text-color body-2">volunteer hours were logged in the United States</p>
+                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                        Servicio
+                                    </p>
+                                    <p class="description theme-text-color body-2">
+                                        Una sola llamada basta para poner a disposición todo nuestro potencial de trabajo.
+                                    </p>
                                 </div>
                             </div>
-
-
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-
-                                    <p class="figure theme-text-color font-gotham text-bold">2,125</p>
-                                    <p class="description theme-text-color body-2">charitable organizations in the United States benefited from our volunteer time</p>
+                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                        Honestidad
+                                    </p>
+                                    <p class="description theme-text-color body-2">
+                                        Suministramos la cantidad exacta de Gas L.P. que nuestros clientes pagan, al precio oficial vigente.
+                                    </p>
                                 </div>
                             </div>
-
-                        </div>
-
-                        <div class="modal-container">
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
-                <div id="mod_defaa783" class="c23 container-fluid section-bg-color bg-white" data-cvx-module-name="c23">
-                    <div class="inner-container centered width-600" style="margin-bottom:60px;">
-                        <div class="row bg-white">
-                            <div class="col-12 col-md-2 img-col">
-                                <img src="../-/media/shared-media/icons/legal_icon_RGB_FAdd0a.png?h=300&amp;w=300&amp;la=en&amp;hash=48BEFC4C50FD9CF431439D1DC51682A8" class="centered img-fluid" alt="legal icon" />
-                            </div>
-
-
-                            <div class="col-12 col-md-10 col-no-padding">
-                                <div class="c23-container body-2">
-                                    <div class="c23-title">getting results the right way</div>
-                                    <div class="c23-bodytext">We cultivate a culture of integrity and commit ourselves to do things the right way.</div>
-                                    <p class="margin-top-10">
-                                        <a href="../investors/esg%23governance.html" class="secondary-link medium-blue" target=""> <span class="underline">learn more about governance</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
+                            <div class="tile fact-tile bg-dark-blue theme-text-white">
+                                <div class="fact-tile-inner text-center">
+                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                        Seguridad
+                                    </p>
+                                    <p class="description theme-text-color body-2">
+                                        Brindamos capacitación, asesoría y mantenimiento para garantizar el correcto funcionamiento de nuestras instalaciones y equipos.
                                     </p>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
 
-
-
-
-                <div id="mod_a7361b03" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:47px;margin-bottom:0px;">
-                        <h2 class="headline dark-blue">a spirit of inclusion</h2>
+                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
+                    <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                        <h2 class="headline dark-blue">Principales Clientes</h2>
                         <div class="body width-600 centered">
-                            <p style="text-align: center;">Supporting diversity and inclusion is embedded in how we work. By including our team's diverse viewpoints, we drive innovation and business growth.</p>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div id="mod_86bf73ff" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
-                    <div class="inner-container centered width-1200" style="margin-bottom:60px;">
-                        <!--Parent item properties-->
-
-
-                        <div class="slider">
-
-
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-pride-at-30.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-                                                <a href="../stories/2021/Q2/celebrating-30-years-of-standing-together-with-pride.html">celebrating 30 years of PRIDE</a>
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Chevron is proud to commemorate the 30th anniversary of our employee PRIDE network.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Chevron is proud to commemorate the 30th anniversary of our employee PRIDE network.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-international-womens-day.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-                                                <a href="../stories/2019/Q1/celebrating-women-today-and-every-day.html">sharing our stories</a>
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                In celebration of International Women's Day, our inspiring employees share their stories.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                In celebration of International Women's Day, our inspiring employees share their stories.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item row">
-                                <div class="row card-box bg-white">
-                                    <div class="col-12 col-lg-6 background-col col-no-padding">
-                                        <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-pride-employee-network.jpg); background-position: 50% 50%;">
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                    <div class="col-12 col-lg-6 text-col col-no-padding">
-                                        <div class="text-container">
-                                            <p class="title text-center font-gotham dark-blue">
-                                                <span class="eyebrow"></span>
-                                                <a href="https://www.youtube.com/watch?v=Zbi9NPL7RgY" target="_blank">showing our pride</a>
-                                            </p>
-                                            <div class="description body-2 black d-print-none">
-                                                Employees share the history and milestones behind Chevron's PRIDE employee network.
-
-                                            </div>
-                                            <div class="description-print body-2 black d-none d-print-block">
-                                                Employees share the history and milestones behind Chevron's PRIDE employee network.
-                                            </div>
-
-                                            <div class="bottom">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="control" aria-hidden="true">
-                            <p class="timeline-indicator font-gotham medium-blue"></p>
-                            <div class="indicator-container">
-                                <span class="indicator-active"></span>
-                                <ul class="indicator-track"></ul>
-                            </div>
-                            <p class="timeline-indicator font-gotham medium-blue"></p>
+                            <p>
+                                Atendemos a una amplia variedad de clientes, desde hogares hasta grandes industrias, siempre con el compromiso de brindar un servicio de excelencia.
+                            </p>
                         </div>
                     </div>
                 </div>
 
+                <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
+                    <div class="inner-container centered" style="margin-top:0px;">
+                        <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
 
-
-                <div id="mod_b33df45b" class="c11 container-fluid  column-count-3 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
-                    <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:60px;">
-                        <div class="parent-text-container centered text-center r">
-                            <h2 class="type-header parent-header text-base color-dark-blue theme-text-color">recognition</h2>
-                        </div>
-                        <div class="c11-container">
-
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="https://www.hrc.org/campaigns/corporate-equality-index" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank"> <span class="underline">chevron earns its 15th perfect score for LGBT equality</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
+                            <div class="articles">
+                                <div class="splide-wrapper">
+                                    <div class="opening-content">
+                                        <div>
+                                            <p class="type-eyebrow color-dark-blue">Gas LP</p>
+                                            <h3 class="type-header text-base main-header color-dark-blue">Clientes</h3>
+                                        </div>
+                                    </div>
+                                    <div class="splide__track">
+                                        <div class="splide__list">
+                                            <a class="splide__slide cta-link-parent">
+                                                <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="opacity-cover"></div>
+                                                    <div class="image-container">
+                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                    </div>
+                                                    <div class="content-container text-left">
+                                                        <p class="type-body text-caption date">NOMBRE CLIENTE</p>
+                                                        <h4 class="type-subhead text-reduced slide-header">
+                                                            DESCRIPCION CLIENTE
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a class="splide__slide cta-link-parent">
+                                                <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="opacity-cover"></div>
+                                                    <div class="image-container">
+                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                    </div>
+                                                    <div class="content-container text-left">
+                                                        <p class="type-body text-caption date">NOMBRE CLIENTE</p>
+                                                        <h4 class="type-subhead text-reduced slide-header">
+                                                            DESCRIPCION CLIENTE
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a class="splide__slide cta-link-parent">
+                                                <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="opacity-cover"></div>
+                                                    <div class="image-container">
+                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                    </div>
+                                                    <div class="content-container text-left">
+                                                        <p class="type-body text-caption date">NOMBRE CLIENTE</p>
+                                                        <h4 class="type-subhead text-reduced slide-header">
+                                                            DESCRIPCION CLIENTE
+                                                        </h4>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
 
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="https://nglcc.org/news/2021-best-of-the-best-corporations-for-inclusion-and-gala-honorees-named-by-nglcc-and-partners-in-the-national-business-inclusion-consortium-nbic/" class="secondary-link medium-blue" rel="noopener noreferrer" target="_blank" title="top 30 american companies for diversity"> <span class="underline">top 30 american companies for diversity</span>
-                                            <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                            <span class="visually-hidden">opens in new window</span></a>
-                                    </p>
-
+                            <div class="control">
+                                <div class="splide__arrows">
+                                    <button class="splide__arrow splide__arrow--prev cta-button secondary">
+                                        <span class="cta-glyphicon">
+                                            <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
+                                        </span>
+                                    </button>
+                                </div>
+                                <ul class="splide__pagination"></ul>
+                                <div class="splide__arrows">
+                                    <button class="splide__arrow splide__arrow--next cta-button secondary">
+                                        <span class="cta-glyphicon">
+                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                        </span>
+                                    </button>
                                 </div>
                             </div>
 
-                        </div>
-
-                        <div class="modal-container">
-                        </div>
+                        </section>
                     </div>
                 </div>
-
-
-
-
-                <div id="mod_1866029d" class="n05 container-fluid   section-bg-color bg-white" data-cvx-module-name="n05">
-                    <div class="inner-container centered text-center width-1200" style="margin-top:0px;margin-bottom:40px;">
-                        <div class="primary-link ">
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div id="mod_211a4d36" class="c21 container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c21">
-                    <div class="inner-container centered width-800" style="margin-top:67px;margin-bottom:60px;">
-                        <h2 class="dark-blue">resources</h2>
-                        <ul class="list-unstyled">
-                            <li>
-                                <a href="../-/media/chevron/annual-report/2023/documents/2023-Annual-Report.pdf" class="resource-link" target="_blank">
-                                    <span class="d-none d-lg-block media-icon icon-pdf" aria-hidden="true">pdf</span>
-
-                                    <span class="link-text">
-                                        <span class="underline">2023 Annual Report</span>
-                                    </span>
-                                    <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                    <span class="visually-hidden">pdf opens in new window</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="../newsroom/media/publications/corporate-sustainability-report.html" class="resource-link" target="">
-
-                                    <span class="link-text">
-                                        <span class="underline">2023 Corporate Sustainability Report</span>
-                                    </span>
-                                    <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-
-                                </a>
-                            </li>
-                            <li>
-                                <a href="../-/media/shared-media/documents/The-Chevron-Way.pdf" class="resource-link" target="_blank">
-                                    <span class="d-none d-lg-block media-icon icon-pdf" aria-hidden="true">pdf</span>
-
-                                    <span class="link-text">
-                                        <span class="underline">The Chevron Way &ndash; English</span>
-                                    </span>
-                                    <span class="glyphicon glyphicon-external-link" aria-hidden="true"></span>
-                                    <span class="visually-hidden">pdf opens in new window</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="../newsroom/media/publications.html" class="resource-link" target="">
-
-                                    <span class="link-text">
-                                        <span class="underline">View archive of previous years’ reports</span>
-                                    </span>
-                                    <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-
-                                </a>
-                            </li>
-
-                        </ul>
-
-                    </div>
-                </div>
-
 
             </div>
-
-
         </main>
 
         <footer id="footer" class="r footer-2023 container-fluid background-color-dark-blue " data-cvx-module-name="footer">

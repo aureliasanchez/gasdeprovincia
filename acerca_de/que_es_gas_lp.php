@@ -323,7 +323,7 @@
           </div>
         </div>
 
-        <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
+        <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-white " data-cvx-module-name="c57">
           <div class="inner-container centered" style="margin-top:0px;">
             <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
               <div class="articles">

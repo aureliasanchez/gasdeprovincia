@@ -191,295 +191,323 @@
             <div class="background-container" style="background-position:center center"></div>
             <div class="parent-container">
               <div class="text-window-container background-color-white">
-                <h1 class="type-display text-elevated text-window width-1200 centered text-center">our brands</h1>
+                <h1 class="type-display text-elevated text-window width-1200 centered text-center">¿Qué es gas LP?</h1>
               </div>
               <div class="description-container background-color-white">
                 <div class="description type-body text-elevated width-600 centered text-center">
-                  Whether we’re fueling cars or advancing the energy system of tomorrow, Chevron’s brands set the standard for excellence. With a rich history dating back over a century, Chevron’s family of brands has built trust and recognition worldwide.
+                  El gas LP (Gas Licuado de Petróleo) es una mezcla de hidrocarburos derivada del crudo. Es un recurso energético limpio y eficiente, ideal para una variedad de aplicaciones.
                 </div>
               </div>
             </div>
           </div>
         </div>
 
-
-
-        <div id="mod_e387f972" class="c17b container-fluid newsroom-image-fade  section-bg-color bg-white" data-cvx-module-name="c17b">
-          <div class="inner-container centered width-800" style="margin-bottom:0px;">
-
-
-
-
-            <div class="row">
-              <div class="col col-12">
-                <img src="../-/media/chevron/who-we-are/our-brands/images/2933682_Our_Family_of_Brands_Logo_RGB_holding_shape904b.png?h=565&amp;w=864&amp;la=en&amp;hash=E5FA8AE354CF6605EF4EA90CFE999A2F" class="centered img-fluid newsroom-image-fade-item" loading="lazy" alt="" />
-              </div>
-            </div>
-
-          </div>
-        </div>
-
-
-
-
-
-        <div id="mod_3f84a58c" class="c55 r left container-fluid background-color-dark-blue " data-cvx-module-name="c55">
-          <div class="inner-container centered" style="margin-top:120px;margin-bottom:24px;">
-            <div class="image-side">
-              <div class="caption-container">
-                <h2 class="text-reduced type-subhead text-left">chevron</h2>
-                <div class="text-base type-body">
-                  <p>Quality and reliability drive customers to Chevron. Innovative and forward looking, our high quality fuel and customer experience mean Chevron is trusted by our customers.</p>
-                  <p><a href="https://www.chevronwithtechron.com/" class="cta-link type-cta text-base" target="_blank"><span class="cta-glyphicon"><span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span></span><span class="cta-underline">learn more about chevron with techron</span></a></p>
-                  <p><a href="https://www.chevronwithtechron.com/station" class="cta-link type-cta text-base" target="_blank"><span class="cta-glyphicon"><span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span></span><span class="cta-underline">find a chevron service station</span></a></p>
-                </div>
-              </div>
-              <div class="background-container">
-                <div class="background" style="background-image: url(../-/media/chevron/who-we-are/our-brands/images/02_brand_2048x204832dd.jpg?h=588&amp;hash=25728D83DDAEE6AB16C60732944C178B); background-position:center center;"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-
-
-
-
-
-        <div id="mod_c7f72683" class="c55 r right container-fluid background-color-dark-red " data-cvx-module-name="c55">
-          <div class="inner-container centered" style="margin-top:120px;margin-bottom:24px;">
-            <div class="image-side">
-              <div class="background-container">
-                <div class="background" style="background-image: url(../-/media/chevron/who-we-are/our-brands/images/03_brand_2048x204806a5.jpg?h=588&amp;hash=56B42BEBB25A0DE93CF215255143AC58); background-position:center center;"></div>
-              </div>
-              <div class="caption-container">
-                <h2 class="text-reduced type-subhead text-left">texaco</h2>
-                <div class="text-base type-body">
-                  <p>The Texaco star stands for more than a century of quality fuels and lubricants. A global icon with a powerful presence in the United States and Europe, Texaco delivers the high performance and customer satisfaction drivers trust.</p>
-                  <p><a href="https://www.texaco.com/" class="cta-link type-cta text-base" target="_blank"><span class="cta-glyphicon"><span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span></span><span class="cta-underline">learn more about texaco</span></a></p>
-                  <p><a href="https://www.texaco.com/#find-station" class="cta-link type-cta text-base" target="_blank"><span class="cta-glyphicon"><span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span></span><span class="cta-underline">find a texaco service station</span></a></p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-
-
-
-
-
-        <div id="mod_8ade89c2" class="c55 r left container-fluid background-color-dark-purple " data-cvx-module-name="c55">
-          <div class="inner-container centered" style="margin-top:120px;margin-bottom:24px;">
-            <div class="image-side">
-              <div class="caption-container">
-                <h2 class="text-reduced type-subhead text-left">caltex</h2>
-                <div class="text-base type-body">
-                  <p>For more than 70 years, Caltex has symbolized uncompromising products and services. Quality fuels and lubricants and a pedigree in technology set Caltex apart.</p>
-                  <p><a href="https://www.caltex.com/sg/" class="cta-link type-cta text-base" target="_blank"><span class="cta-glyphicon"><span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span></span><span class="cta-underline">learn more about caltex</span></a></p>
-                  <p><a href="https://www.caltex.com/sg/find-a-caltex-station.html" class="cta-link type-cta text-base" target="_blank"><span class="cta-glyphicon"><span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span></span><span class="cta-underline">find a caltex service station</span></a></p>
-                </div>
-              </div>
-              <div class="background-container">
-                <div class="background" style="background-image: url(../-/media/chevron/who-we-are/our-brands/images/04_brand_2048x20483663.jpg?h=588&amp;hash=92E2A4C08BC8E761A74355789BE05D02); background-position:center center;"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-        <div id="mod_59b8ef14" class="r c69 container-fluid right background-color-white  full text-base" data-cvx-module-name="c69">
-          <div class="inner-container centered width-1400" style="margin-top:120px;margin-bottom:120px;">
-            <div class="column-container">
-              <div class="background-container col">
-
-                <div class="background" style="background-image: url(../-/media/chevron/who-we-are/our-brands/images/05_giftandcreditcards_2048x2048df8e.jpg?h=588&amp;hash=D9F47343BCC5DA19133D8DCE7030CFAC);"></div>
-              </div>
-              <div class="text-container col text-base ">
-                <h2 class="header type-header color-medium-blue color-important">gift and <nobr>credit cards</nobr>
-                </h2>
-                <div class="description type-body text-base">
-                  Wherever you’re headed, it pays to have a Chevron card. Feel confident on your travels when you keep our gift cards and personal and business credit cards by your side.
-                </div>
-                <a href="our-brands/gift-credit-cards.html" class="cta-link type-cta" target=""> <span class="cta-glyphicon">
-                    <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                  </span>
-                  <span class="cta-underline">explore our gift and credit cards</span>
-                </a>
-
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-
-
-        <div id="mod_9c8f9794" class="c06r r container-fluid background-color-dark-blue text-elevated " data-cvx-module-name="c06r">
-          <div class="inner-container centered width-1920" style="margin-bottom:0px;padding-top: 120px;">
-            <div class="width-1000 centered text-center text-container">
-              <h2 class="type-header text-elevated header color-dark-blue">brand licensing opportunities</h2>
-              <div class="description width-600 type-body text-base">
-                Take your business to the next level by partnering with one of our iconic global brands. In addition to Chevron station franchising, we are looking for visionary partners to license the Texaco® or Caltex® brands in fuels retailing or lubricants in manufacturing, sales, and marketing.
-              </div>
-
-            </div>
-          </div>
-        </div>
-
-        <div id="mod_6d1238a8" class="c63 r container-fluid background-color-dark-blue" data-cvx-module-name="c63">
-          <div class="inner-container centered" style="margin-top:0px;margin-bottom:20px;">
-
-            <section class="list-container with-image">
-              <div>
-
-                <img src="../-/media/chevron/who-we-are/our-brands/images/06_brandlicensing_2048x11526a7b.jpg?h=792&amp;hash=610C0DE780EC52238D891E12101E6DA9" alt="" />
-              </div>
-              <div class="lists">
-
-                <div class="list-col">
-                  <ul>
-                    <li>
-                      <a href="https://www.texaco.com/en_us/home/renewable-diesel-blend/b2b-business-solutions.html" class="cta-parent-link cta-link" rel="noopener noreferrer" target="_blank"> <span class="truncate type-subhead text-reduced">explore texaco fuels and lubricants</span>
-                        <span class="cta-glyphicon ">
-                          <span class="animate glyphicon glyphicon-2023-arrow-up-right" aria-hidden="true"></span>
-                        </span>
+        <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
+          <div class="inner-container centered" style="margin-top:0px;">
+            <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
+              <div class="articles">
+                <div class="splide-wrapper">
+                  <div class="opening-content">
+                    <div>
+                      <h3 class="type-header text-base main-header color-dark-blue">Caracteristicas</h3>
+                    </div>
+                  </div>
+                  <div class="splide__track">
+                    <div class="splide__list">
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">NO TIENE COLOR</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Es transparente como el aire.
+                            </h4>
+                          </div>
+                        </div>
                       </a>
-                    </li>
-                    <li>
-                      <a href="https://www.chevronwithtechron.com/station-ownership" class="cta-parent-link cta-link" rel="noopener noreferrer" target="_blank"> <span class="truncate type-subhead text-reduced">learn more about chevron fuels</span>
-                        <span class="cta-glyphicon ">
-                          <span class="animate glyphicon glyphicon-2023-arrow-up-right" aria-hidden="true"></span>
-                        </span>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">NO TIENE OLOR</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Se le agrega un olor característico (similar a huevo podrido) para detectar fugas.
+                            </h4>
+                          </div>
+                        </div>
                       </a>
-                    </li>
-                    <li>
-                      <a href="https://www.caltex.com/id/en/brand-extension.html" class="cta-parent-link cta-link" rel="noopener noreferrer" target="_blank"> <span class="truncate type-subhead text-reduced">discover caltex fuels and lubricants</span>
-                        <span class="cta-glyphicon ">
-                          <span class="animate glyphicon glyphicon-2023-arrow-up-right" aria-hidden="true"></span>
-                        </span>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">ES TÓXICO</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              La inhalación prolongada puede ser perjudicial.
+                            </h4>
+                          </div>
+                        </div>
                       </a>
-                    </li>
-                  </ul>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">ES LIMPIO</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              No contamina y, al usarse correctamente, no forma hollín ni afecta el sabor de los alimentos.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">ES MÁS PESADO QUE EL AIRE</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Se acumula en las partes bajas como sótanos.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">ES EXCESIVAMENTE FRÍO</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Puede causar quemaduras al contacto con la piel.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="control">
+                <div class="splide__arrows">
+                  <button class="splide__arrow splide__arrow--prev cta-button secondary">
+                    <span class="cta-glyphicon">
+                      <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
+                    </span>
+                  </button>
+                </div>
+                <ul class="splide__pagination"></ul>
+                <div class="splide__arrows">
+                  <button class="splide__arrow splide__arrow--next cta-button secondary">
+                    <span class="cta-glyphicon">
+                      <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                    </span>
+                  </button>
                 </div>
               </div>
             </section>
           </div>
         </div>
 
-        <div id="mod_8378c48d" class="c60 r container-fluid background-color-dark-blue" data-cvx-module-name="c60">
-          <div class="inner-container centered" style="margin-top:0px;margin-bottom:40px;">
-            <div class="promo-banner-content width-1200">
-              <a href="https://www.chevronwithtechron.com/en_us/home/contact-us/chevron-ready-transition.html" class="cta-link-parent cta centered text-center text-container background-color-medium-blue" target="">
-                <div class="opacity-cover"></div>
-                <div class="">
-                  <h2 class="type-header header">alternative fuel for fleets</h2>
-                  <span class="cta-link type-cta">
+        <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
+          <div class="inner-container centered" style="margin-top:0px;">
+            <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
+              <div class="articles">
+                <div class="splide-wrapper">
+                  <div class="opening-content">
+                    <div>
+                      <h3 class="type-header text-base main-header color-dark-blue">Ventajas</h3>
+                    </div>
+                  </div>
+                  <div class="splide__track">
+                    <div class="splide__list">
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">USO Y CONSUMO</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Ideal para instalaciones y equipos existentes sin necesidad de modificaciones adicionales.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">ESTABILIDAD DE PRECIOS</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Permite un mejor control de costos comparado con el gas natural.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">MAYOR PODER CALORÍFICO</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Proporciona más calor con menor volumen que el gas natural.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">PRESIÓN CONSTANTE</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              No sufre cortes de suministro por mantenimientos generales.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="control">
+                <div class="splide__arrows">
+                  <button class="splide__arrow splide__arrow--prev cta-button secondary">
+                    <span class="cta-glyphicon">
+                      <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
+                    </span>
+                  </button>
+                </div>
+                <ul class="splide__pagination"></ul>
+                <div class="splide__arrows">
+                  <button class="splide__arrow splide__arrow--next cta-button secondary">
                     <span class="cta-glyphicon">
                       <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
                     </span>
-                    <span class="cta-underline">let's fuel your fleets with an alternative energy solution</span>
-                  </span>
+                  </button>
                 </div>
-              </a>
-            </div>
-          </div>
-        </div>
-
-
-
-
-        <div id="mod_7e0f6f6d" class="c06r r container-fluid background-color-dark-purple text-elevated " data-cvx-module-name="c06r">
-          <div class="inner-container centered width-1920" style="margin-top:120px;margin-bottom:120px;">
-            <div class="width-1000 centered text-center text-container">
-              <h2 class="type-header text-elevated header color-dark-blue">affordable, reliable, <nobr>ever-cleaner</nobr> energy</h2>
-              <div class="description width-600 type-body text-base">
-                We work every day to provide energy that helps billions of people achieve the benefits of modern life. And to create solutions that will help advance a lower carbon future.
               </div>
-              <a href="../what-we-do/energy.html" class="cta-button type-cta text-base" target=""> <span class="cta-glyphicon">
-                  <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                </span>
-                explore energy solutions</a>
-            </div>
+            </section>
           </div>
         </div>
 
-
-
-
-        <div id="mod_bcaf5e99" class="r c72 container-fluid background-color-dark-purple background-color-dark-blue" data-cvx-module-name="c72">
-          <div class="inner-container centered" style="margin-top:0px;margin-bottom:40px;">
-            <div class="small-layout-container">
-
-              <style type="text/css">
-                #mod_bcaf5e99_1 {
-                  background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_1_energy_463x463d4f0.jpg?h=427&amp;hash=9A07B4048D05ADFBC2F29B8ADA11B4A5');
-                }
-
-                @media screen and (min-width: 768px) {
-                  #mod_bcaf5e99_1 {
-                    background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_1_energy_463x46338fa.jpg?h=463&amp;hash=D14EF9B82971D7B1A8BD997C0AA31B15');
-                  }
-                }
-              </style>
-              <div id="mod_bcaf5e99_1" class="image-cell" style="background-position:center center;"></div>
-              <style type="text/css">
-                #mod_bcaf5e99_2 {
-                  background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_3_energy_822x46307d4.jpg?h=427&amp;hash=F68F60FEB59D6A357253B98837D14213');
-                }
-
-                @media screen and (min-width: 768px) {
-                  #mod_bcaf5e99_2 {
-                    background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_3_energy_822x4636129.jpg?h=463&amp;hash=DE432794EB2EEDF5F355C2602FCF7619');
-                  }
-                }
-              </style>
-              <div id="mod_bcaf5e99_2" class="image-cell" style="background-position:center center;"></div>
-              <style type="text/css">
-                #mod_bcaf5e99_3 {
-                  background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_4_energy_306x4638d56.jpg?h=427&amp;hash=8C5BE9946C3CB5889409D2ED92CFE004');
-                }
-
-                @media screen and (min-width: 768px) {
-                  #mod_bcaf5e99_3 {
-                    background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_4_energy_306x463f696.jpg?h=463&amp;hash=E1886BD3DBA79F1003A3BD582085780E');
-                  }
-                }
-              </style>
-              <div id="mod_bcaf5e99_3" class="image-cell" style="background-position:center center;"></div>
-              <style type="text/css">
-                #mod_bcaf5e99_4 {
-                  background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_2_energy_822x463a4a4.jpg?h=427&amp;hash=D0BA16A5B0B9F2CDE0A91DE1D0361296');
-                }
-
-                @media screen and (min-width: 768px) {
-                  #mod_bcaf5e99_4 {
-                    background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_2_energy_822x4638db2.jpg?h=463&amp;hash=9B12BD88D908171FCCE0258F15EA8335');
-                  }
-                }
-              </style>
-              <div id="mod_bcaf5e99_4" class="image-cell" style="background-position:center center;"></div>
-              <style type="text/css">
-                #mod_bcaf5e99_5 {
-                  background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_5_energy_308x4637bb2.jpg?h=427&amp;hash=70B84EB23B8B68062135440D290F1226');
-                }
-
-                @media screen and (min-width: 768px) {
-                  #mod_bcaf5e99_5 {
-                    background-image: url('../-/media/chevron/who-we-are/our-brands/images/07_5_energy_308x46353c6.jpg?h=463&amp;hash=4EB668DB4213D07CDD92B432B24D85AB');
-                  }
-                }
-              </style>
-              <div id="mod_bcaf5e99_5" class="image-cell" style="background-position:center center;"></div>
-            </div>
+        <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
+          <div class="inner-container centered" style="margin-top:0px;">
+            <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
+              <div class="articles">
+                <div class="splide-wrapper">
+                  <div class="opening-content">
+                    <div>
+                      <h3 class="type-header text-base main-header color-dark-blue">Aplicaciones</h3>
+                    </div>
+                  </div>
+                  <div class="splide__track">
+                    <div class="splide__list">
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">DOMÉSTICO</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Perfecto para cocinas, calentadores y otros aparatos del hogar.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">INDUSTRIAL</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Esencial para procesos de manufactura y generación de calor.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">COMERCIAL</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Utilizado en restaurantes, hoteles y comercios.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent" href="">
+                        <div class="inner-slide-wrapper background-color-medium-blue">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date">CARBURACIÓN AUTOMOTRIZ</p>
+                            <h4 class="type-subhead text-reduced slide-header">
+                              Alternativa de combustible para vehículos.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="control">
+                <div class="splide__arrows">
+                  <button class="splide__arrow splide__arrow--prev cta-button secondary">
+                    <span class="cta-glyphicon">
+                      <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
+                    </span>
+                  </button>
+                </div>
+                <ul class="splide__pagination"></ul>
+                <div class="splide__arrows">
+                  <button class="splide__arrow splide__arrow--next cta-button secondary">
+                    <span class="cta-glyphicon">
+                      <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </section>
           </div>
         </div>
-        <!-- suppressed: {BEE59723-E305-4766-96A6-8ACA102750C9} -->
       </div>
 
 

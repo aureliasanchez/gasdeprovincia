@@ -63,10 +63,6 @@
 
     <link href="../../assets/css/basec5ea.css?v=9OsDOlqCA0-4DCVImliMiimI3v9QhOw6cbU-w2UbXZ01" rel="stylesheet" />
 
-
-
-
-
     <script type="application/ld+json">
         {
             "@context": "http://schema.org",
@@ -90,9 +86,6 @@
             }
         }
     </script>
-
-
-
 
     <!-- Google Tag Manager -->
     <script>
@@ -119,10 +112,6 @@
         });
     </script>
 
-
-
-
-
 </head>
 
 <body class="body-who-we-are" ontouchstart="">
@@ -140,25 +129,20 @@
         <?php
         include("../components/header.html");
         ?>
+
         <main role="main" id="main-content" tabindex="-1">
-
-
-
 
             <div class=" module-looper">
 
-
-
-
-
-
-                <div id="mod_c7c4da4e" class="c01 container-fluid  section-bg-color bg-white" data-cvx-module-name="c01">
+                <div id="mod_c7c4da4e" class="c01 container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01">
 
                     <div class="inner-container row centered width-1200" style="margin-bottom:60px;">
                         <div class="col col-12 width-800 centered text-container">
-                            <h1 class="headline dark-blue">email chevron</h1>
+                            <h1 class="headline dark-blue">Pedidos</h1>
                             <div class="body width-600 centered">
-                                <p style="text-align: center;">thank you for reaching out to us...</p>
+                                <p style="text-align: center;">
+                                    En Gas de Provincia, hacemos que la recarga de gas LP sea rápida y conveniente para ti. Utiliza nuestro formulario para realizar tu pedido de manera fácil y segura. Proporcionamos tanques estacionarios y cilindros portátiles con diferentes capacidades para satisfacer tus necesidades específicas.
+                                </p>
                                 <div id="gtx-trans" style="position: absolute; left: -193px; top: -25px;">
                                     <div class="gtx-trans-icon">&nbsp;</div>
                                 </div>
@@ -166,67 +150,7 @@
                         </div>
                     </div>
 
-
                 </div>
-
-                <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
-                    <div class="toast-header">
-                        <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
-                            <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
-                        </button>
-                    </div>
-                    <div class="toast-body font-gotham">
-                        <p class="toast-message">subscribe to our newsletter to receive news and updates.</p>
-                        <div class="mt-2 pt-2 primary-link">
-                            <a href="../../newsroom/subscribe.html" class="link signup-button theme-bg-color" target="">sign up now</a>
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <div id="mod_c241705c" class="c11 container-fluid  column-count-2 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
-                    <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
-                        <div class="parent-text-container centered text-center r">
-
-                        </div>
-                        <div class="c11-container">
-                            <div class="tile header-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <p class="header dark-blue font-gotham text-bold">
-                                        chevron headquarters
-                                    </p>
-                                    <div class="description">
-                                        <p>5001 Executive Pkwy, Suite 200<br />San Ramon, CA 94583 USA<br />
-                                            Telephone: <a href="tel:+19258421000">+1 925.842.1000</a></p>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="tile header-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <p class="header dark-blue font-gotham text-bold">
-                                        global contacts
-                                    </p>
-                                    <div class="description">
-                                        Find contact information for the countries where we operate.
-                                    </div>
-                                    <!--Displaying anchor tag if url is available-->
-                                    <p class="margin-0">
-                                        <a href="../../worldwide.html" class="secondary-link medium-blue" target=""> <span class="underline">visit chevron worldwide</span>
-                                            <span class="glyphicon glyphicon-chevron-caret-right" aria-hidden="true"></span>
-                                        </a>
-                                    </p>
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="modal-container">
-                        </div>
-                    </div>
-                </div>
-
 
 
 
@@ -499,6 +423,7 @@
                         }
                     }
                 </style>
+
                 <div class="general-filter contact-us-container container-fluid">
                     <div class="content-basics inner-container centered width-800">
                         <form action="https://webto.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="post" class="contact-us" id="commentform">
@@ -512,97 +437,65 @@
                             <input type="hidden" id="origin" name="origin" value="Chevron.com" />
                             <input type="hidden" id="external" name="external" value="1" />
                             <input type="hidden" id="email" name="email" value="" />
+
                             <div class="row dropdown">
-                                <label for="00N5Y00000Qdv0q">Topic<span class="medium-red">*</span></label>
-                                <select id="00N5Y00000Qdv0q" name="00N5Y00000Qdv0q" class="contact-dropdown dropdown-button truncate-container medium-blue topic" required="" data-error-name="Topic">
-                                    <option value="" />Select Topic
-                                    <option value="Service Stations" data-topic="service-stations" data-url="https://www.chevronwithtechron.com/en_us/home/contact-us.html" />Service Stations
-                                    <option value="Redirect" data-topic="msds" data-url="https://cglapps.chevron.com/sdspds/HomePage.aspx" />MSDS
-                                    <option value="Products" data-topic="products" />Products
-                                    <option value="Research" data-topic="research" />Research
-                                    <option value="Back Office" data-topic="jobs-internships-and-employment" />Jobs, Internships and Employment
-                                    <option value="Back Office" data-topic="pipelines" />Pipelines
-                                    <option value="Back Office" data-topic="unclaimed-property" />Unclaimed Property
-                                    <option value="Back Office" data-topic="media-relations" />Media Relations
-                                    <option value="Back Office" data-topic="investor-relations" />Investor Relations
-                                    <option value="Sponsorship/Donation" data-topic="sponsorships-and-donations" />Sponsorships &amp; Donations
-                                    <option value="Fraud" data-topic="fraud" />Fraud
-                                    <option value="Vendor Inquiry" data-topic="vendor-inquiry" />Vendor Inquiry
-                                    <option value="Credit Card" data-topic="credit-cards-and-gift-cards" />Credit Cards &amp; Gift Cards
-                                    <option value="Back Office" data-topic="land-and-leasing-opportunities" />Land &amp; Leasing Opportunities
-                                    <option value="Back Office" data-topic="accessibility" />Accessibility
-                                    <option value="Back Office" data-topic="privacy" />Privacy
-                                    <option value="Back Office" data-topic="terms-of-use" />Terms of Use
-                                    <option value="Back Office" data-topic="unsubscribe-from-email" />Unsubscribe from Email
-                                </select>
-                            </div>
-                            <div class="row dropdown">
-                                <label for="00N5Y00000Qdv1D">Sub-Topic</label>
-                                <select id="00N5Y00000Qdv1D" name="00N5Y00000Qdv1D" class="contact-dropdown dropdown-button truncate-container medium-blue sub-topic form-control" disabled="disabled">
-                                    <option value="" data-parent="service-stations" />
-                                    <option value="" data-parent="msds" />
-                                    <option value="Fuel" data-parent="products" />Fuels
-                                    <option value="" data-parent="products" />Fuels - Technical Questions
-                                    <option value="Lubricants" data-parent="products" />Lubricants
-                                    <option value="" data-url="http://chevron-gsc.force.com/lubeteksupport" data-parent="products" />Lubricants - Technical Questions
-                                    <option value="" data-url="https://www.chevronlubricants.com/en_us/home/where-to-buy.html" data-parent="products" />Where to Buy
-                                    <option value="Chemicals" data-parent="products" />Chemicals
-                                    <option value="Aviation" data-parent="products" />Aviation
-                                    <option value="Diesel" data-parent="products" />Diesel
-                                    <option value="" data-url="https://crudemarketing.chevron.com/" data-parent="products" />Crude Oil
-                                    <option value="Historical Research" data-parent="research" />Historical Research
-                                    <option value="Climate Change" data-parent="research" />Climate Change
-                                    <option value="Greenhouse Gas" data-parent="research" />Greenhouse Gas
-                                    <option value="Environment, Social, and Governance" data-parent="research" />Environment, Social, and Governance
-                                    <option value="Careers and Employment" data-parent="jobs-internships-and-employment" />Retirement &amp; Benefits
-                                    <option value="Careers and Employment" data-url="https://careers.chevron.com" data-parent="jobs-internships-and-employment" />Employment
-                                    <option value="Careers and Employment" data-url="https://careers.chevron.com/students-and-graduates/internship-programs" data-parent="jobs-internships-and-employment" />Internship
-                                    <option value="Careers and Employment" data-url="https://www.chevron.com/about/contact/human-resources" data-parent="jobs-internships-and-employment" />Employment Verification
-                                    <option value="Pipelines" data-parent="pipelines" />
-                                    <option value="Unclaimed Property" data-parent="unclaimed-property" />
-                                    <option value="Media Relations" data-parent="media-relations" />
-                                    <option value="Investor Relations" data-parent="investor-relations" />
-                                    <option value="Grants" data-parent="sponsorships-and-donations" />Grants
-                                    <option value="Donations" data-parent="sponsorships-and-donations" />Donations
-                                    <option value="Sponsorships" data-parent="sponsorships-and-donations" />Sponsorships
-                                    <option value="Human kind" data-parent="sponsorships-and-donations" />Human Kind
-                                    <option value="Spam/Scam" data-parent="fraud" />Employment Scam
-                                    <option value="" data-parent="fraud" />Station Fraud
-                                    <option value="New Business Inquiry" data-parent="vendor-inquiry" />New Business Inquiry
-                                    <option value="Supplier Diversity Program" data-parent="vendor-inquiry" />Supplier Diversity Program
-                                    <option value="" data-url="https://crudemarketing.chevron.com" data-parent="vendor-inquiry" />Crude Oil
-                                    <option value="1099 Forms" data-parent="vendor-inquiry" />1099 Forms
-                                    <option value="Accounts Payable" data-parent="vendor-inquiry" />Accounts Payable
-                                    <option value="" data-parent="credit-cards-and-gift-cards" />Credit Card
-                                    <option value="Chevron Gift Cards" data-parent="credit-cards-and-gift-cards" />Gift Card
-                                    <option value="Land &amp; Leasing Opportunities" data-parent="land-and-leasing-opportunities" />
-                                    <option value="Accessibility" data-parent="accessibility" />
-                                    <option value="Privacy" data-parent="privacy" />
-                                    <option value="Terms of Use" data-parent="terms-of-use" />
-                                    <option value="Unsubscribe from E-mail" data-parent="unsubscribe-from-email" />
+                                <label for="00N5Y00000Qdv0q">Seleccione un municipio<span class="medium-red">*</span></label>
+                                <select id="00N5Y00000Qdv0q" name="00N5Y00000Qdv0q" class="contact-dropdown dropdown-button truncate-container medium-blue topic" required="" data-error-name="Municipoio">
+
+                                    <option value="" />Selecciona uno
+                                    <option value="Products" data-topic="products" />Pachuca
+                                    <option value="Products" data-topic="products" />El arenal
+                                    <option value="Products" data-topic="products" />Real del Monte
+                                    <option value="Products" data-topic="products" />Ixmiquilpan
+                                    <option value="Products" data-topic="products" />Acelotla
+                                    <option value="Products" data-topic="products" />Tulancingo
+                                    <option value="Products" data-topic="products" />Apan
+                                    <option value="Products" data-topic="products" />Zacualtipán de Ángeles
+
                                 </select>
                             </div>
                             <div class="row">
-                                <label for="00N300000015pb2">First Name<span class="medium-red">*</span></label><input type="text" id="00N300000015pb2" name="00N300000015pb2" title="Please enter your first name." autocomplete="given-name" value="" minlength="1" aria-required="true" required="" data-error-name="First Name" />
+                                <label for="00N300000015pb2">Nombre del cliente<span class="medium-red">*</span></label><input type="text" id="00N300000015pb2" name="00N300000015pb2" title="Por favor, ingresa tu nombre completo." autocomplete="given-name" value="" minlength="1" aria-required="true" required="" data-error-name="First Name" />
                             </div>
                             <div class="row">
-                                <label for="00N300000015pbC">Last Name<span class="medium-red">*</span></label><input type="text" id="00N300000015pbC" name="00N300000015pbC" title="Please enter your last name." autocomplete="family-name" value="" minlength="1" aria-required="true" required="" data-error-name="Last Name" />
+                                <label for="00N300000015pbC">Teléfono<span class="medium-red">*</span></label><input type="number" id="00N300000015pbC" name="00N300000015pbC" title="Por favor, ingresa tu numero telefonico." autocomplete="family-name" value="" minlength="1" maxlength="10" aria-required="true" required="" data-error-name="Phone" />
                             </div>
                             <div class="row">
-                                <label for="00N300000015pY9">Email<span class="medium-red">*</span></label><input type="email" id="00N300000015pY9" name="00N300000015pY9" pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" title="Please use a properly formatted email address." autocomplete="email" value="" aria-required="true" required="" data-error-name="Email" />
+                                <label for="00N300000015pY9">Correo electronico<span class="medium-red">*</span></label><input type="email" id="00N300000015pY9" name="00N300000015pY9" pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$" title="Por favor, ingresa tu email." autocomplete="email" value="" aria-required="true" required="" data-error-name="Email" />
                             </div>
                             <div class="row media-relations hide-flex">
                                 <label for="00N300000015pcU">Phone</label><input type="text" id="00N300000015pcU" name="00N300000015pcU" title="Please enter a valid phone number." value="" maxlength="25" /><!--placeholder="123456789012345" minlength="10" maxlength="20" aria-required="true" required=""-->
                             </div>
-                            <div class="row media-relations hide-flex">
-                                <label for="00N5Y00000Qdv0x">Media Affiliation</label><input type="text" id="00N5Y00000Qdv0x" name="00N5Y00000Qdv0x" value="" />
+                            <div class="row">
+                                <label for="00N300000015pb2">Domicilio<span class="medium-red">*</span></label><input type="text" id="00N300000015pb2" name="00N300000015pb2" title="Por favor, ingresa tu domicilio." autocomplete="given-name" value="" minlength="1" aria-required="true" required="" data-error-name="First Name" />
                             </div>
-                            <div class="row checkbox checkbox-custom">
-                                <input type="checkbox" id="00N5Y00000Qdv12" name="00N5Y00000Qdv12" value="1" /><label for="00N5Y00000Qdv12">Newsletter Opt-In</label>
+                            <div class="row">
+                                <label for="00N300000015pb2">Tipo de servicio<span class="medium-red">*</span></label>
+                                <label></label>
+                                <label>
+                                    Estacionario
+                                    <input type="radio" name="servicio" value="estacionario" checked>
+                                </label>
+                                <label>
+                                    Cilindro
+                                    <input type="radio" name="servicio" value="cilindro">
+                                </label>
+                                <label>
+                                    <input type="number">
+                                </label>
                             </div>
-                            <div class="row comments">
-                                <label for="description">Comments<span class="medium-red">*</span></label>
-                                <div class="comments-length text-normal body-3 dark-gray">(<span class="comments-length-value" aria-hidden="true">0</span><span class="comments-length-value sr-only" aria-live="polite">0</span>/1000)</div><textarea id="description" name="description" rows="5" minlength="1" maxlength="1000" aria-required="true" required="" data-error-name="Comments"></textarea>
+                            <div class="row">
+                                <label for="00N300000015pb2">Cilindro<span class="medium-red">*</span></label>
+                                <label></label>
+                                <label>
+                                    20 Litros
+                                    <input type="radio" name="cilindro" value="estacionario" checked>
+                                </label>
+                                <label>
+                                    30 Litros
+                                    <input type="radio" name="cilindro" value="estacionario" checked>
+                                </label>
+                                <label></label>
                             </div>
                             <div id="submit-row" class="row submit-row">
                                 <div class="recap-container">
@@ -614,6 +507,7 @@
                                     </div>
                                 </div>
                             </div>
+
                         </form>
                         <div class="contact-us-thanks">
                             <h2 class="dark-blue">thank you</h2>
@@ -883,15 +777,6 @@
                 </script>
                 <script src="../../../www.google.com/recaptcha/api.js"></script>
 
-                <div id="mod_9e4e76b9" class="a14 newsroom container-fluid section-bg-color bg-offwhite" data-cvx-module-name="a14">
-                    <div class="inner-container centered width-1200" style="margin-bottom:62px;">
-                        <h2 class="headline dark-blue">chevron email updates</h2>
-                        <p class="subscribe-text font-gotham-narrow"> Subscribe to our newsletter to receive news and updates.</p>
-                        <div class="primary-link ">
-                            <a href="../../newsroom/subscribe.html" class="link theme-bg-color" target="">sign up for the newsletter</a>
-                        </div>
-                    </div>
-                </div>
 
             </div>
 

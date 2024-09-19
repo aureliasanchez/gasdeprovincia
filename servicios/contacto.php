@@ -127,8 +127,11 @@
         <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
 
         <?php
-        include("../components/header.html");
+        include("../assets/html/header.html");
         ?>
+        <div>
+            <link rel="stylesheet" href="../assets/css/colores.css">
+        </div>
 
         <main role="main" id="main-content" tabindex="-1">
 

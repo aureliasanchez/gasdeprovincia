@@ -119,75 +119,92 @@
     <div id="main-wrapper" class="container-fluid">
         <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
 
-        <?php
-        include("./components/header.html");
-        ?>
+        <div>
+            <?php
+            include("./assets/html/header.html");
+            ?>
+            <link rel="stylesheet" href="./assets/css/colores.css">
+        </div>
 
         <main role="main" id="main-content" tabindex="-1">
 
             <div class=" module-looper">
+
                 <div id="mod_200e951a" class="r c70 video-common carousel-shared background-color-gradient " data-cvx-first-module-no-adjustment="true" data-cvx-module-name="c70">
                     <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
                         <section class="splide splide-image centered" aria-label="Image Carousel">
                             <div class="splide__track">
                                 <ul class="splide__list">
-                                    <li class="splide__slide background-color-dark-teal">
-                                        <div class="media-container video-container slide-inner">
-                                            <div class="video-inner-container">
-                                                <video class="video" poster="index65d1.html?h=1080" muted playsinline="true" data-cvx-media-desktop="/-/media/chevron/homepage/videos/anchor-sail-away-promo-v2.mp4" data-cvx-media-mobile="" data-cvx-video-index="0">
-                                                    <source src="#" />
-                                                    <img class="img-fluid" src="index65d1.html?h=1080">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </li>
+
                                     <li class="splide__slide background-color-dark-blue">
                                         <style type="text/css">
                                             #mod_ad61d255 {
-                                                background-image: url('-/media/chevron/homepage/images/hero-slider-q224-earnings-promo-v2d29d.jpg?h=800&amp;hash=722EEA4BDDA642891819604A11EA7B57');
+                                                background-image: url('/assets/images/pages/index/portada_8.png?h=800&amp;hash=722EEA4BDDA642891819604A11EA7B57');
                                             }
 
                                             @media screen and (min-width: 768px) {
                                                 #mod_ad61d255 {
-                                                    background-image: url('-/media/chevron/homepage/images/hero-slider-q224-earnings-promo-v252f0.jpg?h=1080&amp;hash=31FD9886FBD648C62F36BD9678630090');
+                                                    background-image: url('/assets/images/pages/index/portada_8.png?h=1080&amp;hash=31FD9886FBD648C62F36BD9678630090');
                                                 }
                                             }
                                         </style>
                                         <div id="mod_ad61d255" class="background slide-inner" style="background-position:center center"></div>
                                     </li>
                                     <li class="splide__slide background-color-dark-blue">
-                                        <div class="media-container video-container slide-inner">
-                                            <div class="video-inner-container">
-                                                <video class="video" poster="-/media/chevron/homepage/images/hero_slider_01_fallback_large930b.jpg?h=1080&amp;hash=8F0226BB2381AAD52DD5A8380F335CB8" muted playsinline="true" data-cvx-media-desktop="/-/media/chevron/homepage/videos/homepage-hero-slider-1-large.mp4" data-cvx-media-mobile="/-/media/chevron/homepage/videos/Chevron_Hero_Slider_1_400x800.mp4" data-cvx-video-index="2">
-                                                    <source src="#" />
-                                                    <img class="img-fluid" src="-/media/chevron/homepage/images/hero_slider_01_fallback_large930b.jpg?h=1080&amp;hash=8F0226BB2381AAD52DD5A8380F335CB8" alt="">
-                                                </video>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="splide__slide background-color-dark-purple">
                                         <style type="text/css">
-                                            #mod_e7321a63 {
-                                                background-image: url('-/media/chevron/homepage/images/hero_slider_02_combined_largedd1b.jpg?h=800&amp;hash=CFF92DC4FB413514B65CBFC59D4E77C9');
+                                            #mod_ad61d256 {
+                                                background-image: url('/assets/images/pages/index/portada_9.png');
                                             }
 
                                             @media screen and (min-width: 768px) {
-                                                #mod_e7321a63 {
-                                                    background-image: url('-/media/chevron/homepage/images/hero_slider_02_combined_large88fd.jpg?h=1080&amp;hash=3AF2E47B199DF5A7B80311330B363D92');
+                                                #mod_ad61d256 {
+                                                    background-image: url('/assets/images/pages/index/portada_9.png');
                                                 }
                                             }
                                         </style>
-                                        <div id="mod_e7321a63" class="background slide-inner" style="background-position:center center"></div>
+                                        <div id="mod_ad61d256" class="background slide-inner" style="background-position:center center"></div>
                                     </li>
-                                    <li class="splide__slide background-color-dark-teal">
-                                        <div class="media-container video-container slide-inner">
-                                            <div class="video-inner-container">
-                                                <video class="video" poster="-/media/chevron/homepage/images/hero_slider_03_fallback_large3a3d.jpg?h=1080&amp;hash=6430574776A9D3911E1785A17154A038" muted playsinline="true" data-cvx-media-desktop="/-/media/chevron/homepage/videos/homepage-hero-slider-3-large.mp4" data-cvx-media-mobile="/-/media/chevron/homepage/videos/Chevron_Hero_Slider_3_400x800.mp4" data-cvx-video-index="4">
-                                                    <source src="#" />
-                                                    <img class="img-fluid" src="-/media/chevron/homepage/images/hero_slider_03_fallback_large3a3d.jpg?h=1080&amp;hash=6430574776A9D3911E1785A17154A038" alt="">
-                                                </video>
-                                            </div>
-                                        </div>
+                                    <li class="splide__slide background-color-dark-blue">
+                                        <style type="text/css">
+                                            #mod_ad61d257 {
+                                                background-image: url('/assets/images/pages/index/portada_6.png');
+                                            }
+
+                                            @media screen and (min-width: 768px) {
+                                                #mod_ad61d257 {
+                                                    background-image: url('/assets/images/pages/index/portada_6.png');
+                                                }
+                                            }
+                                        </style>
+                                        <div id="mod_ad61d257" class="background slide-inner" style="background-position:center center"></div>
+                                    </li>
+                                    <li class="splide__slide background-color-dark-blue">
+                                        <style type="text/css">
+                                            #mod_ad61d258 {
+                                                background-image: url('/assets/images/pages/index/portada_5.png');
+                                            }
+
+                                            @media screen and (min-width: 768px) {
+                                                #mod_ad61d258 {
+                                                    background-image: url('/assets/images/pages/index/portada_5.png');
+                                                }
+                                            }
+                                        </style>
+                                        <div id="mod_ad61d258" class="background slide-inner" style="background-position:center center"></div>
+                                    </li>
+                                    <li class="splide__slide background-color-dark-blue">
+                                        <style type="text/css">
+                                            #mod_ad61d259 {
+                                                background-image: url('/assets/images/pages/index/portada_3.png');
+                                            }
+
+                                            @media screen and (min-width: 768px) {
+                                                #mod_ad61d259 {
+                                                    background-image: url('/assets/images/pages/index/portada_3.png');
+                                                }
+                                            }
+                                        </style>
+                                        <div id="mod_ad61d259" class="background slide-inner" style="background-position:center center"></div>
                                     </li>
 
                                 </ul>
@@ -270,11 +287,11 @@
                     <div class="inner-container centered">
                         <div class="background-initial">&nbsp;</div>
                         <div class="heading-container centered">
-                            <p class="type-eyebrow text-base width-600 centered text-center">Gas LP</p>
+                            <p class="type-eyebrow text-base width-600 centered text-center colorAmarillo"></p>
                             <h2 class="heading type-display text-elevated centered">
-                                <span class="text-animation first-item color-light-blue color-important">Somos</span>
-                                <span class="text-animation second-item color-medium-blue color-important">el calor</span>
-                                <span class="text-animation third-item color-dark-blue color-important">de tu hogar</span>
+                                <span class="text-animation first-item colorAmarilloClaro color-important">Somos</span>
+                                <span class="text-animation second-item colorAmarilloMedio color-important">el calor</span>
+                                <span class="text-animation third-item colorAmarilloOscuro color-important">de tu hogar</span>
                             </h2>
                             <p class="type-eyebrow text-base width-600 centered text-center">
                             </p>
@@ -293,16 +310,21 @@
                             </div>
                             <div class="text-container centered">
                                 <div class="description type-subhead text-super width-1200">
-                                    <p>Descuento del 10% en Recargas de Gas LP. <span class="text-opacity">Aprovecha nuestro descuento especial en recargas de gas LP durante este mes.
+                                    <p>Descuento del <b><span class="colorAmarilloMedio">10%</span></b> en Recargas de Gas LP. 
+                                        <span class="text-opacity">
+                                            Durante este <span class="colorAmarilloClaro">mes</span>.
+                                        </span>
                                     </p>
                                 </div>
                                 <div class="cta-container">
-                                    <a href="" class="cta-button type-cta text-base">
+                                    <a href="" class="cta-button type-cta text-base fondoAzulMedio">
                                         <span class="cta-glyphicon">
                                             <span class="animate glyphicon glyphicon-2023-arrow-right"
                                                 aria-hidden="true"></span>
                                         </span>
-                                        Saber más
+                                        <span class="colorAmarilloClaro">
+                                            Saber más
+                                        </span>
                                     </a>
                                 </div>
 
@@ -310,6 +332,103 @@
                         </div>
                     </div>
                 </div>
+
+                <div>
+                    <div class="col col-12 width-800 centered text-container">
+                        <h1 class="headline dark-blue"><BR> Productos Y Servicios Destacados</h1>
+                    </div>
+
+                    <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
+                        <div class="inner-container centered width-1200" style="margin-bottom:60px;">
+                            <!--Parent item properties-->
+                            <div class="slider">
+
+                                <div class="item row">
+                                    <div class="row card-box bg-white">
+                                        <div class="col-12 col-lg-6 background-col col-no-padding">
+                                            <div class="image-container responsive-container">
+                                                <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-lg-6 text-col col-no-padding">
+                                            <div class="text-container">
+                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                    <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                                        <h2 class="headline dark-blue">Tanques Estacionarios</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="description body-2 black d-print-none">
+                                                    Ideal para grandes consumos. Ofrecemos tanques estacionarios con instalación segura y mantenimiento garantizado.
+                                                </div>
+                                                <div class="bottom">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item row">
+                                    <div class="row card-box bg-white">
+                                        <div class="col-12 col-lg-6 background-col col-no-padding">
+                                            <div class="image-container responsive-container">
+                                                <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-lg-6 text-col col-no-padding">
+                                            <div class="text-container">
+                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                    <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                                        <h2 class="headline dark-blue">Cilindros Portátiles</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="description body-2 black d-print-none">
+                                                    Perfectos para uso doméstico y pequeñas empresas. Disponibles en capacidades de 20 y 30 litros.
+                                                </div>
+                                                <div class="bottom">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="item row">
+                                    <div class="row card-box bg-white">
+                                        <div class="col-12 col-lg-6 background-col col-no-padding">
+                                            <div class="image-container responsive-container">
+                                                <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-12 col-lg-6 text-col col-no-padding">
+                                            <div class="text-container">
+                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                    <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
+                                                        <h2 class="headline dark-blue">Servicios de Mantenimiento</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="description body-2 black d-print-none">
+                                                    Mantenimiento preventivo y correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
+                                                </div>
+                                                <div class="bottom">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="control" aria-hidden="true">
+                                <p class="timeline-indicator font-gotham medium-blue"></p>
+                                <div class="indicator-container">
+                                    <span class="indicator-active"></span>
+                                    <ul class="indicator-track"></ul>
+                                </div>
+                                <p class="timeline-indicator font-gotham medium-blue"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
             <style>
@@ -580,18 +699,20 @@
             <div id="mod_215c5be0" class="r c73 container-fluid background-color-offwhite " data-cvx-module-name="c73">
                 <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
                     <div class="heading-container">
-                        <h2 class="heading type-display text-elevated color-dark-green width-1000 centered">Certificados y Premios</h2>
+                        <h2 class="heading type-display text-elevated colorAzulOscuro width-1000 centered">Certificados y Premios</h2>
                     </div>
-                    <div class="content-container background-color-dark-green width-1400 centered">
+                    <div class="content-container fondoAzulOscuro width-1400 centered">
                         <div class="upper-content centered">
                             <div class="image-container centered">
                                 <img src="-/media/chevron/homepage/images/storage_tablet97dc.svg?la=en&amp;hash=25A23CCC07F49866EC2C421B95FEF1A2" class="img-fluid" alt="" />
                             </div>
                             <div class="text-container">
-                                <h3 class="sub-heading text-left type-display text-reduced text-super color-medium-green color-important">Certificación ISO</h3>
-                                <div class="description type-body text-base">
-                                    Cumplimos con los más altos estándares de calidad.
-                                </div>
+                                <h3 class="sub-heading text-left type-display text-reduced text-super colorAmarilloClaro color-important">Certificación ISO</h3>
+                                <h4>
+                                    <div class="description type-body text-base colorAmarilloMedio">
+                                        Cumplimos con los más altos estándares de calidad.
+                                    </div>
+                                </h4>
                             </div>
 
                         </div>
@@ -600,8 +721,8 @@
                                 <img src="-/media/chevron/homepage/images/storage_tablet97dc.svg?la=en&amp;hash=25A23CCC07F49866EC2C421B95FEF1A2" class="img-fluid" alt="" />
                             </div>
                             <div class="text-container">
-                                <h3 class="sub-heading text-left type-display text-reduced text-super color-medium-green color-important">Premio a la Exelencia</h3>
-                                <div class="description type-body text-base">
+                                <h3 class="sub-heading text-left type-display text-reduced text-super colorAmarilloClaro color-important">Premio a la Exelencia</h3>
+                                <div class="description type-body text-base colorAmarilloMedio">
                                     Reconocimiento a nuestra dedicación y servicio.
                                 </div>
                             </div>
@@ -803,104 +924,8 @@
                         </button>
                     </div>
                 </div>
-                
+
             </section>
-        </div>
-    </div>
-
-    <div>
-        <div class="col col-12 width-800 centered text-container">
-            <h1 class="headline dark-blue"><BR> Productos Y Servicios Destacados</h1>
-        </div>
-
-        <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
-            <div class="inner-container centered width-1200" style="margin-bottom:60px;">
-                <!--Parent item properties-->
-                <div class="slider">
-
-                    <div class="item row">
-                        <div class="row card-box bg-white">
-                            <div class="col-12 col-lg-6 background-col col-no-padding">
-                                <div class="image-container responsive-container">
-                                    <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-lg-6 text-col col-no-padding">
-                                <div class="text-container">
-                                    <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                                        <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                            <h2 class="headline dark-blue">Tanques Estacionarios</h2>
-                                        </div>
-                                    </div>
-                                    <div class="description body-2 black d-print-none">
-                                        Ideal para grandes consumos. Ofrecemos tanques estacionarios con instalación segura y mantenimiento garantizado.
-                                    </div>
-                                    <div class="bottom">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item row">
-                        <div class="row card-box bg-white">
-                            <div class="col-12 col-lg-6 background-col col-no-padding">
-                                <div class="image-container responsive-container">
-                                    <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-lg-6 text-col col-no-padding">
-                                <div class="text-container">
-                                    <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                                        <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                            <h2 class="headline dark-blue">Cilindros Portátiles</h2>
-                                        </div>
-                                    </div>
-                                    <div class="description body-2 black d-print-none">
-                                        Perfectos para uso doméstico y pequeñas empresas. Disponibles en capacidades de 20 y 30 litros.
-                                    </div>
-                                    <div class="bottom">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item row">
-                        <div class="row card-box bg-white">
-                            <div class="col-12 col-lg-6 background-col col-no-padding">
-                                <div class="image-container responsive-container">
-                                    <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-lg-6 text-col col-no-padding">
-                                <div class="text-container">
-                                    <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
-                                        <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                            <h2 class="headline dark-blue">Servicios de Mantenimiento</h2>
-                                        </div>
-                                    </div>
-                                    <div class="description body-2 black d-print-none">
-                                        Mantenimiento preventivo y correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
-                                    </div>
-                                    <div class="bottom">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="control" aria-hidden="true">
-                    <p class="timeline-indicator font-gotham medium-blue"></p>
-                    <div class="indicator-container">
-                        <span class="indicator-active"></span>
-                        <ul class="indicator-track"></ul>
-                    </div>
-                    <p class="timeline-indicator font-gotham medium-blue"></p>
-                </div>
-            </div>
         </div>
     </div>
 

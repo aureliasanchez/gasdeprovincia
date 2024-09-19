@@ -143,9 +143,12 @@
     <div id="main-wrapper" class="container-fluid">
         <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
 
-        <?php
-        include("../components/header.html");
-        ?>
+        <div>
+            <?php
+            include("../assets/html/header.html");
+            ?>
+            <link rel="stylesheet" href="../assets/css/colores.css">
+        </div>
 
         <main role="main" id="main-content" tabindex="-1">
 

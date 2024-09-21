@@ -127,22 +127,25 @@
         <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
 
         <?php
-        include("../components/header.html");
+        include("../assets/html/header.html");
         ?>
+        <div>
+            <link rel="stylesheet" href="../assets/css/colores.css">
+        </div>
 
         <main role="main" id="main-content" tabindex="-1">
 
             <div class=" module-looper">
 
-                <div id="mod_c7c4da4e" class="c01 container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01">
+                <div id="mod_c7c4da4e" class="c01 container-fluid section-bg-color background-color-gradient" data-cvx-module-name="c01">
 
                     <div class="inner-container row centered width-1200" style="margin-bottom:60px;">
                         <div class="col col-12 width-800 centered text-container">
-                            <h1 class="headline dark-blue">Facturacion</h1>
+                            <h1 class="headline colorAzulOscuro">Facturacion</h1>
                             <div class="body width-600 centered">
-                                <p style="text-align: center;">
+                                <h3 style="text-align: center;">
                                     En Gas de Provincia, facilitamos tu proceso de facturación.
-                                </p>
+                                </h3>
                                 <div id="gtx-trans" style="position: absolute; left: -193px; top: -25px;">
                                     <div class="gtx-trans-icon">&nbsp;</div>
                                 </div>
@@ -152,25 +155,25 @@
 
                 </div>
 
-                <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
+                <div id="mod_38130ff8" class="a13 bg-offwhite toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
                     <div class="toast-header">
                         <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
-                            <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
+                            <span class="glyphicon glyphicon-remove bg-offwhite" aria-hidden="true"></span><span class="sr-only">close</span>
                         </button>
                     </div>
                     <div class="toast-body font-gotham">
                         <p class="toast-message">subscribe to our newsletter to receive news and updates.</p>
                         <div class="mt-2 pt-2 primary-link">
-                            <a href="../../newsroom/subscribe.html" class="link signup-button theme-bg-color" target="">sign up now</a>
+                            <a href="../../newsroom/subscribe.html" class="link signup-button bg-offwhite" target="">sign up now</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="bg-white">
-                    <h1 class="headline dark-blue"><br>
+                    <h1 class="headline colorAzulOscuro"><br>
                         Completa nuestro formulario para obtener tu factura de manera rápida y sin complicaciones.
                     </h1>
-                    <h2 class="headline dark-blue">
+                    <h2 class="headline colorAzulMedio">
                         Asegúrate de tener a mano tu RFC y los detalles necesarios para el trámite.
                     </h2>
                 </div>

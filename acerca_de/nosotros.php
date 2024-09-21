@@ -143,9 +143,12 @@
     <div id="main-wrapper" class="container-fluid">
         <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
 
-        <?php
-        include("../components/header.html");
-        ?>
+        <div>
+            <?php
+            include("../assets/html/header.html");
+            ?>
+            <link rel="stylesheet" href="../assets/css/colores.css">
+        </div>
 
         <main role="main" id="main-content" tabindex="-1">
 
@@ -171,12 +174,12 @@
 
                         <style type="text/css">
                             #mod_a7829895.c74 .background-container {
-                                background-image: url('../-/media/chevron/who-we-are/our-brands/images/01_hero_1920x1080b4b0.jpg?h=800&amp;hash=0652C8102A2C1E2E557FE63CF1272D6C');
+                                background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.png');
                             }
 
                             @media screen and (min-width: 768px) {
                                 #mod_a7829895.c74 .background-container {
-                                    background-image: url('../-/media/chevron/who-we-are/our-brands/images/01_hero_1920x1080.jpg');
+                                    background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.png');
                                 }
                             }
                         </style>
@@ -187,83 +190,103 @@
                             </div>
                             <div class="description-container background-color-white">
                                 <div class="description type-body text-elevated width-600 centered text-center">
-                                    En Gas de Provincia S.A. de C.V., somos líderes en la venta y distribución de Gas L.P., comprometidos con la seguridad y satisfacción de nuestros clientes desde 2005 en Hidalgo, y con una historia que se remonta a 1947 en Toluca y Atlacomulco. Nos destacamos por nuestra calidad, servicio y honestidad, atendiendo tanto a hogares como a industrias y comercios.
+                                    <h3>
+                                        En Gas de Provincia S.A. de C.V., somos líderes en la venta y distribución de Gas L.P., comprometidos con la seguridad y satisfacción de nuestros clientes desde 2005 en Hidalgo, y con una historia que se remonta a 1947 en Toluca y Atlacomulco. Nos destacamos por nuestra calidad, servicio y honestidad, atendiendo tanto a hogares como a industrias y comercios.
+                                    </h3>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
+                <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-owhite " data-cvx-module-name="x01">
                     <div class="inner-container centered width-1200" style="margin-bottom:60px;">
                         <!--Parent item properties-->
                         <div class="slider">
 
                             <div class="item row">
-                                <div class="row card-box bg-white">
+                                <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/1.png); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-12 col-lg-6 text-col col-no-padding">
                                         <div class="text-container">
-                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+
+                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                 <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                    <h2 class="headline dark-blue">Misión</h2>
+                                                    <h2 class="headline colorAzulOscuro">
+                                                        Misión
+                                                    </h2>
                                                 </div>
                                             </div>
-                                            <div class="description body-2 black d-print-none">
-                                                Ser la empresa número uno en distribución y comercialización de Gas L.P., proporcionando confianza y seguridad en cada servicio. Nuestro compromiso es reafirmar estos valores en todos los niveles, desde nuestros empleados hasta nuestros clientes.
+                                            <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                                <h3>
+                                                    Ser la empresa número uno en distribución y comercialización de Gas L.P.
+                                                    <br>
+                                                    Nuestro compromiso es reafirmar estos valores en todos los niveles, desde nuestros empleados hasta nuestros clientes.
+                                                </h3>
                                             </div>
                                             <div class="bottom">
                                             </div>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item row">
-                                <div class="row card-box bg-white">
+                                <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/2.png); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-12 col-lg-6 text-col col-no-padding">
                                         <div class="text-container">
-                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+
+                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                 <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                    <h2 class="headline dark-blue">Visión</h2>
+                                                    <h2 class="headline colorAzulOscuro">
+                                                        Visión
+                                                    </h2>
                                                 </div>
                                             </div>
-                                            <div class="description body-2 black d-print-none">
-                                                Distinguirnos como la empresa líder en la distribución de gas LP en Hidalgo, excediendo las expectativas de nuestros clientes a través de un servicio de calidad y atención excepcional.
+                                            <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                                <h3>
+                                                    Distinguirnos como la empresa líder en la distribución de gas LP en Hidalgo, excediendo las expectativas de nuestros clientes a través de un servicio de calidad y atención excepcional.
+                                                </h3>
                                             </div>
                                             <div class="bottom">
                                             </div>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="item row">
-                                <div class="row card-box bg-white">
+                                <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/3.png); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-12 col-lg-6 text-col col-no-padding">
                                         <div class="text-container">
-                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                            <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                 <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                    <h2 class="headline dark-blue">Factor Humano</h2>
+                                                    <h2 class="headline colorAzulOscuro">
+                                                        Factor Humano
+                                                    </h2>
                                                 </div>
                                             </div>
-                                            <div class="description body-2 black d-print-none">
-                                                Nuestro equipo se distingue por su motivación, capacitación y dedicación, identificándose plenamente con los valores y objetivos de la empresa.
+                                            <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                                <h3>
+                                                    Nuestro equipo se distingue por su motivación, capacitación y dedicación, identificándose plenamente con los valores y objetivos de la empresa.
+                                                </h3>
                                             </div>
                                             <div class="bottom">
                                             </div>
@@ -284,17 +307,18 @@
                     </div>
                 </div>
 
-                <div id="mod_d187c1f3" class="c11 container-fluid  column-count-5 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
+                <div id="mod_d187c1f3" class="c11 container-fluid  column-count-5 section-bg-color bg-offwhite background-color-white" data-cvx-module-name="c11">
                     <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
 
                         <div class="parent-text-container centered text-center r">
-                            <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">Valores</h3>
+                            <h3 class="type-header parent-header text-base colorAzulOscuro theme-text-color">Valores</h3>
                         </div>
 
                         <div class="c11-container">
-                            <div class="tile fact-tile bg-dark-blue theme-text-white">
+
+                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
                                         Compromiso
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -302,9 +326,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile bg-dark-blue theme-text-white">
+                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
                                         Calidad
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -312,9 +336,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile bg-dark-blue theme-text-white">
+                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
                                         Servicio
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -322,9 +346,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile bg-dark-blue theme-text-white">
+                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
                                         Honestidad
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -332,9 +356,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile bg-dark-blue theme-text-white">
+                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description theme-text-color font-gotham text-bold">
+                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
                                         Seguridad
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -342,80 +366,91 @@
                                     </p>
                                 </div>
                             </div>
+
                         </div>
 
                     </div>
                 </div>
 
-                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
+                <div id="mod_351c10e3" class="c06 container-fluid section-bg-color bg-white" data-cvx-module-name="c06">
                     <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                        <h2 class="headline dark-blue">Principales Clientes</h2>
+                        <h2 class="headline colorAzulOscuro">Principales Clientes</h2>
                         <div class="body width-600 centered">
-                            <p>
+                            <h3>
                                 Atendemos a una amplia variedad de clientes, desde hogares hasta grandes industrias, siempre con el compromiso de brindar un servicio de excelencia.
-                            </p>
+                            </h3>
                         </div>
                     </div>
                 </div>
 
-                <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
+                <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-white " data-cvx-module-name="c57">
                     <div class="inner-container centered" style="margin-top:0px;">
                         <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
 
                             <div class="articles">
                                 <div class="splide-wrapper">
+
                                     <div class="opening-content">
                                         <div>
-                                            <p class="type-eyebrow color-dark-blue">Gas LP</p>
-                                            <h3 class="type-header text-base main-header color-dark-blue">Clientes</h3>
+                                            <h3 class="type-header text-base main-header colorAzulOscuro">Clientes</h3>
                                         </div>
                                     </div>
+
                                     <div class="splide__track">
                                         <div class="splide__list">
+
                                             <a class="splide__slide cta-link-parent">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
+                                                <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/1.png" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">NOMBRE CLIENTE</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">
+                                                        <p class="type-body text-caption date white">
+                                                            NOMBRE CLIENTE
+                                                        </p>
+                                                        <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                             DESCRIPCION CLIENTE
                                                         </h4>
                                                     </div>
                                                 </div>
                                             </a>
                                             <a class="splide__slide cta-link-parent">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
+                                                <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/2.png" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">NOMBRE CLIENTE</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">
+                                                        <p class="type-body text-caption date white">
+                                                            NOMBRE CLIENTE
+                                                        </p>
+                                                        <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                             DESCRIPCION CLIENTE
                                                         </h4>
                                                     </div>
                                                 </div>
                                             </a>
                                             <a class="splide__slide cta-link-parent">
-                                                <div class="inner-slide-wrapper background-color-medium-blue">
+                                                <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/3.png" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date">NOMBRE CLIENTE</p>
-                                                        <h4 class="type-subhead text-reduced slide-header">
+                                                        <p class="type-body text-caption date white">
+                                                            NOMBRE CLIENTE
+                                                        </p>
+                                                        <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                             DESCRIPCION CLIENTE
                                                         </h4>
                                                     </div>
                                                 </div>
                                             </a>
+
                                         </div>
                                     </div>
+
                                 </div>
                             </div>
 

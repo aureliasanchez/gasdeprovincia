@@ -139,12 +139,12 @@
                                     <li class="splide__slide background-color-dark-blue">
                                         <style type="text/css">
                                             #mod_ad61d255 {
-                                                background-image: url('/assets/images/pages/index/portada_8.png?h=800&amp;hash=722EEA4BDDA642891819604A11EA7B57');
+                                                background-image: url('./assets/images/pages/index/_01_Conjunto/1.jpg');
                                             }
 
                                             @media screen and (min-width: 768px) {
                                                 #mod_ad61d255 {
-                                                    background-image: url('/assets/images/pages/index/portada_8.png?h=1080&amp;hash=31FD9886FBD648C62F36BD9678630090');
+                                                    background-image: url('./assets/images/pages/index/_01_Conjunto/1.jpg');
                                                 }
                                             }
                                         </style>
@@ -153,12 +153,12 @@
                                     <li class="splide__slide background-color-dark-blue">
                                         <style type="text/css">
                                             #mod_ad61d256 {
-                                                background-image: url('/assets/images/pages/index/portada_9.png');
+                                                background-image: url('./assets/images/pages/index/_01_Conjunto/2.jpeg');
                                             }
 
                                             @media screen and (min-width: 768px) {
                                                 #mod_ad61d256 {
-                                                    background-image: url('/assets/images/pages/index/portada_9.png');
+                                                    background-image: url('./assets/images/pages/index/_01_Conjunto/2.jpeg');
                                                 }
                                             }
                                         </style>
@@ -167,12 +167,12 @@
                                     <li class="splide__slide background-color-dark-blue">
                                         <style type="text/css">
                                             #mod_ad61d257 {
-                                                background-image: url('/assets/images/pages/index/portada_6.png');
+                                                background-image: url('./assets/images/pages/index/_01_Conjunto/3.png');
                                             }
 
                                             @media screen and (min-width: 768px) {
                                                 #mod_ad61d257 {
-                                                    background-image: url('/assets/images/pages/index/portada_6.png');
+                                                    background-image: url('./assets/images/pages/index/_01_Conjunto/3.png');
                                                 }
                                             }
                                         </style>
@@ -181,12 +181,12 @@
                                     <li class="splide__slide background-color-dark-blue">
                                         <style type="text/css">
                                             #mod_ad61d258 {
-                                                background-image: url('/assets/images/pages/index/portada_5.png');
+                                                background-image: url('./assets/images/pages/index/_01_Conjunto/4.jpg');
                                             }
 
                                             @media screen and (min-width: 768px) {
                                                 #mod_ad61d258 {
-                                                    background-image: url('/assets/images/pages/index/portada_5.png');
+                                                    background-image: url('./assets/images/pages/index/_01_Conjunto/4.jpg');
                                                 }
                                             }
                                         </style>
@@ -195,12 +195,12 @@
                                     <li class="splide__slide background-color-dark-blue">
                                         <style type="text/css">
                                             #mod_ad61d259 {
-                                                background-image: url('/assets/images/pages/index/portada_3.png');
+                                                background-image: url('./assets/images/pages/index/_01_Conjunto/5.jpg');
                                             }
 
                                             @media screen and (min-width: 768px) {
                                                 #mod_ad61d259 {
-                                                    background-image: url('/assets/images/pages/index/portada_3.png');
+                                                    background-image: url('./assets/images/pages/index/_01_Conjunto/5.jpg');
                                                 }
                                             }
                                         </style>
@@ -214,9 +214,13 @@
                                     <li class="list-item active">
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">Tu seguridad y confianza en cada recarga de gas LP</h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">
+                                                    Tu <span class="colorAmarilloClaro">seguridad</span> y <sapan class="colorAmarilloClaro">confianza</sapan> en cada recarga de gas LP
+                                                </h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Brindando servicio de calidad y seguridad desde 2005
+                                                    <h3>
+                                                        Brindando servicio de calidad y seguridad desde 2005
+                                                    </h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -224,9 +228,13 @@
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-blue color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">Seguridad Garantizada</h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">
+                                                    <span class="colorAmarilloClaro">Seguridad</span> Garantizada
+                                                </h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Instalaciones y servicios que cumplen con todas las normativas oficiales para garantizar tu seguridad.
+                                                    <h3>
+                                                        Instalaciones y servicios que cumplen con todas las normativas oficiales para garantizar tu seguridad.
+                                                    </h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -234,9 +242,13 @@
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-blue color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">Servicio Personalizado</h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">
+                                                    <span class="colorAmarilloClaro">Servicio</span> Personalizado
+                                                </h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Atención a medida para cada cliente (tanto en hogares como en empresas), para satisfacer las necesidades específicas de cada cliente, a su medida.
+                                                    <h3>
+                                                        Atención a medida para cada cliente (tanto en hogares como en empresas), para satisfacer las necesidades específicas de cada cliente, a su medida.
+                                                    </h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -244,9 +256,13 @@
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-purple color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">Tecnología Avanzada</h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">
+                                                    <span class="colorAmarilloClaro">Tecnología</span> Avanzada
+                                                </h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Utilizamos equipos y técnicas modernas para asegurar la eficiencia en cada recarga.
+                                                    <h3>
+                                                        Utilizamos equipos y técnicas modernas para asegurar la eficiencia en cada recarga.
+                                                    </h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -254,9 +270,13 @@
                                     <li class="list-item ">
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
-                                                <h2 class="heading type-header text-elevated color-dark-blue">Compromiso Ambiental</h2>
+                                                <h2 class="heading type-header text-elevated color-dark-blue">
+                                                    <span class="colorAmarilloClaro">Compromiso</span> Ambiental
+                                                </h2>
                                                 <div class="description centered type-body text-reduced width-600">
-                                                    Prácticas sostenibles y amigables con el medio ambiente.
+                                                    <h3>
+                                                        Prácticas sostenibles y amigables con el medio ambiente.
+                                                    </h3>
                                                 </div>
                                             </div>
                                         </div>
@@ -298,26 +318,28 @@
                         </div>
                         <div class="content-container">
                             <div class="images-container">
+
                                 <div class="first-image image">
-                                    <img alt="" src="-/media/chevron/homepage/images/text-marquee-1.png" class="img-fluid" />
+                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/1.jpg" class="img-fluid" />
                                 </div>
                                 <div class="second-image image">
-                                    <img alt="" src="-/media/chevron/homepage/images/text-marquee-2.png" class="img-fluid" />
+                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/2.jpg" class="img-fluid" />
                                 </div>
                                 <div class="third-image image">
-                                    <img alt="" src="-/media/chevron/homepage/images/text-marquee-3.png" class="img-fluid" />
+                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/3.jpg" class="img-fluid" />
                                 </div>
+
                             </div>
                             <div class="text-container centered">
                                 <div class="description type-subhead text-super width-1200">
-                                    <p>Descuento del <b><span class="colorAmarilloMedio">10%</span></b> en Recargas de Gas LP. 
+                                    <p>Descuento del <b><span class="colorAmarilloClaro">10%</span></b> en Recargas de Gas LP.
                                         <span class="text-opacity">
-                                            Durante este <span class="colorAmarilloClaro">mes</span>.
+                                            Durante este <span class="colorAmarilloMedio">mes</span>.
                                         </span>
                                     </p>
                                 </div>
                                 <div class="cta-container">
-                                    <a href="" class="cta-button type-cta text-base fondoAzulMedio">
+                                    <a href="" class="cta-button type-cta text-base fondoAzulOscuro">
                                         <span class="cta-glyphicon">
                                             <span class="animate glyphicon glyphicon-2023-arrow-right"
                                                 aria-hidden="true"></span>
@@ -333,33 +355,39 @@
                     </div>
                 </div>
 
-                <div>
+                <div class="bg-white">
                     <div class="col col-12 width-800 centered text-container">
-                        <h1 class="headline dark-blue"><BR> Productos Y Servicios Destacados</h1>
+                        <h1 class="headline colorAzulOscuro"><BR> Productos Y Servicios Destacados</h1>
                     </div>
 
-                    <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
+                    <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-owhite " data-cvx-module-name="x01">
                         <div class="inner-container centered width-1200" style="margin-bottom:60px;">
                             <!--Parent item properties-->
                             <div class="slider">
 
                                 <div class="item row">
-                                    <div class="row card-box bg-white">
+                                    <div class="row card-box bg-offwhite">
                                         <div class="col-12 col-lg-6 background-col col-no-padding">
                                             <div class="image-container responsive-container">
-                                                <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_03_Conjunto/1.png); background-position: 50% 50%;">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-12 col-lg-6 text-col col-no-padding">
                                             <div class="text-container">
-                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                     <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                        <h2 class="headline dark-blue">Tanques Estacionarios</h2>
+                                                        <h2 class="headline colorAzulOscuro">
+                                                            Tanques Estacionarios
+                                                        </h2>
                                                     </div>
                                                 </div>
-                                                <div class="description body-2 black d-print-none">
-                                                    Ideal para grandes consumos. Ofrecemos tanques estacionarios con instalación segura y mantenimiento garantizado.
+                                                <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                                    <h3>
+                                                        Ideal para grandes consumos.
+                                                        <br>
+                                                        Ofrecemos tanques estacionarios con instalación segura y mantenimiento garantizado.
+                                                    </h3>
                                                 </div>
                                                 <div class="bottom">
                                                 </div>
@@ -368,46 +396,58 @@
                                     </div>
                                 </div>
                                 <div class="item row">
-                                    <div class="row card-box bg-white">
+                                    <div class="row card-box bg-offwhite">
                                         <div class="col-12 col-lg-6 background-col col-no-padding">
                                             <div class="image-container responsive-container">
-                                                <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_03_Conjunto/2.png); background-position: 50% 50%;">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-12 col-lg-6 text-col col-no-padding">
                                             <div class="text-container">
-                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+
+                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                     <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                        <h2 class="headline dark-blue">Cilindros Portátiles</h2>
+                                                        <h2 class="headline colorAzulOscuro">
+                                                            Cilindros Portátiles
+                                                        </h2>
                                                     </div>
                                                 </div>
-                                                <div class="description body-2 black d-print-none">
-                                                    Perfectos para uso doméstico y pequeñas empresas. Disponibles en capacidades de 20 y 30 litros.
+                                                <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                                    <h3>
+                                                        Perfectos para uso doméstico y pequeñas empresas.
+                                                        <br>
+                                                        Disponibles en capacidades de 20 y 30 litros.
+                                                    </h3>
                                                 </div>
                                                 <div class="bottom">
                                                 </div>
+
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="item row">
-                                    <div class="row card-box bg-white">
+                                    <div class="row card-box bg-offwhite">
                                         <div class="col-12 col-lg-6 background-col col-no-padding">
                                             <div class="image-container responsive-container">
-                                                <div class="background vertical-align" style="background-image: url(../-/media/chevron/about/images/culture-chevrons-anar-aitekenova-conducting-cooking-class-at-almaty-orphanage-kazakhstan.jpg); background-position: 50% 50%;">
+                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_03_Conjunto/3.png); background-position: 50% 50%;">
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-12 col-lg-6 text-col col-no-padding">
                                             <div class="text-container">
-                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-white" data-cvx-module-name="c06">
+                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                     <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                        <h2 class="headline dark-blue">Servicios de Mantenimiento</h2>
+                                                        <h2 class="headline colorAzulOscuro">
+                                                            Servicios de Mantenimiento
+                                                        </h2>
                                                     </div>
                                                 </div>
-                                                <div class="description body-2 black d-print-none">
-                                                    Mantenimiento preventivo y correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
+                                                <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                                    <h3>
+                                                        Mantenimiento preventivo/correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
+                                                    </h3>
                                                 </div>
                                                 <div class="bottom">
                                                 </div>
@@ -699,17 +739,22 @@
             <div id="mod_215c5be0" class="r c73 container-fluid background-color-offwhite " data-cvx-module-name="c73">
                 <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
                     <div class="heading-container">
-                        <h2 class="heading type-display text-elevated colorAzulOscuro width-1000 centered">Certificados y Premios</h2>
+                        <h2 class="heading type-display text-elevated colorAzulOscuro width-1000 centered">
+                            Certificados y Premios
+                        </h2>
                     </div>
                     <div class="content-container fondoAzulOscuro width-1400 centered">
+
                         <div class="upper-content centered">
                             <div class="image-container centered">
-                                <img src="-/media/chevron/homepage/images/storage_tablet97dc.svg?la=en&amp;hash=25A23CCC07F49866EC2C421B95FEF1A2" class="img-fluid" alt="" />
+                                <img src="./assets/images/pages/index/_04_Conjunto/1.png" class="img-fluid" alt="" />
                             </div>
                             <div class="text-container">
-                                <h3 class="sub-heading text-left type-display text-reduced text-super colorAmarilloClaro color-important">Certificación ISO</h3>
+                                <h3 class="sub-heading text-left type-display text-reduced colorAmarilloClaro text-super color-important">
+                                    Certificación ISO
+                                </h3>
                                 <h4>
-                                    <div class="description type-body text-base colorAmarilloMedio">
+                                    <div class="description type-body text-base white">
                                         Cumplimos con los más altos estándares de calidad.
                                     </div>
                                 </h4>
@@ -718,45 +763,55 @@
                         </div>
                         <div class="upper-content centered">
                             <div class="image-container centered">
-                                <img src="-/media/chevron/homepage/images/storage_tablet97dc.svg?la=en&amp;hash=25A23CCC07F49866EC2C421B95FEF1A2" class="img-fluid" alt="" />
+                                <img src="./assets/images/pages/index/_04_Conjunto/2.png" class="img-fluid" alt="" />
                             </div>
                             <div class="text-container">
-                                <h3 class="sub-heading text-left type-display text-reduced text-super colorAmarilloClaro color-important">Premio a la Exelencia</h3>
-                                <div class="description type-body text-base colorAmarilloMedio">
-                                    Reconocimiento a nuestra dedicación y servicio.
-                                </div>
+                                <h3 class="sub-heading text-left type-display text-reduced text-super colorAmarilloClaro color-important">
+                                    Premio a la Exelencia
+                                </h3>
+                                <H4>
+                                    <div class="description type-body text-base white">
+                                        Reconocimiento a nuestra dedicación y servicio.
+                                    </div>
+                                </H4>
                             </div>
 
                         </div>
+
                     </div>
 
                 </div>
 
             </div>
-    </div>
 
+        </main>
+    </div>
 
     <div id="mod_d187c1f3" class="c11 container-fluid  column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
         <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
             <div class="parent-text-container centered text-center r">
-                <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">Opiniones de Clientes Satisfechos</h3>
+                <h3 class="type-header parent-header text-base colorAzulOscuro theme-text-color">Opiniones de Clientes Satisfechos</h3>
             </div>
             <div class="c11-container">
 
 
-                <div class="tile fact-tile bg-dark-blue theme-text-white">
+                <div class="tile fact-tile fondoAzulOscuro theme-text-white">
                     <div class="fact-tile-inner text-center">
 
-                        <p class="figure theme-text-color font-gotham text-bold">Juan Pérez</p>
+                        <p class="figure colorAmarilloClaro font-gotham text-bold">
+                            Juan Pérez
+                        </p>
                         <p class="description theme-text-color body-2">"El servicio de Gas de Provincia es excepcional. Siempre puntuales y con atención personalizada" </p>
                     </div>
                 </div>
 
 
-                <div class="tile fact-tile bg-dark-blue theme-text-white">
+                <div class="tile fact-tile fondoAzulOscuro theme-text-white">
                     <div class="fact-tile-inner text-center">
 
-                        <p class="figure theme-text-color font-gotham text-bold">María López</p>
+                        <p class="figure colorAmarilloClaro font-gotham text-bold">
+                            María López
+                        </p>
                         <p class="description theme-text-color body-2">"Confío plenamente en la seguridad y calidad del gas que nos suministran. Altamente recomendable."</p>
                     </div>
                 </div>
@@ -776,132 +831,160 @@
                     <div class="splide-wrapper">
                         <div class="opening-content">
                             <div>
-                                <p class="type-eyebrow color-dark-blue">Gas LP</p>
-                                <h3 class="type-header text-base main-header color-dark-blue">Lo más relevante</h3>
+                                <h3 class="type-header text-base main-header colorAzulOscuro">Lo más relevante</h3>
                             </div>
                         </div>
                         <div class="splide__track">
                             <div class="splide__list">
+
                                 <a class="splide__slide cta-link-parent" href="">
-                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                         <div class="opacity-cover"></div>
                                         <div class="image-container">
-                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                            <img class="img-fluid" src="./assets/images/pages/index/_05_Conjunto/1.png" alt="" />
                                         </div>
                                         <div class="content-container text-left">
-                                            <p class="type-body text-caption date">Consejos de Seguridad para el Uso de Gas LP en el Hogar</p>
-                                            <h4 class="type-subhead text-reduced slide-header">Descubre cómo mantener tu hogar seguro con estos prácticos consejos.</h4>
+                                            <p class="type-body text-caption date white">
+                                                Consejos de Seguridad para el Uso de Gas LP en el Hogar
+                                            </p>
+                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                Descubre cómo mantener tu hogar seguro con estos prácticos consejos.
+                                            </h4>
                                             <p class="cta-container">
                                                 <span class="cta-link type-cta text-base">
                                                     <span class="cta-glyphicon">
-                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline">Saber más</span>
+                                                    <span class="cta-underline white">Saber más</span>
                                                 </span>
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                                 <a class="splide__slide cta-link-parent" href="">
-                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                         <div class="opacity-cover"></div>
                                         <div class="image-container">
-                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                            <img class="img-fluid" src="./assets/images/pages/index/_05_Conjunto/2.png" alt="" />
                                         </div>
                                         <div class="content-container text-left">
-                                            <p class="type-body text-caption date">Innovaciones en el Transporte de Gas LP</p>
-                                            <h4 class="type-subhead text-reduced slide-header">Conoce las últimas tecnologías en el transporte de gas LP.</h4>
+                                            <p class="type-body text-caption date white">
+                                                Innovaciones en el Transporte de Gas LP
+                                            </p>
+                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                Conoce las últimas tecnologías en el transporte de gas LP.
+                                            </h4>
                                             <p class="cta-container">
                                                 <span class="cta-link type-cta text-base">
                                                     <span class="cta-glyphicon">
-                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline">Saber más</span>
+                                                    <span class="cta-underline white">Saber más</span>
                                                 </span>
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                                 <a class="splide__slide cta-link-parent" href="">
-                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                         <div class="opacity-cover"></div>
                                         <div class="image-container">
-                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                            <img class="img-fluid" src="./assets/images/pages/index/_05_Conjunto/3.png" alt="" />
                                         </div>
                                         <div class="content-container text-left">
-                                            <p class="type-body text-caption date">Suscríbete a Nuestro Boletín</p>
-                                            <h4 class="type-subhead text-reduced slide-header">Recibe las últimas noticias y ofertas especiales directamente en tu correo.</h4>
+                                            <p class="type-body text-caption date white">
+                                                Suscríbete a Nuestro Boletín
+                                            </p>
+                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                Recibe las últimas noticias y ofertas especiales directamente en tu correo
+                                            </h4>
                                             <p class="cta-container">
                                                 <span class="cta-link type-cta text-base">
                                                     <span class="cta-glyphicon">
-                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline">Saber más</span>
+                                                    <span class="cta-underline white">Saber más</span>
                                                 </span>
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                                 <a class="splide__slide cta-link-parent" href="">
-                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                         <div class="opacity-cover"></div>
                                         <div class="image-container">
-                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                            <img class="img-fluid" src="./assets/images/pages/index/_05_Conjunto/4.png" alt="" />
                                         </div>
                                         <div class="content-container text-left">
-                                            <p class="type-body text-caption date">Contactanos</p>
-                                            <h4 class="type-subhead text-reduced slide-header">Ponte en contacto con nuestro equipo de trabajo.</h4>
+                                            <p class="type-body text-caption date white">
+                                                Contactanos
+                                            </p>
+                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                Ponte en contacto con nuestro equipo de trabajo.
+                                            </h4>
                                             <p class="cta-container">
                                                 <span class="cta-link type-cta text-base">
                                                     <span class="cta-glyphicon">
-                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline">Saber más</span>
+                                                    <span class="cta-underline white">Saber más</span>
                                                 </span>
                                             </p>
                                         </div>
                                     </div>
                                 </a>
                                 <a class="splide__slide cta-link-parent" href="">
-                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                         <div class="opacity-cover"></div>
                                         <div class="image-container">
-                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                            <img class="img-fluid" src="./assets/images/pages/index/_05_Conjunto/5.png" alt="" />
                                         </div>
                                         <div class="content-container text-left">
-                                            <p class="type-body text-caption date">Registrate</p>
-                                            <h4 class="type-subhead text-reduced slide-header">Registrate con nosotros.</h4>
+                                            <p class="type-body text-caption date white">
+                                                Registrate
+                                            </p>
+                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                Registrate con nosotros.
+                                            </h4>
                                             <p class="cta-container">
                                                 <span class="cta-link type-cta text-base">
                                                     <span class="cta-glyphicon">
-                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline">Saber más</span>
+                                                    <span class="cta-underline white">Saber más</span>
                                                 </span>
                                             </p>
                                         </div>
                                     </div>
                                 </a>
-                                <a class="splide__slide cta-link-parent" href="">
-                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                <a class="splide__slide cta-link-parent"
+                                    href="newsroom/2024/q3/marking-a-century-of-progress-in-indonesia.html">
+                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                         <div class="opacity-cover"></div>
                                         <div class="image-container">
-                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                            <img class="img-fluid"
+                                                src="./assets/images/pages/index/_05_Conjunto/6.png"
+                                                alt="" />
                                         </div>
                                         <div class="content-container text-left">
-                                            <p class="type-body text-caption date">Compra</p>
-                                            <h4 class="type-subhead text-reduced slide-header">Adquiere alguno de nuestros productos.</h4>
+                                            <p class="type-body text-caption date white">
+                                                Compra
+                                            </p>
+                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                Adquiere alguno de nuestros productos.
+                                            </h4>
                                             <p class="cta-container">
                                                 <span class="cta-link type-cta text-base">
                                                     <span class="cta-glyphicon">
-                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline">Saber más</span>
+                                                    <span class="cta-underline white">Saber más</span>
                                                 </span>
                                             </p>
                                         </div>
                                     </div>
                                 </a>
+
                             </div>
                         </div>
                     </div>
@@ -929,7 +1012,6 @@
         </div>
     </div>
 
-
     <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
         <div class="toast-header">
             <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
@@ -943,10 +1025,6 @@
             </div>
         </div>
     </div>
-
-
-
-
 
     <style>
         #mod_200e951a div#splide01-track {
@@ -990,12 +1068,6 @@
             background-position: 80% center !important;
         }
     </style>
-
-
-    </div>
-
-
-    </main>
 
     <footer id="footer" class="r footer-2023 container-fluid background-color-dark-blue " data-cvx-module-name="footer">
         <div class="row main-row width-1200 centered">
@@ -1344,11 +1416,6 @@
 
     <script src="bundles/siteModulese688?v=0uwGi8Yh-XXXQnCuYSLcbsrFKBSuxE_ov8zwSfWBZPA1"></script>
 
-
-
-
-
-
     <style>
         .nav-2023 .nav-2023-container.show {
             visibility: visible;
@@ -1377,12 +1444,6 @@
             }
         }
     </style>
-
-
-    <!-- s: 003L7 @ 8/29/2024 5:51:21 PM UTC -->
-
 </body>
-
-<!-- Mirrored from www.chevron.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 09 Sep 2024 19:54:49 GMT -->
 
 </html>

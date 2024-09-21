@@ -158,7 +158,7 @@
       <div class=" module-looper">
 
 
-        <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
+        <div id="mod_38130ff8" class="a13 background-color-gradient toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
           <div class="toast-header">
             <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
               <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
@@ -172,22 +172,18 @@
           </div>
         </div>
 
-
-
-
-
         <div id="mod_a7829895" class="r c74 video-common text-center background-color-dark-gray " data-cvx-first-module-no-adjustment="true" data-cvx-module-name="c74">
           <div class="inner-container text-center" style="margin-top:0px;margin-bottom:0px;">
             <div class="gradient-container background-color-gradient"></div>
 
             <style type="text/css">
               #mod_a7829895.c74 .background-container {
-                background-image: url('../-/media/chevron/who-we-are/our-brands/images/01_hero_1920x1080b4b0.jpg?h=800&amp;hash=0652C8102A2C1E2E557FE63CF1272D6C');
+                background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.png');
               }
 
               @media screen and (min-width: 768px) {
                 #mod_a7829895.c74 .background-container {
-                  background-image: url('../-/media/chevron/who-we-are/our-brands/images/01_hero_1920x1080.jpg');
+                  background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.png');
                 }
               }
             </style>
@@ -198,7 +194,9 @@
               </div>
               <div class="description-container background-color-white">
                 <div class="description type-body text-elevated width-600 centered text-center">
-                  El gas LP (Gas Licuado de Petróleo) es una mezcla de hidrocarburos derivada del crudo. Es un recurso energético limpio y eficiente, ideal para una variedad de aplicaciones.
+                  <h3>
+                    El gas LP (Gas Licuado de Petróleo) es una mezcla de hidrocarburos derivada del crudo. Es un recurso energético limpio y eficiente, ideal para una variedad de aplicaciones.
+                  </h3>
                 </div>
               </div>
             </div>
@@ -208,103 +206,122 @@
         <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
           <div class="inner-container centered" style="margin-top:0px;">
             <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
+
               <div class="articles">
                 <div class="splide-wrapper">
+
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header color-dark-blue">Caracteristicas</h3>
+                      <h3 class="type-header text-base main-header colorAzulOscuro">Caracteristicas</h3>
                     </div>
                   </div>
+
                   <div class="splide__track">
                     <div class="splide__list">
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/1.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">NO TIENE COLOR</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              NO TIENE COLOR
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Es transparente como el aire.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/2.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">NO TIENE OLOR</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              NO TIENE OLOR
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Se le agrega un olor característico (similar a huevo podrido) para detectar fugas.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/3.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">ES TÓXICO</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              ES TÓXICO
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               La inhalación prolongada puede ser perjudicial.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/4.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">ES LIMPIO</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              ES LIMPIO
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               No contamina y, al usarse correctamente, no forma hollín ni afecta el sabor de los alimentos.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/5.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">ES MÁS PESADO QUE EL AIRE</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              ES MÁS PESADO QUE EL AIRE
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Se acumula en las partes bajas como sótanos.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/6.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">ES EXCESIVAMENTE FRÍO</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              ES EXCESIVAMENTE FRÍO
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Puede causar quemaduras al contacto con la piel.
                             </h4>
                           </div>
                         </div>
                       </a>
+
                     </div>
                   </div>
+
                 </div>
               </div>
+
               <div class="control">
                 <div class="splide__arrows">
                   <button class="splide__arrow splide__arrow--prev cta-button secondary">
@@ -322,6 +339,7 @@
                   </button>
                 </div>
               </div>
+
             </section>
           </div>
         </div>
@@ -329,75 +347,106 @@
         <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-white " data-cvx-module-name="c57">
           <div class="inner-container centered" style="margin-top:0px;">
             <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
+
               <div class="articles">
                 <div class="splide-wrapper">
+
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header color-dark-blue">Ventajas</h3>
+                      <h3 class="type-header text-base main-header colorAzulOscuro">Ventajas</h3>
                     </div>
                   </div>
+
                   <div class="splide__track">
                     <div class="splide__list">
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/1.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">USO Y CONSUMO</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              USO Y CONSUMO
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Ideal para instalaciones y equipos existentes sin necesidad de modificaciones adicionales.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/2.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">ESTABILIDAD DE PRECIOS</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              ESTABILIDAD DE PRECIOS
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Permite un mejor control de costos comparado con el gas natural.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/3.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">MAYOR PODER CALORÍFICO</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              MAYOR PODER CALORÍFICO
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Proporciona más calor con menor volumen que el gas natural.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/4.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">PRESIÓN CONSTANTE</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              PRESIÓN CONSTANTE
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               No sufre cortes de suministro por mantenimientos generales.
                             </h4>
                           </div>
                         </div>
                       </a>
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/5.png" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date white">
+                              ES MÁS PESADO QUE EL AIRE
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                              Se acumula en las partes bajas como sótanos.
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+
                     </div>
                   </div>
+
                 </div>
               </div>
+
               <div class="control">
                 <div class="splide__arrows">
                   <button class="splide__arrow splide__arrow--prev cta-button secondary">
@@ -415,6 +464,7 @@
                   </button>
                 </div>
               </div>
+
             </section>
           </div>
         </div>
@@ -422,75 +472,90 @@
         <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
           <div class="inner-container centered" style="margin-top:0px;">
             <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
+
               <div class="articles">
                 <div class="splide-wrapper">
+
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header color-dark-blue">Aplicaciones</h3>
+                      <h3 class="type-header text-base main-header colorAzulOscuro">Aplicaciones</h3>
                     </div>
                   </div>
+
                   <div class="splide__track">
                     <div class="splide__list">
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/1.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">DOMÉSTICO</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              DOMÉSTICO
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Perfecto para cocinas, calentadores y otros aparatos del hogar.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/2.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">INDUSTRIAL</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              INDUSTRIAL
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Esencial para procesos de manufactura y generación de calor.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/3.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">COMERCIAL</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              COMERCIAL
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Utilizado en restaurantes, hoteles y comercios.
                             </h4>
                           </div>
                         </div>
                       </a>
-                      <a class="splide__slide cta-link-parent" href="">
-                        <div class="inner-slide-wrapper background-color-medium-blue">
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/4.png" alt="" />
                           </div>
                           <div class="content-container text-left">
-                            <p class="type-body text-caption date">CARBURACIÓN AUTOMOTRIZ</p>
-                            <h4 class="type-subhead text-reduced slide-header">
+                            <p class="type-body text-caption date white">
+                              CARBURACIÓN AUTOMOTRIZ
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                               Alternativa de combustible para vehículos.
                             </h4>
                           </div>
                         </div>
                       </a>
+
                     </div>
                   </div>
+
                 </div>
               </div>
+
               <div class="control">
                 <div class="splide__arrows">
                   <button class="splide__arrow splide__arrow--prev cta-button secondary">
@@ -508,11 +573,12 @@
                   </button>
                 </div>
               </div>
+
             </section>
           </div>
         </div>
-      </div>
 
+      </div>
 
     </main>
 

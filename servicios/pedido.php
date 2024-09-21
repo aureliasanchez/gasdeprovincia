@@ -137,15 +137,15 @@
 
             <div class=" module-looper">
 
-                <div id="mod_c7c4da4e" class="c01 container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01">
+                <div id="mod_c7c4da4e" class="c01 container-fluid  section-bg-color background-color-gradient" data-cvx-module-name="c01">
 
                     <div class="inner-container row centered width-1200" style="margin-bottom:60px;">
                         <div class="col col-12 width-800 centered text-container">
-                            <h1 class="headline dark-blue">Pedidos</h1>
+                            <h1 class="headline colorAzulOscuro">Pedidos</h1>
                             <div class="body width-600 centered">
-                                <p style="text-align: center;">
+                                <h3 style="text-align: center;">
                                     En Gas de Provincia, hacemos que la recarga de gas LP sea rápida y conveniente para ti. Utiliza nuestro formulario para realizar tu pedido de manera fácil y segura. Proporcionamos tanques estacionarios y cilindros portátiles con diferentes capacidades para satisfacer tus necesidades específicas.
-                                </p>
+                                </h3>
                                 <div id="gtx-trans" style="position: absolute; left: -193px; top: -25px;">
                                     <div class="gtx-trans-icon">&nbsp;</div>
                                 </div>

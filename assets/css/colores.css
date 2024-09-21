@@ -1,26 +1,25 @@
-
 .colorAzulClaro {
-    color: #007387;
+    color: #1aa3bb;
 }
 
 .fondoAzulClaro {
-    background-color: #007387;
+    background-color: #1aa3bb;
 }
 
 .colorAzulMedio {
-    color: #012448;
+    color: #007387;
 }
 
 .fondoAzulMedio {
-    background-color: #012448;
+    background-color: #007387;
 }
 
 .colorAzulOscuro {
-    color: #021025;
+    color: #012448;
 }
 
 .fondoAzulOscuro {
-    background-color: #021025;
+    background-color: #012448;
 }
 
 .colorAmarilloClaro {
@@ -40,9 +39,9 @@
 }
 
 .colorAmarilloOscuro {
-    color: #a17c29;
+    color: #7d5d15;
 }
 
 .fondoAmarilloOscuro {
-    background-color: #a17c29;
+    background-color: #7d5d15;
 }

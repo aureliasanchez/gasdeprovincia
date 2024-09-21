@@ -137,15 +137,15 @@
 
             <div class=" module-looper">
 
-                <div id="mod_c7c4da4e" class="c01 container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01">
+                <div id="mod_c7c4da4e" class="c01 container-fluid  section-bg-color background-color-gradient" data-cvx-module-name="c01">
 
                     <div class="inner-container row centered width-1200" style="margin-bottom:60px;">
                         <div class="col col-12 width-800 centered text-container">
-                            <h1 class="headline dark-blue">Contacto</h1>
+                            <h1 class="headline colorAzulOscuro">Contacto</h1>
                             <div class="body width-600 centered">
-                                <p style="text-align: center;">
+                                <h3 style="text-align: center;">
                                     En Gas de Provincia, estamos siempre disponibles para ayudarte con cualquier duda o consulta que puedas tener.
-                                </p>
+                                </h3>
                                 <div id="gtx-trans" style="position: absolute; left: -193px; top: -25px;">
                                     <div class="gtx-trans-icon">&nbsp;</div>
                                 </div>
@@ -159,121 +159,122 @@
 
                                 <div class="articles">
                                     <div class="splide-wrapper">
+
                                         <div class="opening-content">
                                             <div>
-                                                <p class="type-eyebrow color-dark-blue">Gas LP</p>
-                                                <h3 class="type-header text-base main-header color-dark-blue">Contactos</h3>
+                                                <h3 class="type-header text-base main-header colorAzulOscuro">Contactos</h3>
                                             </div>
                                         </div>
+
                                         <div class="splide__track">
                                             <div class="splide__list">
 
                                                 <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/1.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <p class="type-body text-caption date">
+                                                            <p class="type-body text-caption date white">
                                                                 Teléfono
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 771-711-2599
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </a>
                                                 <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/2.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <p class="type-body text-caption date">
+                                                            <p class="type-body text-caption date white">
                                                                 Correo Electrónico
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 contacto@<wbr>gasdeprovinciahidalgo<wbr>.com.mx
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </a>
-                                                <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                <a class="splide__slide cta-link-parent" href="https://www.facebook.com/garzagashgo/?locale=es_LA" target="_blank">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/3.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 Facebook
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </a>
                                                 <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/4.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 Twitter
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </a>
                                                 <a class="splide__slide cta-link-parent" href="https://www.instagram.com/gasdeprovincia/" target="_blank">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/5.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 Instagram
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
@@ -282,6 +283,7 @@
 
                                             </div>
                                         </div>
+
                                     </div>
                                 </div>
 
@@ -313,82 +315,83 @@
 
                                 <div class="articles">
                                     <div class="splide-wrapper">
+
                                         <div class="opening-content">
                                             <div>
-                                                <p class="type-eyebrow color-dark-blue">Gas LP</p>
-                                                <h3 class="type-header text-base main-header color-dark-blue">Ubicaciones</h3>
+                                                <h3 class="type-header text-base main-header colorAzulOscuro">Ubicaciones</h3>
                                             </div>
                                         </div>
+
                                         <div class="splide__track">
                                             <div class="splide__list">
 
                                                 <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/1.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <p class="type-body text-caption date">
+                                                            <p class="type-body text-caption date white">
                                                                 Hidalgo
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 KM. 84+500 Col. Colonias, Pachuca de Soto.
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </a>
                                                 <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/2.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <p class="type-body text-caption date">
+                                                            <p class="type-body text-caption date white">
                                                                 Toluca
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 Santiago Graff No. 103, Santa Cruz Atzcapotzaltongo, Estado de México.
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
                                                     </div>
                                                 </a>
                                                 <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper background-color-medium-blue">
+                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="-/media/chevron/newsroom/2024/Q3/marking-a-century-of-progress-in-Indonesia-017d6d.jpg?h=216&amp;hash=C9E1F3353352BC6C5322CE014B9A6E35" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/3.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <p class="type-body text-caption date">
+                                                            <p class="type-body text-caption date white">
                                                                 Atlacomulco
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header">
+                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
                                                                 Rancho Santa Barbara, San Martin Atlacomulco, Estado de México.
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                                     </span>
-                                                                    <span class="cta-underline">Saber más</span>
+                                                                    <span class="cta-underline white">Saber más</span>
                                                                 </span>
                                                             </p>
                                                         </div>
@@ -397,6 +400,7 @@
 
                                             </div>
                                         </div>
+
                                     </div>
                                 </div>
 
@@ -417,9 +421,9 @@
                                         </button>
                                     </div>
                                 </div>
-
                             </section>
                         </div>
+
                     </div>
 
                 </div>
@@ -439,10 +443,10 @@
                 </div>
 
                 <div class="bg-white">
-                    <h1 class="headline dark-blue"><br>
+                    <h1 class="headline colorAzulOscuro"><br>
                         Formulario de Contacto
                     </h1>
-                    <h2 class="headline dark-blue">
+                    <h2 class="headline colorAzulMedio">
                         Para cualquier consulta, por favor completa el siguiente formulario. Nos comprometemos a responderte lo antes posible.
                     </h2>
                 </div>

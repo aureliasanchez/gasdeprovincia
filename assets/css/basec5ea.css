@@ -745,7 +745,12 @@ progress {
 
 .img-fluid {
     max-width: 100%;
-    height: auto
+    height: auto;
+}
+
+.logo-position {
+    position: relative;
+    top: -15px;
 }
 
 .img-thumbnail {
@@ -22825,10 +22830,12 @@ body {
     align-items: center;
 }
 
+
+
 .nav-2023 .nav-2023-container {
     padding: 0 24px 24px;
     visibility: hidden;
-    background-color: var(--color-dark-blue);
+    background-color: var(--color-dark-yellow);
     width: 100%;
     border: none;
 }
@@ -22836,7 +22843,7 @@ body {
 .nav-2023 .nav-2023-container {
     padding: 0 24px 24px;
     visibility: hidden;
-    background-color: var(--color-dark-yellow);
+    background-color: var(--color-dark-blue);
     width: 100%;
     border: none;
 }

@@ -7,7 +7,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Climate &mdash; Chevron</title>
+    <title>Asesoria | Gas Provincia</title>
 
     <meta name="VIcurrentDateTime" content="638615084648121489" />
     <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
@@ -46,11 +46,11 @@
     <link rel="canonical" href="energy-transition.html" />
 
 
-    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/fav/apple-touch-icon23b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/fav/favicon-32x3223b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/fav/favicon-16x1623b4.png?v=7k4MjPGMX6">
-    <link rel="manifest" href="../../assets/fav/site23b4.webmanifest?v=7k4MjPGMX6">
-    <link rel="shortcut icon" href="../../assets/fav/favicon23b4.ico?v=7k4MjPGMX6">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
+    <link rel="manifest" href="../assets/images/logotype/logotype.png">
+    <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
     <meta name="msapplication-TileColor" content="#0b2d71">
     <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
     <meta name="theme-color" content="#ffffff">
@@ -191,6 +191,10 @@
         ?>
         <div>
             <link rel="stylesheet" href="../assets/css/colores.css">
+            <link rel="stylesheet" href="../assets/css/whatsapp.css">
+            <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
+                <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
+            </a>
         </div>
 
         <main role="main" id="main-content" tabindex="-1">
@@ -199,9 +203,9 @@
                 <div id="mod_d7b0c924" class="c01f container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01f">
                     <div class="inner-container row centered width-1920" style="margin-top:0px;margin-bottom:40px;">
                         <div class="box-container">
-                            <div class="background-container" style="background-image: url('../assets/images/pages/soporte/asesoria/_01_Conjunto/1.png')"></div>
+                            <div class="background-container" style="background-image: url('../assets/images/pages/soporte/asesoria/_01_Conjunto/1.webp')"></div>
                             <div class="content-container bg-white width-800">
-                                <h1 class="headline colorAzulOscuro">Asesoría técnica</h1>
+                                <h1 class="headline color-dark-blue">Asesoría técnica</h1>
                                 <h3 class="text-center">
                                     <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
                                         En Gas de Provincia S.A. de C.V., somos líderes en la venta y distribución de Gas L.P., comprometidos con la seguridad y satisfacción de nuestros clientes desde 2005 en Hidalgo, y con una historia que se remonta a 1947 en Toluca y Atlacomulco. Nos destacamos por nuestra calidad, servicio y honestidad, atendiendo tanto a hogares como a industrias y comercios.
@@ -214,17 +218,17 @@
 
                 <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
 
-                    <h2 class="headline colorAzulOscuro">Servicios Ofrecidos</h2>
+                    <h2 class="headline color-dark-blue">Servicios Ofrecidos</h2>
 
                     <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
                         <div class="c11b-container">
 
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/1.png" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header colorAzulOscuro type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
                                             Servicio técnico a hogares
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -235,10 +239,10 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/2.png" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/2.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header colorAzulOscuro type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
                                             Servicio técnico a empresas
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -249,10 +253,10 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/3.png" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/3.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header colorAzulOscuro type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
                                             Presupuestos
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -263,10 +267,10 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/4.png" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/4.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header colorAzulOscuro type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
                                             Mantenimiento preventivo y correctivo
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -277,10 +281,10 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/5.png" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/5.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header colorAzulOscuro type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
                                             Diseño de proyectos
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -291,10 +295,10 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/6.png" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/6.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header colorAzulOscuro type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
                                             Instalaciones
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -305,10 +309,10 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/7.png" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/7.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header colorAzulOscuro type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
                                             Dictámenes
                                         </h3>
                                         <div class="description type-body text-reduced centered">

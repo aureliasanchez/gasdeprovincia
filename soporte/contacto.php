@@ -7,7 +7,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Email Chevron &mdash; Chevron</title>
+    <title>Contacto | Gas Provincia</title>
 
     <meta name="VIcurrentDateTime" content="638615086612623661" />
     <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
@@ -46,11 +46,11 @@
     <link rel="canonical" href="chevron.html" />
 
 
-    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/fav/apple-touch-icon23b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/fav/favicon-32x3223b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/fav/favicon-16x1623b4.png?v=7k4MjPGMX6">
-    <link rel="manifest" href="../../assets/fav/site23b4.webmanifest?v=7k4MjPGMX6">
-    <link rel="shortcut icon" href="../../assets/fav/favicon23b4.ico?v=7k4MjPGMX6">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
+    <link rel="manifest" href="../assets/images/logotype/logotype.png">
+    <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
     <meta name="msapplication-TileColor" content="#0b2d71">
     <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
     <meta name="theme-color" content="#ffffff">
@@ -131,6 +131,10 @@
         ?>
         <div>
             <link rel="stylesheet" href="../assets/css/colores.css">
+            <link rel="stylesheet" href="../assets/css/whatsapp.css">
+            <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
+                <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
+            </a>
         </div>
 
         <main role="main" id="main-content" tabindex="-1">
@@ -141,7 +145,7 @@
 
                     <div class="inner-container row centered width-1200" style="margin-bottom:60px;">
                         <div class="col col-12 width-800 centered text-container">
-                            <h1 class="headline colorAzulOscuro">Contacto</h1>
+                            <h1 class="headline color-dark-blue">Contacto</h1>
                             <div class="body width-600 centered">
                                 <h3 style="text-align: center;">
                                     En Gas de Provincia, estamos siempre disponibles para ayudarte con cualquier duda o consulta que puedas tener.
@@ -162,7 +166,7 @@
 
                                         <div class="opening-content">
                                             <div>
-                                                <h3 class="type-header text-base main-header colorAzulOscuro">Contactos</h3>
+                                                <h3 class="type-header text-base main-header color-dark-blue">Contactos</h3>
                                             </div>
                                         </div>
 
@@ -173,13 +177,13 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/1.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/1.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
                                                                 Teléfono
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                                 771-711-2599
                                                             </h4>
                                                             <p class="cta-container">
@@ -197,13 +201,13 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/2.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/2.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
                                                                 Correo Electrónico
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                                 contacto@<wbr>gasdeprovinciahidalgo<wbr>.com.mx
                                                             </h4>
                                                             <p class="cta-container">
@@ -221,10 +225,10 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/3.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/3.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                                 Facebook
                                                             </h4>
                                                             <p class="cta-container">
@@ -242,10 +246,10 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/4.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/4.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                                 Twitter
                                                             </h4>
                                                             <p class="cta-container">
@@ -263,10 +267,10 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/5.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/5.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                                 Instagram
                                                             </h4>
                                                             <p class="cta-container">
@@ -318,7 +322,7 @@
 
                                         <div class="opening-content">
                                             <div>
-                                                <h3 class="type-header text-base main-header colorAzulOscuro">Ubicaciones</h3>
+                                                <h3 class="type-header text-base main-header color-dark-blue">Ubicaciones</h3>
                                             </div>
                                         </div>
 
@@ -329,13 +333,13 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/1.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/1.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
                                                                 Hidalgo
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                                 KM. 84+500 Col. Colonias, Pachuca de Soto.
                                                             </h4>
                                                             <p class="cta-container">
@@ -353,14 +357,14 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/2.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/2.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
                                                                 Toluca
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
-                                                                Santiago Graff No. 103, Santa Cruz Atzcapotzaltongo, Estado de México.
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                                                                Santiago Graff 103. Santa Cruz Atzcapotzaltongo. Estado de México.
                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
@@ -377,13 +381,13 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/3.png" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/3.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
                                                                 Atlacomulco
                                                             </p>
-                                                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                                 Rancho Santa Barbara, San Martin Atlacomulco, Estado de México.
                                                             </h4>
                                                             <p class="cta-container">
@@ -443,10 +447,10 @@
                 </div>
 
                 <div class="bg-white">
-                    <h1 class="headline colorAzulOscuro"><br>
+                    <h1 class="headline color-dark-blue"><br>
                         Formulario de Contacto
                     </h1>
-                    <h2 class="headline colorAzulMedio">
+                    <h2 class="headline color-medium-blue">
                         Para cualquier consulta, por favor completa el siguiente formulario. Nos comprometemos a responderte lo antes posible.
                     </h2>
                 </div>

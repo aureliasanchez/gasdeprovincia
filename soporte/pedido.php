@@ -7,7 +7,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Email Chevron &mdash; Chevron</title>
+    <title>Pedidos | Gas Provincia</title>
 
     <meta name="VIcurrentDateTime" content="638615086612623661" />
     <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
@@ -46,11 +46,11 @@
     <link rel="canonical" href="chevron.html" />
 
 
-    <link rel="apple-touch-icon" sizes="180x180" href="../../assets/fav/apple-touch-icon23b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="32x32" href="../../assets/fav/favicon-32x3223b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="16x16" href="../../assets/fav/favicon-16x1623b4.png?v=7k4MjPGMX6">
-    <link rel="manifest" href="../../assets/fav/site23b4.webmanifest?v=7k4MjPGMX6">
-    <link rel="shortcut icon" href="../../assets/fav/favicon23b4.ico?v=7k4MjPGMX6">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
+    <link rel="manifest" href="../assets/images/logotype/logotype.png">
+    <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
     <meta name="msapplication-TileColor" content="#0b2d71">
     <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
     <meta name="theme-color" content="#ffffff">
@@ -131,6 +131,10 @@
         ?>
         <div>
             <link rel="stylesheet" href="../assets/css/colores.css">
+            <link rel="stylesheet" href="../assets/css/whatsapp.css">
+            <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
+                <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
+            </a>
         </div>
 
         <main role="main" id="main-content" tabindex="-1">
@@ -141,7 +145,7 @@
 
                     <div class="inner-container row centered width-1200" style="margin-bottom:60px;">
                         <div class="col col-12 width-800 centered text-container">
-                            <h1 class="headline colorAzulOscuro">Pedidos</h1>
+                            <h1 class="headline color-dark-blue">Pedidos</h1>
                             <div class="body width-600 centered">
                                 <h3 style="text-align: center;">
                                     En Gas de Provincia, hacemos que la recarga de gas LP sea rápida y conveniente para ti. Utiliza nuestro formulario para realizar tu pedido de manera fácil y segura. Proporcionamos tanques estacionarios y cilindros portátiles con diferentes capacidades para satisfacer tus necesidades específicas.

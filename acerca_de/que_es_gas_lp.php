@@ -7,7 +7,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Our Brands &mdash; Chevron</title>
+  <title>Gas LP | Gas Provincia</title>
 
   <meta name="VIcurrentDateTime" content="638615084802738420" />
   <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
@@ -46,11 +46,11 @@
   <link rel="canonical" href="our-brands.html" />
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="../assets/fav/apple-touch-icon23b4.png?v=7k4MjPGMX6">
-  <link rel="icon" type="image/png" sizes="32x32" href="../assets/fav/favicon-32x3223b4.png?v=7k4MjPGMX6">
-  <link rel="icon" type="image/png" sizes="16x16" href="../assets/fav/favicon-16x1623b4.png?v=7k4MjPGMX6">
-  <link rel="manifest" href="../assets/fav/site23b4.webmanifest?v=7k4MjPGMX6">
-  <link rel="shortcut icon" href="../assets/fav/favicon23b4.ico?v=7k4MjPGMX6">
+  <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
+  <link rel="manifest" href="../assets/images/logotype/logotype.png">
+  <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
   <meta name="msapplication-TileColor" content="#0b2d71">
   <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
   <meta name="theme-color" content="#ffffff">
@@ -148,6 +148,10 @@
       include("../assets/html/header.html");
       ?>
       <link rel="stylesheet" href="../assets/css/colores.css">
+      <link rel="stylesheet" href="../assets/css/whatsapp.css">
+      <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
+        <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
+      </a>
     </div>
 
     <main role="main" id="main-content" tabindex="-1">
@@ -178,12 +182,12 @@
 
             <style type="text/css">
               #mod_a7829895.c74 .background-container {
-                background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.png');
+                background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.webp');
               }
 
               @media screen and (min-width: 768px) {
                 #mod_a7829895.c74 .background-container {
-                  background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.png');
+                  background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.webp');
                 }
               }
             </style>
@@ -212,7 +216,7 @@
 
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header colorAzulOscuro">Caracteristicas</h3>
+                      <h3 class="type-header text-base main-header color-dark-blue">Caracteristicas</h3>
                     </div>
                   </div>
 
@@ -223,13 +227,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/1.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/1.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               NO TIENE COLOR
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Es transparente como el aire.
                             </h4>
                           </div>
@@ -239,13 +243,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/2.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/2.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               NO TIENE OLOR
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Se le agrega un olor característico (similar a huevo podrido) para detectar fugas.
                             </h4>
                           </div>
@@ -255,13 +259,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/3.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/3.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES TÓXICO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               La inhalación prolongada puede ser perjudicial.
                             </h4>
                           </div>
@@ -271,13 +275,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/4.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/4.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES LIMPIO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               No contamina y, al usarse correctamente, no forma hollín ni afecta el sabor de los alimentos.
                             </h4>
                           </div>
@@ -287,13 +291,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/5.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/5.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES MÁS PESADO QUE EL AIRE
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Se acumula en las partes bajas como sótanos.
                             </h4>
                           </div>
@@ -303,13 +307,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/6.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/6.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES EXCESIVAMENTE FRÍO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Puede causar quemaduras al contacto con la piel.
                             </h4>
                           </div>
@@ -353,7 +357,7 @@
 
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header colorAzulOscuro">Ventajas</h3>
+                      <h3 class="type-header text-base main-header color-dark-blue">Ventajas</h3>
                     </div>
                   </div>
 
@@ -364,13 +368,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/1.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/1.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               USO Y CONSUMO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Ideal para instalaciones y equipos existentes sin necesidad de modificaciones adicionales.
                             </h4>
                           </div>
@@ -380,13 +384,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/2.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/2.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ESTABILIDAD DE PRECIOS
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Permite un mejor control de costos comparado con el gas natural.
                             </h4>
                           </div>
@@ -396,13 +400,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/3.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/3.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               MAYOR PODER CALORÍFICO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Proporciona más calor con menor volumen que el gas natural.
                             </h4>
                           </div>
@@ -412,13 +416,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/4.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/4.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               PRESIÓN CONSTANTE
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               No sufre cortes de suministro por mantenimientos generales.
                             </h4>
                           </div>
@@ -428,13 +432,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/5.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/5.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES MÁS PESADO QUE EL AIRE
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Se acumula en las partes bajas como sótanos.
                             </h4>
                           </div>
@@ -478,7 +482,7 @@
 
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header colorAzulOscuro">Aplicaciones</h3>
+                      <h3 class="type-header text-base main-header color-dark-blue">Aplicaciones</h3>
                     </div>
                   </div>
 
@@ -489,13 +493,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/1.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/1.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               DOMÉSTICO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Perfecto para cocinas, calentadores y otros aparatos del hogar.
                             </h4>
                           </div>
@@ -505,13 +509,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/2.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/2.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               INDUSTRIAL
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Esencial para procesos de manufactura y generación de calor.
                             </h4>
                           </div>
@@ -521,13 +525,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/3.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/3.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               COMERCIAL
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Utilizado en restaurantes, hoteles y comercios.
                             </h4>
                           </div>
@@ -537,13 +541,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/4.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/4.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               CARBURACIÓN AUTOMOTRIZ
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Alternativa de combustible para vehículos.
                             </h4>
                           </div>

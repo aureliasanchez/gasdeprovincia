@@ -7,7 +7,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Our Brands &mdash; Chevron</title>
+    <title>Nosotros | Gas Provincia</title>
 
     <meta name="VIcurrentDateTime" content="638615084802738420" />
     <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
@@ -46,11 +46,11 @@
     <link rel="canonical" href="our-brands.html" />
 
 
-    <link rel="apple-touch-icon" sizes="180x180" href="../assets/fav/apple-touch-icon23b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="32x32" href="../assets/fav/favicon-32x3223b4.png?v=7k4MjPGMX6">
-    <link rel="icon" type="image/png" sizes="16x16" href="../assets/fav/favicon-16x1623b4.png?v=7k4MjPGMX6">
-    <link rel="manifest" href="../assets/fav/site23b4.webmanifest?v=7k4MjPGMX6">
-    <link rel="shortcut icon" href="../assets/fav/favicon23b4.ico?v=7k4MjPGMX6">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
+    <link rel="manifest" href="../assets/images/logotype/logotype.png">
+    <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
     <meta name="msapplication-TileColor" content="#0b2d71">
     <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
     <meta name="theme-color" content="#ffffff">
@@ -148,6 +148,10 @@
             include("../assets/html/header.html");
             ?>
             <link rel="stylesheet" href="../assets/css/colores.css">
+            <link rel="stylesheet" href="../assets/css/whatsapp.css">
+            <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
+                <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
+            </a>
         </div>
 
         <main role="main" id="main-content" tabindex="-1">
@@ -174,12 +178,12 @@
 
                         <style type="text/css">
                             #mod_a7829895.c74 .background-container {
-                                background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.png');
+                                background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.webp');
                             }
 
                             @media screen and (min-width: 768px) {
                                 #mod_a7829895.c74 .background-container {
-                                    background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.png');
+                                    background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.webp');
                                 }
                             }
                         </style>
@@ -208,7 +212,7 @@
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/1.png); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/1.webp); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -217,12 +221,12 @@
 
                                             <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                 <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                    <h2 class="headline colorAzulOscuro">
+                                                    <h2 class="headline color-dark-blue">
                                                         Misión
                                                     </h2>
                                                 </div>
                                             </div>
-                                            <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                            <div class="description body-2 color-dark-yellow d-print-none">
                                                 <h3>
                                                     Ser la empresa número uno en distribución y comercialización de Gas L.P.
                                                     <br>
@@ -240,7 +244,7 @@
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/2.png); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/2.webp); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -249,12 +253,12 @@
 
                                             <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                 <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                    <h2 class="headline colorAzulOscuro">
+                                                    <h2 class="headline color-dark-blue">
                                                         Visión
                                                     </h2>
                                                 </div>
                                             </div>
-                                            <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                            <div class="description body-2 color-dark-yellow d-print-none">
                                                 <h3>
                                                     Distinguirnos como la empresa líder en la distribución de gas LP en Hidalgo, excediendo las expectativas de nuestros clientes a través de un servicio de calidad y atención excepcional.
                                                 </h3>
@@ -270,7 +274,7 @@
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/3.png); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/3.webp); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -278,12 +282,12 @@
                                         <div class="text-container">
                                             <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                 <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                    <h2 class="headline colorAzulOscuro">
+                                                    <h2 class="headline color-dark-blue">
                                                         Factor Humano
                                                     </h2>
                                                 </div>
                                             </div>
-                                            <div class="description body-2 colorAmarilloOscuro d-print-none">
+                                            <div class="description body-2 color-dark-yellow d-print-none">
                                                 <h3>
                                                     Nuestro equipo se distingue por su motivación, capacitación y dedicación, identificándose plenamente con los valores y objetivos de la empresa.
                                                 </h3>
@@ -311,14 +315,14 @@
                     <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
 
                         <div class="parent-text-container centered text-center r">
-                            <h3 class="type-header parent-header text-base colorAzulOscuro theme-text-color">Valores</h3>
+                            <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">Valores</h3>
                         </div>
 
                         <div class="c11-container">
 
-                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
+                            <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
+                                    <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Compromiso
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -326,9 +330,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
+                            <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
+                                    <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Calidad
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -336,9 +340,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
+                            <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
+                                    <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Servicio
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -346,9 +350,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
+                            <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
+                                    <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Honestidad
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -356,9 +360,9 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="tile fact-tile fondoAzulOscuro theme-text-white">
+                            <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
-                                    <p class="figure-description colorAmarilloClaro font-gotham text-bold">
+                                    <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Seguridad
                                     </p>
                                     <p class="description theme-text-color body-2">
@@ -374,7 +378,7 @@
 
                 <div id="mod_351c10e3" class="c06 container-fluid section-bg-color bg-white" data-cvx-module-name="c06">
                     <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                        <h2 class="headline colorAzulOscuro">Principales Clientes</h2>
+                        <h2 class="headline color-dark-blue">Principales Clientes</h2>
                         <div class="body width-600 centered">
                             <h3>
                                 Atendemos a una amplia variedad de clientes, desde hogares hasta grandes industrias, siempre con el compromiso de brindar un servicio de excelencia.
@@ -392,7 +396,7 @@
 
                                     <div class="opening-content">
                                         <div>
-                                            <h3 class="type-header text-base main-header colorAzulOscuro">Clientes</h3>
+                                            <h3 class="type-header text-base main-header color-dark-blue">Clientes</h3>
                                         </div>
                                     </div>
 
@@ -403,13 +407,13 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/1.png" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/1.webp" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
                                                         <p class="type-body text-caption date white">
                                                             NOMBRE CLIENTE
                                                         </p>
-                                                        <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                             DESCRIPCION CLIENTE
                                                         </h4>
                                                     </div>
@@ -419,13 +423,13 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/2.png" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/2.webp" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
                                                         <p class="type-body text-caption date white">
                                                             NOMBRE CLIENTE
                                                         </p>
-                                                        <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                             DESCRIPCION CLIENTE
                                                         </h4>
                                                     </div>
@@ -435,13 +439,13 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/3.png" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/3.webp" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
                                                         <p class="type-body text-caption date white">
                                                             NOMBRE CLIENTE
                                                         </p>
-                                                        <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                             DESCRIPCION CLIENTE
                                                         </h4>
                                                     </div>

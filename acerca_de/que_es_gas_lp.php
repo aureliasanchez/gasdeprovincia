@@ -7,7 +7,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Our Brands &mdash; Chevron</title>
+  <title>Gas LP | Gas Provincia</title>
 
   <meta name="VIcurrentDateTime" content="638615084802738420" />
   <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
@@ -46,11 +46,11 @@
   <link rel="canonical" href="our-brands.html" />
 
 
-  <link rel="apple-touch-icon" sizes="180x180" href="../assets/fav/apple-touch-icon23b4.png?v=7k4MjPGMX6">
-  <link rel="icon" type="image/png" sizes="32x32" href="../assets/fav/favicon-32x3223b4.png?v=7k4MjPGMX6">
-  <link rel="icon" type="image/png" sizes="16x16" href="../assets/fav/favicon-16x1623b4.png?v=7k4MjPGMX6">
-  <link rel="manifest" href="../assets/fav/site23b4.webmanifest?v=7k4MjPGMX6">
-  <link rel="shortcut icon" href="../assets/fav/favicon23b4.ico?v=7k4MjPGMX6">
+  <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
+  <link rel="manifest" href="../assets/images/logotype/logotype.png">
+  <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
   <meta name="msapplication-TileColor" content="#0b2d71">
   <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
   <meta name="theme-color" content="#ffffff">
@@ -148,6 +148,10 @@
       include("../assets/html/header.html");
       ?>
       <link rel="stylesheet" href="../assets/css/colores.css">
+      <link rel="stylesheet" href="../assets/css/whatsapp.css">
+      <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
+        <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
+      </a>
     </div>
 
     <main role="main" id="main-content" tabindex="-1">
@@ -178,12 +182,12 @@
 
             <style type="text/css">
               #mod_a7829895.c74 .background-container {
-                background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.png');
+                background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.webp');
               }
 
               @media screen and (min-width: 768px) {
                 #mod_a7829895.c74 .background-container {
-                  background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.png');
+                  background-image: url('../assets/images/pages/acerca_de/gas_lp/_01_Conjunto/1.webp');
                 }
               }
             </style>
@@ -212,7 +216,7 @@
 
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header colorAzulOscuro">Caracteristicas</h3>
+                      <h3 class="type-header text-base main-header color-dark-blue">Caracteristicas</h3>
                     </div>
                   </div>
 
@@ -223,13 +227,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/1.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/1.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               NO TIENE COLOR
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Es transparente como el aire.
                             </h4>
                           </div>
@@ -239,13 +243,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/2.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/2.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               NO TIENE OLOR
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Se le agrega un olor característico (similar a huevo podrido) para detectar fugas.
                             </h4>
                           </div>
@@ -255,13 +259,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/3.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/3.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES TÓXICO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               La inhalación prolongada puede ser perjudicial.
                             </h4>
                           </div>
@@ -271,13 +275,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/4.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/4.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES LIMPIO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               No contamina y, al usarse correctamente, no forma hollín ni afecta el sabor de los alimentos.
                             </h4>
                           </div>
@@ -287,13 +291,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/5.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/5.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES MÁS PESADO QUE EL AIRE
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Se acumula en las partes bajas como sótanos.
                             </h4>
                           </div>
@@ -303,13 +307,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/6.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_02_Conjunto/6.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES EXCESIVAMENTE FRÍO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Puede causar quemaduras al contacto con la piel.
                             </h4>
                           </div>
@@ -353,7 +357,7 @@
 
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header colorAzulOscuro">Ventajas</h3>
+                      <h3 class="type-header text-base main-header color-dark-blue">Ventajas</h3>
                     </div>
                   </div>
 
@@ -364,13 +368,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/1.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/1.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               USO Y CONSUMO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Ideal para instalaciones y equipos existentes sin necesidad de modificaciones adicionales.
                             </h4>
                           </div>
@@ -380,13 +384,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/2.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/2.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ESTABILIDAD DE PRECIOS
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Permite un mejor control de costos comparado con el gas natural.
                             </h4>
                           </div>
@@ -396,13 +400,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/3.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/3.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               MAYOR PODER CALORÍFICO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Proporciona más calor con menor volumen que el gas natural.
                             </h4>
                           </div>
@@ -412,13 +416,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/4.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/4.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               PRESIÓN CONSTANTE
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               No sufre cortes de suministro por mantenimientos generales.
                             </h4>
                           </div>
@@ -428,13 +432,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/5.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_03_Conjunto/5.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               ES MÁS PESADO QUE EL AIRE
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Se acumula en las partes bajas como sótanos.
                             </h4>
                           </div>
@@ -478,7 +482,7 @@
 
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header colorAzulOscuro">Aplicaciones</h3>
+                      <h3 class="type-header text-base main-header color-dark-blue">Aplicaciones</h3>
                     </div>
                   </div>
 
@@ -489,13 +493,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/1.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/1.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               DOMÉSTICO
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Perfecto para cocinas, calentadores y otros aparatos del hogar.
                             </h4>
                           </div>
@@ -505,13 +509,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/2.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/2.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               INDUSTRIAL
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Esencial para procesos de manufactura y generación de calor.
                             </h4>
                           </div>
@@ -521,13 +525,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/3.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/3.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               COMERCIAL
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Utilizado en restaurantes, hoteles y comercios.
                             </h4>
                           </div>
@@ -537,13 +541,13 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/4.png" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/_04_Conjunto/4.webp" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
                               CARBURACIÓN AUTOMOTRIZ
                             </p>
-                            <h4 class="type-subhead text-reduced slide-header colorAmarilloClaro">
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                               Alternativa de combustible para vehículos.
                             </h4>
                           </div>
@@ -582,348 +586,9 @@
 
     </main>
 
-    <footer id="footer" class="r footer-2023 container-fluid background-color-dark-blue " data-cvx-module-name="footer">
-      <div class="row main-row width-1200 centered">
-        <div class="col-12 col-md-6 col-lg-4 left-col">
-          <div class="image-container">
-            <img src="../-/media/chevron/Footer/footer-hallmark7102.svg?h=131&amp;w=200&amp;la=en&amp;hash=01934D32B4670AE47B0829C6662F7A2E" height="131" width="200" class="img-fluid" alt="the human energy company" />
-          </div>
-          <div class="description type-body text-reduced">
-            <p>Chevron has always put people at the center of the energy conversation. Because we understand that the well-being of people everywhere depends on energy. Energy that is affordable, reliable and ever-cleaner.</p>
-          </div>
-          <div class="cta-container">
-            <a href="../newsroom/subscribe.html" class="cta-link type-cta text-reduced" target=""> <span class="cta-glyphicon">
-                <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-              </span>
-              <span class="cta-underline">subscribe to our newsletter</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-8 right-col">
-          <div id="footer-accordion" class="accordion">
-            <div class="accordion-item">
-              <button id="heading-0" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-0" aria-expanded="true" aria-controls="collapse-0">get to know us</button>
-              <ul id="collapse-0" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-0" data-bs-parent="#footer-accordion" data-item-index="0">
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../who-we-are.html" class="cta-link accordion-link"> <span class="cta-underline">who we are</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="leadership.html" class="cta-link accordion-link"> <span class="cta-underline">our leadership</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../what-we-do.html" class="cta-link accordion-link"> <span class="cta-underline">what we do</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="our-brands.html" class="cta-link accordion-link"> <span class="cta-underline">our brands</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../what-we-do/technology-and-innovation.html" class="cta-link accordion-link"> <span class="cta-underline">technology and innovation</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../sustainability.html" class="cta-link accordion-link"> <span class="cta-underline">sustainability</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../worldwide.html" class="cta-link accordion-link"> <span class="cta-underline">chevron around the world</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../investors.html" class="cta-link accordion-link"> <span class="cta-underline">investor relations</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div class="accordion-item">
-              <button id="heading-1" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="true" aria-controls="collapse-1">latest at chevron</button>
-              <ul id="collapse-1" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-1" data-bs-parent="#footer-accordion" data-item-index="1">
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../newsroom.html" class="cta-link accordion-link"> <span class="cta-underline">newsroom</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../investors/events-presentations.html" class="cta-link accordion-link"> <span class="cta-underline">investors events and presentations</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../investors/reports-and-filings.html" class="cta-link accordion-link"> <span class="cta-underline">financial information</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../investors/stock-and-dividend.html" class="cta-link accordion-link"> <span class="cta-underline">stock information</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../what-we-do/technology-and-innovation/technology-ventures.html" class="cta-link accordion-link"> <span class="cta-underline">technology ventures</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div class="accordion-item">
-              <button id="heading-2" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="true" aria-controls="collapse-2">future of energy</button>
-              <ul id="collapse-2" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-2" data-bs-parent="#footer-accordion" data-item-index="2">
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../what-we-do/technology-and-innovation/capturing-and-storing-carbon-emissions.html" class="cta-link accordion-link"> <span class="cta-underline">carbon capture and storage</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="energy-in-progress.html" class="cta-link accordion-link"> <span class="cta-underline">energy in progress</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../what-we-do/energy/new-energies.html" class="cta-link accordion-link"> <span class="cta-underline">new energies</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../what-we-do/energy/fuels/renewable-fuels-in-transportation.html" class="cta-link accordion-link"> <span class="cta-underline">renewable fuels in transportation</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="../newsroom/2022/q3/methane-management.html" class="cta-link accordion-link"> <span class="cta-underline">methane management</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-            <div class="accordion-item">
-              <button id="heading-3" class="accordion-button type-cta text-reduced collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-3" aria-expanded="true" aria-controls="collapse-3">popular links</button>
-              <ul id="collapse-3" class="list-unstyled accordion-collapse collapse" aria-labelledby="heading-3" data-bs-parent="#footer-accordion" data-item-index="3">
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="our-brands/gift-credit-cards.html" class="cta-link accordion-link"> <span class="cta-underline">credit and gift cards</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="https://www.chevrontexacorewards.com/" class="cta-link accordion-link" rel="noopener noreferrer" target="_blank"> <span class="cta-underline">chevron texaco rewards</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="contact/jobs.html" class="cta-link accordion-link"> <span class="cta-underline">careers</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="contact.html" class="cta-link accordion-link"> <span class="cta-underline">contact us</span>
-                  </a>
-                </li>
-                <li class="accordion-list-item type-body text-reduced">
-                  <a href="our-brands/fuel-stations.html" class="cta-link accordion-link"> <span class="cta-underline">find a service station</span>
-                  </a>
-                </li>
-              </ul>
-            </div>
-
-          </div>
-        </div>
-      </div>
-      <div class="row social-row width-1200 centered">
-        <div class="col-12 col-lg-7 left-col">
-          <ul class="global-links list-unstyled">
-            <li class="global-list-item type-body text-caption">
-              <a href="../global-pages/site-map.html" class="cta-link global-link"> <span class="cta-underline">site map</span>
-              </a>
-            </li>
-            <li class="global-list-item type-body text-caption">
-              <a href="../accessibility.html" class="cta-link global-link"> <span class="cta-underline">accessibility</span>
-              </a>
-            </li>
-            <li class="global-list-item type-body text-caption">
-              <a href="../terms-of-use.html" class="cta-link global-link"> <span class="cta-underline">terms of use</span>
-              </a>
-            </li>
-            <li class="global-list-item type-body text-caption">
-              <a href="../privacy.html" class="cta-link global-link"> <span class="cta-underline">privacy</span>
-              </a>
-            </li>
-            <li class="global-list-item type-body text-caption">
-              <a href="javascript:OneTrust.ToggleInfoDisplay()" class="cta-link global-link"> <span class="cta-underline">cookie settings</span>
-              </a>
-            </li>
-            <li class="global-list-item type-body text-caption">
-              <a href="../privacy/global-cookie-statement.html" class="cta-link global-link"> <span class="cta-underline">cookie statement</span>
-              </a>
-            </li>
-            <li class="geo-link type-cta text-caption" data-cvx-countries="{
-  &quot;countrylinks&quot;: [
-    {
-      &quot;countrycode&quot;: &quot;US&quot;,
-      &quot;countryname&quot;: &quot;United States&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/united-states&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;AO&quot;,
-      &quot;countryname&quot;: &quot;Angola&quot;,
-      &quot;link&quot;: &quot;https://angola.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;AR&quot;,
-      &quot;countryname&quot;: &quot;Argentina&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/argentina&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;AU&quot;,
-      &quot;countryname&quot;: &quot;Australia&quot;,
-      &quot;link&quot;: &quot;https://australia.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;BD&quot;,
-      &quot;countryname&quot;: &quot;Bangladesh&quot;,
-      &quot;link&quot;: &quot;https://bangladesh.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;BR&quot;,
-      &quot;countryname&quot;: &quot;Brazil&quot;,
-      &quot;link&quot;: &quot;https://brazil.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;KH&quot;,
-      &quot;countryname&quot;: &quot;Cambodia&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/cambodia&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;CA&quot;,
-      &quot;countryname&quot;: &quot;Canada&quot;,
-      &quot;link&quot;: &quot;https://canada.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;CO&quot;,
-      &quot;countryname&quot;: &quot;Colombia&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/colombia&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;ID&quot;,
-      &quot;countryname&quot;: &quot;Indonesia&quot;,
-      &quot;link&quot;: &quot;https://indonesia.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;IQ&quot;,
-      &quot;countryname&quot;: &quot;Iraq&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/iraq&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;IL&quot;,
-      &quot;countryname&quot;: &quot;Israel&quot;,
-      &quot;link&quot;: &quot;https://israel.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;KZ&quot;,
-      &quot;countryname&quot;: &quot;Kazakhstan&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/kazakhstan&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;KW&quot;,
-      &quot;countryname&quot;: &quot;Kuwait&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/kuwait&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;MY&quot;,
-      &quot;countryname&quot;: &quot;Malaysia&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/malaysia&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;MM&quot;,
-      &quot;countryname&quot;: &quot;Myanmar&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/myanmar&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;NL&quot;,
-      &quot;countryname&quot;: &quot;Netherlands&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/netherlands&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;NG&quot;,
-      &quot;countryname&quot;: &quot;Nigeria&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/nigeria&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;PH&quot;,
-      &quot;countryname&quot;: &quot;Philippines&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/philippines&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;CD&quot;,
-      &quot;countryname&quot;: &quot;Republic of Congo&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/republic-of-congo&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;SA&quot;,
-      &quot;countryname&quot;: &quot;Saudi Arabia&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/saudi-arabia&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;SG&quot;,
-      &quot;countryname&quot;: &quot;Singapore&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/singapore&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;KR&quot;,
-      &quot;countryname&quot;: &quot;South Korea&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/south-korea&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;TH&quot;,
-      &quot;countryname&quot;: &quot;Thailand&quot;,
-      &quot;link&quot;: &quot;https://thailand.chevron.com&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;GB&quot;,
-      &quot;countryname&quot;: &quot;United Kingdom&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/united-kingdom&quot;
-    },
-    {
-      &quot;countrycode&quot;: &quot;VE&quot;,
-      &quot;countryname&quot;: &quot;Venezuela&quot;,
-      &quot;link&quot;: &quot;https://www.chevron.com/worldwide/venezuela&quot;
-    }
-  ]
-}">
-              <a href="../index.html" class="cta-link">
-                <span class="cta-glyphicon">
-                  <span class="glyphicon glyphicon-2023-internet-on" aria-hidden="true"></span>
-                </span>
-                <span class="cta-underline">United States</span>
-              </a>
-            </li>
-          </ul>
-
-        </div>
-        <div class="col-12 col-lg-5 right-col">
-          <ul class="social-links list-unstyled">
-            <li>
-              <a href="https://www.facebook.com/Chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="../-/media/chevron/Footer/facebook.svg" alt="facebook" />
-              </a>
-            </li>
-            <li>
-              <a href="https://twitter.com/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="../-/media/chevron/Footer/twitter.svg" alt="twitter" />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.instagram.com/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="../-/media/chevron/Footer/instagram.svg" alt="instagram" />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.tiktok.com/@chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="../-/media/chevron/Footer/tiktok.svg" alt="instagram" />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.youtube.com/user/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="../-/media/chevron/Footer/youtube.svg" alt="youtube" />
-              </a>
-            </li>
-            <li>
-              <a href="https://www.linkedin.com/company/chevron" class="social-link" rel="noopener noreferrer" target="_blank"> <img class="social-link-icon" src="../-/media/chevron/Footer/linkedin.svg" alt="linkedin" />
-              </a>
-            </li>
-          </ul>
-        </div>
-      </div>
-      <div class="copyright-row centered width-1200">
-
-        <div class="copyright type-body text-caption">
-          <p>&copy; 2001 &ndash; 2024 Chevron Corporation. <span class="d-block d-md-inline">All rights reserved.</span></p>
-        </div>
-      </div>
-    </footer>
+    <?php
+    include("../assets/html/footer.html");
+    ?>
   </div>
   <script src="../bundles/siteNavigationb9c1?v=9Kd8nQjERRHmWsj1-_ve2HyH3ztwPW5Fs5o0-YIEJI01"></script>
 

@@ -745,7 +745,12 @@ progress {
 
 .img-fluid {
     max-width: 100%;
-    height: auto
+    height: auto;
+}
+
+.logo-position {
+    position: relative;
+    top: -15px;
 }
 
 .img-thumbnail {
@@ -16112,7 +16117,15 @@ img[src='http://www.chevron.com/'] {
 .bg-black,
 .theme-bg-black .theme-bg-color,
 .theme-bg-black.theme-bg-color,
-.theme-bg-color .theme-bg-light-blue .theme-bg-color,
+.theme-bg-color .theme-bg-light-yellow .theme-bg-color,
+.theme-text-black .theme-divider-color {
+    background-color: #000000 !important;
+}
+
+.bg-black,
+.theme-bg-black .theme-bg-color,
+.theme-bg-black.theme-bg-color,
+.theme-bg-color .theme-bg-light-yellow .theme-bg-color,
 .theme-text-black .theme-divider-color {
     background-color: #000000 !important;
 }
@@ -16132,6 +16145,12 @@ img[src='http://www.chevron.com/'] {
     color: #009DD9 !important;
 }
 
+.light-yellow,
+.theme-text-light-yellow .theme-text-color,
+.theme-text-light-yellow.theme-text-color {
+    color: #ffcc1b !important;
+}
+
 .bg-light-blue,
 .theme-bg-light-blue .theme-bg-color,
 .theme-bg-light-blue.theme-bg-color,
@@ -16140,13 +16159,13 @@ img[src='http://www.chevron.com/'] {
     background-color: #009DD9 !important;
 }
 
-.theme-bg-light-blue .focus-link a.theme-bg-color:hover,
-.theme-bg-light-blue .focus-link a.theme-bg-color:focus,
-.focus-link.theme-bg-light-blue a.theme-bg-color:hover,
-.focus-link.theme-bg-light-blue a.theme-bg-color:focus,
-.theme-bg-color .focus-link.theme-bg-light-blue a.theme-bg-color:hover,
-.theme-bg-color .focus-link.theme-bg-light-blue a.theme-bg-color:focus {
-    background-color: #0066B2 !important;
+.theme-bg-light-yellow .focus-link a.theme-bg-color:hover,
+.theme-bg-light-yellow .focus-link a.theme-bg-color:focus,
+.focus-link.theme-bg-light-yellow a.theme-bg-color:hover,
+.focus-link.theme-bg-light-yellow a.theme-bg-color:focus,
+.theme-bg-color .focus-link.theme-bg-light-yellow a.theme-bg-color:hover,
+.theme-bg-color .focus-link.theme-bg-light-yellow a.theme-bg-color:focus {
+    background-color: #cc9c2f !important;
 }
 
 .theme-bg-light-blue .primary-link .link:hover,
@@ -16160,10 +16179,27 @@ img[src='http://www.chevron.com/'] {
     background-color: #0066B2 !important;
 }
 
+.theme-bg-light-yellow .primary-link .link:hover,
+.theme-bg-light-yellow .primary-link .link:focus,
+.theme-bg-v-blue.primary-link .link:hover,
+.theme-bg-light-yellow.primary-link .link:focus,
+.theme-bg-color .theme-bg-light-yellow.primary-link .link:hover,
+.theme-bg-color .theme-bg-light-yellow.primary-link .link:focus,
+.primary-link .bg-light-yellow.link:hover,
+.primary-link .bg-light-yellow.link:focus {
+    background-color: #cc9c2f !important;
+}
+
 .medium-blue,
 .theme-text-medium-blue .theme-text-color,
 .theme-text-medium-blue.theme-text-color {
     color: #0066B2 !important;
+}
+
+.medium-yellow,
+.theme-text-medium-yellow .theme-text-color,
+.theme-text-medium-yellow.theme-text-color {
+    color: #cc9c2f !important;
 }
 
 .bg-medium-blue,
@@ -16174,6 +16210,14 @@ img[src='http://www.chevron.com/'] {
     background-color: #0066B2 !important;
 }
 
+.bg-medium-yellow,
+.theme-bg-medium-yellow .theme-bg-color,
+.theme-bg-medium-yellow.theme-bg-color,
+.theme-bg-color .theme-bg-medium-yellow .theme-bg-color,
+.theme-text-medium-yellow .theme-divider-color {
+    background-color: #cc9c2f !important;
+}
+
 .theme-bg-medium-blue .focus-link a.theme-bg-color:hover,
 .theme-bg-medium-blue .focus-link a.theme-bg-color:focus,
 .focus-link.theme-bg-medium-blue a.theme-bg-color:hover,
@@ -16181,6 +16225,15 @@ img[src='http://www.chevron.com/'] {
 .theme-bg-color .focus-link.theme-bg-medium-blue a.theme-bg-color:hover,
 .theme-bg-color .focus-link.theme-bg-medium-blue a.theme-bg-color:focus {
     background-color: #0B2D71 !important;
+}
+
+.theme-bg-medium-yellow .focus-link a.theme-bg-color:hover,
+.theme-bg-medium-yellow .focus-link a.theme-bg-color:focus,
+.focus-link.theme-bg-medium-yellow a.theme-bg-color:hover,
+.focus-link.theme-bg-medium-yellow a.theme-bg-color:focus,
+.theme-bg-color .focus-link.theme-bg-medium-yellow a.theme-bg-color:hover,
+.theme-bg-color .focus-link.theme-bg-medium-yellow a.theme-bg-color:focus {
+    background-color: #7d5d15 !important;
 }
 
 .theme-bg-medium-blue .primary-link .link:hover,
@@ -16194,6 +16247,17 @@ img[src='http://www.chevron.com/'] {
     background-color: #009DD9 !important;
 }
 
+.theme-bg-medium-yellow .primary-link .link:hover,
+.theme-bg-medium-yellow .primary-link .link:focus,
+.theme-bg-medium-yellow.primary-link .link:hover,
+.theme-bg-medium-yellow.primary-link .link:focus,
+.theme-bg-color .theme-bg-medium-yellow.primary-link .link:hover,
+.theme-bg-color .theme-bg-medium-yellow.primary-link .link:focus,
+.primary-link .bg-medium-yellow.link:hover,
+.primary-link .bg-medium-yellow.link:focus {
+    background-color: #ffcc1b !important;
+}
+
 .medium-blue.secondary-link:hover .glyphicon,
 .medium-blue.secondary-link:focus .glyphicon,
 .theme-text-medium-blue .secondary-link:hover .glyphicon,
@@ -16201,6 +16265,15 @@ img[src='http://www.chevron.com/'] {
 .theme-text-color .theme-text-medium-blue .secondary-link:hover .glyphicon,
 .theme-text-color .theme-text-medium-blue .secondary-link:focus .glyphicon {
     color: #009DD9;
+}
+
+.medium-yellow.secondary-link:hover .glyphicon,
+.medium-yellow.secondary-link:focus .glyphicon,
+.theme-text-medium-yellow .secondary-link:hover .glyphicon,
+.theme-text-medium-yellow .secondary-link:focus .glyphicon,
+.theme-text-color .theme-text-medium-yellow .secondary-link:hover .glyphicon,
+.theme-text-color .theme-text-medium-yellow .secondary-link:focus .glyphicon {
+    color: #ffcc1b;
 }
 
 .medium-blue.secondary-link .underline,
@@ -16213,10 +16286,26 @@ img[src='http://www.chevron.com/'] {
     background-image: linear-gradient(to right, #009DD9, #009DD9);
 }
 
+.medium-yellow.secondary-link .underline,
+.medium-yellow.resource-link .underline,
+.theme-text-medium-yellow .theme-text-color.secondary-link .underline,
+.theme-text-medium-yellow .theme-text-color.resource-link .underline,
+.theme-text-medium-yellow .resource-link .theme-text-color .underline,
+.theme-text-medium-yellow .theme-underline-color .underline,
+.theme-text-medium-yellow.theme-underline-color .underline {
+    background-image: linear-gradient(to right, #ffcc1b, #ffcc1b);
+}
+
 .dark-blue,
 .theme-text-dark-blue .theme-text-color,
 .theme-text-dark-blue.theme-text-color {
     color: #0B2D71 !important;
+}
+
+.dark-yellow,
+.theme-text-dark-yellow .theme-text-color,
+.theme-text-dark-yellow.theme-text-color {
+    color: #7d5d15 !important;
 }
 
 .bg-dark-blue,
@@ -16227,6 +16316,14 @@ img[src='http://www.chevron.com/'] {
     background-color: #0B2D71 !important;
 }
 
+.bg-dark-yellow,
+.theme-bg-dark-yellow .theme-bg-color,
+.theme-bg-dark-yellow.theme-bg-color,
+.theme-bg-color .theme-bg-dark-yellow .theme-bg-color,
+.theme-text-dark-yellow .theme-divider-color {
+    background-color: #7d5d15 !important;
+}
+
 .theme-bg-dark-blue .focus-link a.theme-bg-color:hover,
 .theme-bg-dark-blue .focus-link a.theme-bg-color:focus,
 .focus-link.theme-bg-dark-blue a.theme-bg-color:hover,
@@ -16234,6 +16331,15 @@ img[src='http://www.chevron.com/'] {
 .theme-bg-color .focus-link.theme-bg-dark-blue a.theme-bg-color:hover,
 .theme-bg-color .focus-link.theme-bg-dark-blue a.theme-bg-color:focus {
     background-color: #0066B2 !important;
+}
+
+.theme-bg-dark-yellow .focus-link a.theme-bg-color:hover,
+.theme-bg-dark-yellow .focus-link a.theme-bg-color:focus,
+.focus-link.theme-bg-dark-yellow a.theme-bg-color:hover,
+.focus-link.theme-bg-dark-yellow a.theme-bg-color:focus,
+.theme-bg-color .focus-link.theme-bg-dark-yellow a.theme-bg-color:hover,
+.theme-bg-color .focus-link.theme-bg-dark-yellow a.theme-bg-color:focus {
+    background-color: #ffcc1b !important;
 }
 
 .light-gray,
@@ -16911,14 +17017,28 @@ img[src='http://www.chevron.com/'] {
     background: linear-gradient(to bottom, #009DD9 50%, #f4f4f4 50%);
 }
 
+.background-half.theme-bg-light-yellow.bg-to-offwhite {
+    background: linear-gradient(to bottom, #ffcc1b 50%, #f4f4f4 50%);
+}
+
 .background-half.theme-bg-light-blue,
 .background-half.bg-light-blue,
 .theme-bg-light-blue .background-half {
     background: linear-gradient(to bottom, #009DD9 50%, #fff 50%);
 }
 
+.background-half.theme-bg-light-yellow,
+.background-half.bg-light-yellow,
+.theme-bg-light-yellow .background-half {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #fff 50%);
+}
+
 .background-half.theme-bg-medium-blue.bg-to-offwhite {
     background: linear-gradient(to bottom, #0066b2 50%, #f4f4f4 50%);
+}
+
+.background-half.theme-bg-medium-yellow.bg-to-offwhite {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #f4f4f4 50%);
 }
 
 .background-half.theme-bg-medium-blue,
@@ -16927,8 +17047,18 @@ img[src='http://www.chevron.com/'] {
     background: linear-gradient(to bottom, #0066b2 50%, #fff 50%);
 }
 
+.background-half.theme-bg-medium-yellow,
+.background-half.bg-medium-yellow,
+.theme-bg-medium-yellow .background-half {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #fff 50%);
+}
+
 .background-half.theme-bg-dark-blue.bg-to-offwhite {
     background: linear-gradient(to bottom, #0b2d71 50%, #f4f4f4 50%);
+}
+
+.background-half.theme-bg-dark-yellow.bg-to-offwhite {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #f4f4f4 50%);
 }
 
 .background-half.theme-bg-dark-blue,
@@ -16937,10 +17067,22 @@ img[src='http://www.chevron.com/'] {
     background: linear-gradient(to bottom, #0b2d71 50%, #fff 50%);
 }
 
+.background-half.theme-bg-dark-yellow,
+.background-half.bg-dark-yellow,
+.theme-bg-dark-yellow .background-half {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #1aa3bb 50%);
+}
+
 .theme-bg-dark-blue .background-half-bottom,
 .background-half-bottom.bg-dark-blue,
 .background-half-bottom.theme-bg-dark-blue {
     background: linear-gradient(to top, #0b2d71 50%, #fff 50%);
+}
+
+.theme-bg-dark-yellow .background-half-bottom,
+.background-half-bottom.bg-dark-yellow,
+.background-half-bottom.theme-bg-dark-yellow {
+    background: linear-gradient(to top, #cc9c2f 50%, #1aa3bb 50%);
 }
 
 .theme-bg-medium-blue .background-half-bottom,
@@ -16949,14 +17091,30 @@ img[src='http://www.chevron.com/'] {
     background: linear-gradient(to top, #0066b2 50%, #fff 50%);
 }
 
+.theme-bg-medium-yellow .background-half-bottom,
+.background-half-bottom.bg-medium-yellow,
+.background-half-bottom.theme-bg-medium-yellow {
+    background: linear-gradient(to top, #cc9c2f 50%, #fff 50%);
+}
+
 .theme-bg-light-blue .background-half-bottom,
 .background-half-bottom.bg-light-blue,
 .background-half-bottom.theme-bg-light-blue {
     background: linear-gradient(to top, #009DD9 50%, #fff 50%);
 }
 
+.theme-bg-light-yellow .background-half-bottom,
+.background-half-bottom.bg-light-yellow,
+.background-half-bottom.theme-bg-light-yellow {
+    background: linear-gradient(to top, #ffcc1b 50%, #fff 50%);
+}
+
 .background-half-bottom.bg-dark-blue.bg-to-offwhite {
     background: linear-gradient(to top, #0b2d71 50%, #f4f4f4 50%);
+}
+
+.background-half-bottom.bg-dark-yellow.bg-to-offwhite {
+    background: linear-gradient(to top, #007387 50%, #f4f4f4 50%);
 }
 
 .background-half.theme-bg-light-teal,
@@ -17211,48 +17369,96 @@ img[src='http://www.chevron.com/'] {
     background: linear-gradient(to bottom, #009DD9 50%, #fff 50%);
 }
 
+.bg-half-light-yellow.to-white {
+    background: linear-gradient(to bottom, #ffcc1b 50%, #fff 50%);
+}
+
 .bg-half-light-blue.from-white {
     background: linear-gradient(to bottom, #fff 50%, #009DD9 50%);
+}
+
+.bg-half-light-yellow.from-white {
+    background: linear-gradient(to bottom, #fff 50%, #ffcc1b 50%);
 }
 
 .bg-half-light-blue.to-offwhite {
     background: linear-gradient(to bottom, #009DD9 50%, #f4f4f4 50%);
 }
 
+.bg-half-light-yellow.to-offwhite {
+    background: linear-gradient(to bottom, #ffcc1b 50%, #f4f4f4 50%);
+}
+
 .bg-half-light-blue.from-offwhite {
     background: linear-gradient(to bottom, #f4f4f4 50%, #009DD9 50%);
+}
+
+.bg-half-light-yellow.from-offwhite {
+    background: linear-gradient(to bottom, #f4f4f4 50%, #ffcc1b 50%);
 }
 
 .bg-half-medium-blue.to-white {
     background: linear-gradient(to bottom, #0066b2 50%, #fff 50%);
 }
 
+.bg-half-medium-yellow.to-white {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #fff 50%);
+}
+
 .bg-half-medium-blue.from-white {
     background: linear-gradient(to bottom, #fff 50%, #0066b2 50%);
+}
+
+.bg-half-medium-yellow.from-white {
+    background: linear-gradient(to bottom, #fff 50%, #cc9c2f 50%);
 }
 
 .bg-half-medium-blue.to-offwhite {
     background: linear-gradient(to bottom, #0066b2 50%, #f4f4f4 50%);
 }
 
+.bg-half-medium-yellow.to-offwhite {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #f4f4f4 50%);
+}
+
 .bg-half-medium-blue.from-offwhite {
     background: linear-gradient(to bottom, #f4f4f4 50%, #0066b2 50%);
+}
+
+.bg-half-medium-yellow.from-offwhite {
+    background: linear-gradient(to bottom, #f4f4f4 50%, #cc9c2f 50%);
 }
 
 .bg-half-dark-blue.to-white {
     background: linear-gradient(to bottom, #0b2d71 50%, #fff 50%);
 }
 
+.bg-half-dark-yellow.to-white {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #fff 50%);
+}
+
 .bg-half-dark-blue.from-white {
     background: linear-gradient(to bottom, #fff 50%, #0b2d71 50%);
+}
+
+.bg-half-dark-yellow.from-white {
+    background: linear-gradient(to bottom, #fff 50%, #cc9c2f 50%);
 }
 
 .bg-half-dark-blue.to-offwhite {
     background: linear-gradient(to bottom, #0b2d71 50%, #f4f4f4 50%);
 }
 
+.bg-half-dark-yellow.to-offwhite {
+    background: linear-gradient(to bottom, #cc9c2f 50%, #f4f4f4 50%);
+}
+
 .bg-half-dark-blue.from-offwhite {
     background: linear-gradient(to bottom, #f4f4f4 50%, #0b2d71 50%);
+}
+
+.bg-half-dark-yellow.from-offwhite {
+    background: linear-gradient(to bottom, #f4f4f4 50%, #cc9c2f 50%);
 }
 
 .bg-half-light-green.to-white {
@@ -18200,9 +18406,12 @@ img[src='http://www.chevron.com/'] {
     --font-gotham-narrow-bold: "GothamNarrowBold", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --color-opacity: 1;
     --color-black: #000000;
-    --color-light-blue: #009dd9;
-    --color-medium-blue: #0066b2;
+    --color-light-blue: #1aa3bb;
+    --color-medium-blue: #007387;
     --color-dark-blue: #012448;
+    --color-light-yellow: #ffcc1b;
+    --color-medium-yellow: #cc9c2f;
+    --color-dark-yellow: #7d5d15;
     --color-light-gray: #dbdcdd;
     --color-medium-gray: #8c8f93;
     --color-dark-gray: #6b6d6f;
@@ -18224,9 +18433,12 @@ img[src='http://www.chevron.com/'] {
     --color-white: #ffffff;
     --color-offwhite: #f4f4f4;
     --color-black-rgb: 0, 0, 0;
-    --color-light-blue-rgb: 0, 157, 217;
-    --color-medium-blue-rgb: 0, 102, 178;
-    --color-dark-blue-rgb: 11, 45, 113;
+    --color-light-blue-rgb: 26, 163, 187;
+    --color-medium-blue-rgb: 0, 115, 135;
+    --color-dark-blue-rgb: 1, 36, 72;
+    --color-light-yellow-rgb: 255, 204, 27;
+    --color-medium-yellow-rgb: 204, 156, 47;
+    --color-dark-yellow-rgb: 125, 93, 21;
     --color-light-gray-rgb: 219, 220, 221;
     --color-medium-gray-rgb: 140, 143, 147;
     --color-dark-gray-rgb: 107, 109, 111;
@@ -18251,6 +18463,7 @@ img[src='http://www.chevron.com/'] {
     --color-white-half-opacity: rgba(255, 255, 255, 0.5);
     --background-gradient-height: 184px;
     --button-color: var(--color-medium-blue-rgb);
+    --button-color: var(--color-medium-yellow-rgb);
     --button-text-color: var(--color-black-rgb);
     --button-text-hover-color: var(--color-white-rgb);
     --button-color-opacity: 1;
@@ -18852,36 +19065,72 @@ p.text-caption,
     color: var(--color-light-blue);
 }
 
+.color-light-yellow {
+    color: var(--color-light-yellow);
+}
+
 .color-light-blue.color-important {
     color: var(--color-light-blue) !important;
+}
+
+.color-light-yellow.color-important {
+    color: var(--color-light-yellow) !important;
 }
 
 .background-color-light-blue {
     background-color: rgba(var(--color-light-blue-rgb), var(--color-opacity));
 }
 
+.background-color-light-yellow {
+    background-color: rgba(var(--color-light-yellow-rgb), var(--color-opacity));
+}
+
 .color-medium-blue {
     color: var(--color-medium-blue);
+}
+
+.color-medium-yellow {
+    color: var(--color-medium-yellow);
 }
 
 .color-medium-blue.color-important {
     color: var(--color-medium-blue) !important;
 }
 
+.color-medium-yellow.color-important {
+    color: var(--color-medium-yellow) !important;
+}
+
 .background-color-medium-blue {
     background-color: rgba(var(--color-medium-blue-rgb), var(--color-opacity));
+}
+
+.background-color-medium-yellow {
+    background-color: rgba(var(--color-medium-yellow-rgb), var(--color-opacity));
 }
 
 .color-dark-blue {
     color: var(--color-dark-blue);
 }
 
+.color-dark-yellow {
+    color: var(--color-dark-yellow);
+}
+
 .color-dark-blue.color-important {
     color: var(--color-dark-blue) !important;
 }
 
+.color-dark-yellow.color-important {
+    color: var(--color-dark-yellow) !important;
+}
+
 .background-color-dark-blue {
     background-color: rgba(var(--color-dark-blue-rgb), var(--color-opacity));
+}
+
+.background-color-dark-yellow {
+    background-color: rgba(var(--color-dark-yellow-rgb), var(--color-opacity));
 }
 
 .background-color-dark-blue .cta-button,
@@ -18891,9 +19140,21 @@ p.text-caption,
     --button-color: var(--color-light-blue-rgb);
 }
 
+.background-color-dark-yellow .cta-button,
+[class*="background-color-"] .background-color-dark-yellow .cta-button,
+.background-color-medium-yellow .cta-button,
+[class*="background-color-"] .background-color-medium-yellow .cta-button {
+    --button-color: var(--color-light-yellow-rgb);
+}
+
 .background-color-light-blue .cta-button,
 [class*="background-color-"] .background-color-light-blue .cta-button {
     --button-color: var(--color-dark-blue-rgb);
+}
+
+.background-color-light-yellow .cta-button,
+[class*="background-color-"] .background-color-light-yellow .cta-button {
+    --button-color: var(--color-dark-yellow-rgb);
 }
 
 .background-color-dark-blue .color-theme-child,
@@ -18903,9 +19164,21 @@ p.text-caption,
     --color-theme-child: var(--color-light-blue-rgb);
 }
 
+.background-color-dark-yellow .color-theme-child,
+[class*="background-color-"] .background-color-dark-yellow .color-theme-child,
+.background-color-medium-yellow .color-theme-child,
+[class*="background-color-"] .background-color-medium-yellow .color-theme-child {
+    --color-theme-child: var(--color-light-yellow-rgb);
+}
+
 .background-color-light-blue .color-theme-child,
 [class*="background-color-"] .background-color-light-blue .color-theme-child {
     --color-theme-child: var(--color-dark-blue-rgb);
+}
+
+.background-color-light-yellow .color-theme-child,
+[class*="background-color-"] .background-color-light-yellow .color-theme-child {
+    --color-theme-child: var(--color-dark-yellow-rgb);
 }
 
 .color-light-gray {
@@ -19307,6 +19580,11 @@ p.text-caption,
     --button-color: var(--color-medium-blue-rgb);
 }
 
+.background-color-white .cta-button,
+[class*="background-color-"] .background-color-white .cta-button {
+    --button-color: var(--color-medium-yellow-rgb);
+}
+
 .background-color-white .color-theme-child,
 [class*="background-color-"] .background-color-white .color-theme-child {
     color: rgb(var(--color-black-rgb));
@@ -19327,6 +19605,11 @@ p.text-caption,
 .background-color-offwhite .cta-button,
 [class*="background-color-"] .background-color-offwhite .cta-button {
     --button-color: var(--color-medium-blue-rgb);
+}
+
+.background-color-offwhite .cta-button,
+[class*="background-color-"] .background-color-offwhite .cta-button {
+    --button-color: var(--color-medium-yellow-rgb);
 }
 
 .background-color-offwhite .color-theme-child,
@@ -22547,6 +22830,16 @@ body {
     align-items: center;
 }
 
+
+
+.nav-2023 .nav-2023-container {
+    padding: 0 24px 24px;
+    visibility: hidden;
+    background-color: var(--color-dark-yellow);
+    width: 100%;
+    border: none;
+}
+
 .nav-2023 .nav-2023-container {
     padding: 0 24px 24px;
     visibility: hidden;
@@ -22605,6 +22898,11 @@ body {
 .nav-2023 .nav-2023-link:hover,
 .nav-2023 .nav-2023-link:hover * {
     color: var(--color-medium-blue);
+}
+
+.nav-2023 .nav-2023-link:hover,
+.nav-2023 .nav-2023-link:hover * {
+    color: var(--color-medium-yellow);
 }
 
 .nav-2023 .nav-2023-toggler {
@@ -22716,6 +23014,11 @@ body {
 .nav-2023 .nav-2023-close:hover,
 .nav-2023 .nav-2023-close:hover * {
     color: var(--color-medium-blue);
+}
+
+.nav-2023 .nav-2023-close:hover,
+.nav-2023 .nav-2023-close:hover * {
+    color: var(--color-medium-yellow);
 }
 
 .nav-2023 .nav-2023-mobile-back {
@@ -26746,6 +27049,10 @@ a:active {
 }
 
 .video-modal .arrow-link.medium-blue:hover {
+    text-decoration: underline;
+}
+
+.video-modal .arrow-link.medium-yellow:hover {
     text-decoration: underline;
 }
 
@@ -31483,6 +31790,11 @@ a:active {
         page-break-inside: avoid;
     }
 
+    .c11 .fact-tile.bg-dark-yellow .fact-tile-inner {
+        border-bottom: none !important;
+        page-break-inside: avoid;
+    }
+
     .c11 .fact-tile {
         page-break-inside: avoid;
         min-height: 300px !important;
@@ -31775,6 +32087,11 @@ a:active {
     color: rgb(var(--color-white-rgb)) !important;
 }
 
+.c11b-4.background-color-dark-yellow *,
+.c11b-4.background-color-medium-yellow * {
+    color: rgb(var(--color-white-rgb)) !important;
+}
+
 .c11b-2 .description,
 .c11b-2 .data-point {
     margin-bottom: 0;
@@ -31857,6 +32174,11 @@ a:active {
 
 .c11b-4.background-color-dark-blue *,
 .c11b-4.background-color-medium-blue * {
+    color: rgb(var(--color-white-rgb)) !important;
+}
+
+.c11b-4.background-color-dark-yellow *,
+.c11b-4.background-color-medium-yellow * {
     color: rgb(var(--color-white-rgb)) !important;
 }
 
@@ -33075,25 +33397,50 @@ a:active {
     color: #fff !important;
 }
 
+.c30.bg-light-yellow .theme-parent-text-color {
+    color: #fff !important;
+}
+
 .c30.bg-light-blue .theme-parent-text-color-alternate {
     color: #0B2D71 !important;
+}
+
+.c30.bg-light-yellow .theme-parent-text-color-alternate {
+    color: #cc9c2f !important;
 }
 
 .c30.bg-light-blue .theme-parent-border-color {
     border-color: #0066B2 !important;
 }
 
+.c30.bg-light-yellow .theme-parent-border-color {
+    border-color: #cc9c2f !important;
+}
+
 .c30.bg-light-blue .theme-parent-hover-color:hover {
     background-color: #0B2D71 !important;
+}
+
+.c30.bg-light-yellow .theme-parent-hover-color:hover {
+    background-color: #cc9c2f !important;
 }
 
 .c30.bg-light-blue .theme-parent-hover-color:hover .theme-parent-text-color-alternate {
     color: #fff !important;
 }
 
+.c30.bg-light-yellow .theme-parent-hover-color:hover .theme-parent-text-color-alternate {
+    color: #fff !important;
+}
+
 .c30.bg-light-blue .primary-link.theme-bg-medium-blue:hover .theme-bg-color,
 .c30.bg-light-blue .primary-link.theme-bg-medium-blue:focus .theme-bg-color {
     background-color: #0B2D71 !important;
+}
+
+.c30.bg-light-yellow .primary-link.theme-bg-medium-yellow:hover .theme-bg-color,
+.c30.bg-light-yellow .primary-link.theme-bg-medium-yellow:focus .theme-bg-color {
+    background-color: #7d5d15 !important;
 }
 
 @media print {
@@ -37058,6 +37405,10 @@ a:active {
     --bg-gradient-color: #0b2d71;
 }
 
+.newsroom .background-gradient-percent.bg-gradient-dark-yellow {
+    --bg-gradient-color: #cc9c2f;
+}
+
 .newsroom .background-gradient-percent.bg-gradient-dark-green {
     --bg-gradient-color: #444b0d;
 }
@@ -37410,6 +37761,10 @@ a:active {
 
 .a01a.bg-dark-blue+.c06 {
     background-color: #0b2d71 !important;
+}
+
+.a01a.bg-dark-yellow+.c06 {
+    background-color: #cc9c2f !important;
 }
 
 .a01a.bg-dark-green+.c06 {
@@ -39372,25 +39727,55 @@ a:active {
     color: #fff !important;
 }
 
+.a30.bg-light-yellow .theme-parent-text-color {
+    color: #fff !important;
+}
+
 .a30.bg-light-blue .theme-parent-text-color-alternate {
     color: #0B2D71 !important;
+}
+
+.a30.bg-light-yellow .theme-parent-text-color-alternate {
+    color: #cc9c2f !important;
 }
 
 .a30.bg-light-blue .theme-parent-border-color {
     border-color: #0066B2 !important;
 }
 
+.a30.bg-light-yellow .theme-parent-border-color {
+    border-color: #ffcc1b !important;
+}
+
 .a30.bg-light-blue .theme-parent-hover-color:hover {
     background-color: #0B2D71 !important;
+}
+
+.a30.bg-light-yellow .theme-parent-hover-color:hover {
+    background-color: #cc9c2f !important;
 }
 
 .a30.bg-light-blue .theme-parent-hover-color:hover .theme-parent-text-color-alternate {
     color: #fff !important;
 }
 
+.a30.bg-light-yellow .theme-parent-hover-color:hover .theme-parent-text-color-alternate {
+    color: #fff !important;
+}
+
 .a30.bg-light-blue .primary-link.theme-bg-medium-blue:hover .theme-bg-color,
 .a30.bg-light-blue .primary-link.theme-bg-medium-blue:focus .theme-bg-color {
     background-color: #0B2D71 !important;
+}
+
+.a30.bg-light-yellow .primary-link.theme-bg-medium-blue:hover .theme-bg-color,
+.a30.bg-light-yellow .primary-link.theme-bg-medium-blue:focus .theme-bg-color {
+    background-color: #cc9c2f !important;
+}
+
+.a30.bg-light-yellow .primary-link.theme-bg-medium-yellow:hover .theme-bg-color,
+.a30.bg-light-yellow .primary-link.theme-bg-medium-yellow:focus .theme-bg-color {
+    background-color: #cc9c2f !important;
 }
 
 @media print {
@@ -39887,8 +40272,8 @@ a:active {
     color: #DBDCDD !important;
 }
 
-.theme-bg-dark-blue .theme-text-light-color {
-    color: #009DD9 !important;
+.theme-bg-dark-yellow .theme-text-light-color {
+    color: #ffcc1b !important;
 }
 
 .theme-bg-dark-green .theme-text-light-color {
@@ -40824,6 +41209,10 @@ a:active {
     background-color: var(--color-medium-blue);
 }
 
+.c56 .splide .splide__slide:not(.ending-slide) .inner-slide-wrapper:not([class*="background-color-"]) {
+    background-color: var(--color-medium-yellow);
+}
+
 .c56 .splide .splide__slide .inner-slide-wrapper {
     width: var(--image-width);
     height: var(--image-width);
@@ -41014,6 +41403,10 @@ a:active {
 }
 
 .c57 .splide .articles .splide__slide:not(.ending-slide):not(.is-active) .inner-slide-wrapper {
+    background-color: var(--color-medium-yellow);
+}
+
+.c57 .splide .articles .splide__slide:not(.ending-slide):not(.is-active) .inner-slide-wrapper {
     background-color: var(--color-medium-blue);
 }
 
@@ -41043,6 +41436,10 @@ a:active {
 
 .c57 .splide .articles .splide__slide:not(.is-active):not(.ending-slide) .background-cover {
     background-color: var(--color-medium-blue);
+}
+
+.c57 .splide .articles .splide__slide:not(.is-active):not(.ending-slide) .background-cover {
+    background-color: var(--color-medium-yellow);
 }
 
 .c57 .splide .articles .splide__slide.is-active .inner-slide-wrapper {
@@ -41603,8 +42000,16 @@ a:active {
     background-color: rgb(var(--color-dark-blue-rgb));
 }
 
+.c58:is(.background-color-white, .background-color-offwhite) .timeline-slide .divider {
+    background-color: rgb(var(--color-dark-yellow-rgb));
+}
+
 .c58:is(.background-color-white, .background-color-offwhite) .date {
     color: rgb(var(--color-dark-blue-rgb));
+}
+
+.c58:is(.background-color-white, .background-color-offwhite) .date {
+    color: rgb(var(--color-dark-yellow-rgb));
 }
 
 .c58 .timeline-slide .slide-content {
@@ -42754,6 +43159,12 @@ a:active {
     transition: background-color 0.5s cubic-bezier(0.72, 0.05, 0.35, 1);
 }
 
+.c66 .cta-link-parent:hover,
+.c66 .cta-link-parent:focus {
+    background-color: var(--color-medium-yellow);
+    transition: background-color 0.5s cubic-bezier(0.72, 0.05, 0.35, 1);
+}
+
 .c66 .cta-inner-wrapper {
     position: relative;
     margin: 0 auto;
@@ -43418,6 +43829,10 @@ a:active {
 
 .c70 .splide .control-color-blue .is-active .button-progress-bar {
     background-image: linear-gradient(to right, var(--color-medium-blue), var(--color-medium-blue));
+}
+
+.c70 .splide .control-color-blue .is-active .button-progress-bar {
+    background-image: linear-gradient(to right, var(--color-medium-yellow), var(--color-medium-yellow));
 }
 
 .c70 .splide .control-color-red .is-active .button-progress-bar {
@@ -44267,6 +44682,10 @@ a:active {
 
 .c75:is(.background-color-white, .background-color-offwhite) .heading {
     color: rgb(var(--color-dark-blue-rgb));
+}
+
+.c75:is(.background-color-white, .background-color-offwhite) .heading {
+    color: rgb(var(--color-dark-yellow-rgb));
 }
 
 .c75 .heading {
@@ -45142,6 +45561,13 @@ a:active {
 }
 
 .c80 .accordion-button:hover,
+.c80 .accordion-button:focus,
+.c80 .accordion-item:is(.animating, .show) .accordion-button {
+    background-color: rgba(var(--color-dark-yellow-rgb), var(--color-opacity));
+    color: rgba(var(--color-white-rgb), var(--color-opacity));
+}
+
+.c80 .accordion-button:hover,
 .c80 .accordion-button:focus {
     box-shadow: none;
 }
@@ -45731,12 +46157,24 @@ a:active {
     --text-color: var(--color-light-blue-rgb);
 }
 
+.c85 .color-light-yellow {
+    --text-color: var(--color-light-yellow-rgb);
+}
+
 .c85 .color-medium-blue {
     --text-color: var(--color-medium-blue-rgb);
 }
 
+.c85 .color-medium-yellow {
+    --text-color: var(--color-medium-yellow-rgb);
+}
+
 .c85 .color-dark-blue {
     --text-color: var(--color-dark-blue-rgb);
+}
+
+.c85 .color-dark-yellow {
+    --text-color: var(--color-dark-yellow-rgb);
 }
 
 .c85 .color-light-gray {

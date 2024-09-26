@@ -7,85 +7,41 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Contacto | Gas Provincia</title>
-
-    <meta name="VIcurrentDateTime" content="638615086612623661" />
-    <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
+    <title>Contacto | Gas de Provincia</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="coverage" content="Global" />
-    <meta name="format" content="text/html" />
-    <meta name="language" content="en-us" />
-    <meta name="pubdate" content="2023-11-09" />
-    <meta name="publisher" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="retention" content="pub1100" />
-    <meta name="rights" content="Copyright Chevron Corporation 2024" />
-    <meta name="robots" content="index, follow, noodp, noydir" />
-    <meta name="Subject" content="Corporate and Administrative : Corporate Information" />
-    <meta name="title" content="Email Chevron" />
-    <meta name="description" content="Thank you for reaching out to us! Please fill out our email contact form if you have any questions or comments for Chevron headquarters." />
-    <meta name="keywords" content="" />
-    <meta name="type" content="Text" />
-    <meta name="id" content="{975F0D58-DDE2-4DCE-91DB-06DD44A50D94}" />
+    <meta name="author" content="Gas de Provincia" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="es-mx" />
 
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <!-- Descripción de la página -->
+    <meta name="description" content="Contáctanos para cualquier consulta o solicitud de servicios de gas LP en Gas de Provincia. Estamos aquí para atenderte." />
+
+    <!-- Open Graph para redes sociales -->
+    <meta property="og:title" content="Contacto | Gas de Provincia" />
+    <meta property="og:description" content="Contáctanos para cualquier consulta o solicitud de servicios de gas LP en Gas de Provincia. Estamos aquí para atenderte." />
+    <meta property="og:url" content="https://www.gasdeprovinciahidalgo.com.mx/contacto" />
+    <meta property="og:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gas de Provincia" />
+
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@chevron" />
-    <meta name="twitter:title" content="Email Chevron" />
-    <meta name="twitter:description" content="Thank you for reaching out to us! Please fill out our email contact form if you have any questions or comments for Chevron headquarters." />
+    <meta name="twitter:title" content="Contacto | Gas de Provincia" />
+    <meta name="twitter:description" content="Contáctanos para cualquier consulta o solicitud de servicios de gas LP en Gas de Provincia. Estamos aquí para atenderte." />
+    <meta name="twitter:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
 
-    <meta property="og:title" content="Email Chevron" />
-    <meta property="og:description" content="Thank you for reaching out to us! Please fill out our email contact form if you have any questions or comments for Chevron headquarters." />
-    <meta property="og:url" content="https://www.chevron.com/who-we-are/contact/chevron" />
+    <!-- Favicon -->
+    <link rel="icon" href="assets/images/logotype/icon_1@8x.png" type="image/png">
 
-    <meta property="og:site_name" content="chevron.com" />
-
-
-
-    <link rel="canonical" href="chevron.html" />
-
-
-    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
-    <link rel="manifest" href="../assets/images/logotype/logotype.png">
-    <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
-    <meta name="msapplication-TileColor" content="#0b2d71">
-    <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
-    <meta name="theme-color" content="#ffffff">
-    <link href="../../assets/fonts/monospace/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
-
-    <link href="../../assets/css/basec5ea.css?v=9OsDOlqCA0-4DCVImliMiimI3v9QhOw6cbU-w2UbXZ01" rel="stylesheet" />
-
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "Organization",
-            "url": "https://www.chevron.com/about/contact/email-chevron",
-            "name": "Email Chevron Headquarters",
-            "logo": "https://www.chevron.com/Assets/images/hallmark.png",
-            "contactPoint": {
-                "@type": "ContactPoint",
-                "contactType": "customer service",
-                "telephone": "+1-925-842-1000",
-                "areaServed": "US"
-            },
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "6001 Bollinger Canyon Road",
-                "addressLocality": "San Ramon",
-                "addressRegion": "CA",
-                "postalCode": "94583",
-                "addressCountry": "USA"
-            }
-        }
-    </script>
+    <!-- Estilos y Fuentes -->
+    <link href="../../assets/css/base.css" rel="stylesheet" />
+    <link href="../../assets/fonts/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
     <script>
@@ -100,19 +56,13 @@
                 dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src =
-                '../../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MMCQ2RJB');
+        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
     </script>
-    <!-- End Google Tag Manager -->
-    <script>
-        var dataLayer = window.dataLayer || [];
-        dataLayer.push({
-            "CVXID": "695a25bb4b49411d9dbd11c035a8ca2c"
-        });
-    </script>
-
+    <!-- Fin Google Tag Manager -->
 </head>
+
 
 <body class="body-who-we-are" ontouchstart="">
     <!-- Google Tag Manager (noscript) -->

@@ -7,141 +7,41 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Recomendaciones | Gas Provincia</title>
-
-    <meta name="VIcurrentDateTime" content="638615084648121489" />
-    <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
+    <title>Recomendaciones | Gas de Provincia</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="coverage" content="Global" />
-    <meta name="format" content="text/html" />
-    <meta name="language" content="en-us" />
-    <meta name="pubdate" content="2024-08-09" />
-    <meta name="publisher" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="retention" content="pub1100" />
-    <meta name="rights" content="Copyright Chevron Corporation 2024" />
-    <meta name="robots" content="index, follow, noodp, noydir" />
-    <meta name="Subject" content="Corporate and Administrative : Corporate Information" />
-    <meta name="title" content="Climate" />
-    <meta name="description" content="Chevron believes the future of energy is lower carbon. We are lowering our carbon intensity, increasing renewables and investing in low-carbon technologies." />
-    <meta name="keywords" content="" />
-    <meta name="type" content="Text" />
-    <meta name="id" content="{E46F7B8D-F0A8-4170-B308-23C8CA5DA14D}" />
+    <meta name="author" content="Gas de Provincia" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="es-mx" />
 
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <!-- Descripción de la página -->
+    <meta name="description" content="Sigue nuestras recomendaciones para el uso seguro y eficiente del gas LP en tu hogar, comercio o industria. Gas de Provincia te asesora en todo momento." />
+
+    <!-- Open Graph para redes sociales -->
+    <meta property="og:title" content="Recomendaciones | Gas de Provincia" />
+    <meta property="og:description" content="Sigue nuestras recomendaciones para el uso seguro y eficiente del gas LP en tu hogar, comercio o industria. Gas de Provincia te asesora en todo momento." />
+    <meta property="og:url" content="https://www.gasdeprovinciahidalgo.com.mx/recomendaciones" />
+    <meta property="og:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gas de Provincia" />
+
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@chevron" />
-    <meta name="twitter:title" content="Climate" />
-    <meta name="twitter:description" content="Chevron believes the future of energy is lower carbon. We are lowering our carbon intensity, increasing renewables and investing in low-carbon technologies." />
-    <meta name="twitter:image" content="https://www.chevron.com/-/media/chevron/sustainability/images/energy-transition-richmond-refinery-1920x1080.jpg?w=600&h=300&hash=F30ABBEFD4CDD1163EAF4F3C079EEF29" />
-    <meta property="og:title" content="Climate" />
-    <meta property="og:description" content="Chevron believes the future of energy is lower carbon. We are lowering our carbon intensity, increasing renewables and investing in low-carbon technologies." />
-    <meta property="og:url" content="https://www.chevron.com/sustainability/environment/energy-transition" />
-    <meta property="og:image" content="https://www.chevron.com/-/media/chevron/sustainability/images/energy-transition-richmond-refinery-1920x1080.jpg?w=1200&h=630&hash=8D85A7DC212294901E1442A762473780" />
-    <meta property="og:site_name" content="chevron.com" />
+    <meta name="twitter:title" content="Recomendaciones | Gas de Provincia" />
+    <meta name="twitter:description" content="Sigue nuestras recomendaciones para el uso seguro y eficiente del gas LP en tu hogar, comercio o industria. Gas de Provincia te asesora en todo momento." />
+    <meta name="twitter:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
 
+    <!-- Favicon -->
+    <link rel="icon" href="assets/images/logotype/icon_1@8x.png" type="image/png">
 
-
-    <link rel="canonical" href="energy-transition.html" />
-
-
-    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
-    <link rel="manifest" href="../assets/images/logotype/logotype.png">
-    <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
-    <meta name="msapplication-TileColor" content="#0b2d71">
-    <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
-    <meta name="theme-color" content="#ffffff">
-    <link href="../../assets/fonts/monospace/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/monospace/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
-
-    <link href="../../assets/css/basec5ea.css?v=9OsDOlqCA0-4DCVImliMiimI3v9QhOw6cbU-w2UbXZ01" rel="stylesheet" />
-
-
-
-
-
-    <style>
-        .c01f .content-container {
-            min-height: 358px;
-        }
-
-        .c52 .text-container .headline {
-            min-height: unset !important;
-        }
-
-        .c52 .secondary-link {
-            display: none;
-        }
-
-        #mod_e8e2081a .image-container {
-            margin-top: 35px !important;
-        }
-
-        #mod_e8e2081a .text-container {
-            padding-bottom: 40px !important;
-            padding-top: 40px !important;
-        }
-
-        #mod_56bba014 .c11-container h3,
-        #mod_56bba014 .c11-container p,
-        #mod_a2dad152 .c11-container h3,
-        #mod_a2dad152 .c11-container p {
-            text-align: left !important;
-        }
-
-        #mod_3202dd35 .image-container img {
-            width: 150px;
-            height: 150px;
-        }
-    </style>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            if (navigator.platform === 'iPad' || navigator.platform === 'iPhone' || navigator.platform === 'iPod') {
-                var links = document.querySelectorAll("[href*='page=']");
-                links.forEach(function(el) {
-                    el.href = el.href.replace('#page=', '#page');
-                });
-            }
-        }, false);
-    </script>
-
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "WebPage",
-            "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": "https://www.chevron.com/sustainability/environment/energy-transition"
-            },
-            "headline": "our action areas to help advance a lower-carbon future",
-            "image": [
-                "https://www.chevron.com/-/media/chevron/sustainability/images/climate-change-hero.jpg"
-            ],
-            "author": {
-                "@type": "Organization",
-                "name": "Chevron"
-            },
-            "publisher": {
-                "@type": "Organization",
-                "name": "Chevron",
-                "logo": {
-                    "@type": "ImageObject",
-                    "url": "https://www.chevron.com/Assets/images/hallmark.png"
-                }
-            },
-            "description": "Chevron believes the future of energy is lower carbon. We are lowering our carbon intensity, increasing renewables and investing in low-carbon technologies."
-        }
-    </script>
-
-
-
+    <!-- Estilos y Fuentes -->
+    <link href="../../assets/css/base.css" rel="stylesheet" />
+    <link href="../../assets/fonts/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../../assets/fonts/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
     <script>
@@ -156,23 +56,13 @@
                 dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src =
-                '../../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MMCQ2RJB');
+        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
     </script>
-    <!-- End Google Tag Manager -->
-    <script>
-        var dataLayer = window.dataLayer || [];
-        dataLayer.push({
-            "CVXID": "695a25bb4b49411d9dbd11c035a8ca2c"
-        });
-    </script>
-
-
-
-
-
+    <!-- Fin Google Tag Manager -->
 </head>
+
 
 <body class="body-sustainability" ontouchstart="">
     <!-- Google Tag Manager (noscript) -->

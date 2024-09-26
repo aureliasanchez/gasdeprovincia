@@ -7,80 +7,44 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Gas Provincia</title>
-
+    <title>Gas de Provincia - Distribución y Comercialización de Gas LP</title>
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="coverage" content="Global" />
-    <meta name="format" content="text/html" />
-    <meta name="language" content="en-us" />
-    <meta name="pubdate" content="2024-08-12" />
-    <meta name="publisher" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="retention" content="pub1100" />
-    <meta name="rights" content="Copyright Chevron Corporation 2024" />
-    <meta name="robots" content="index, follow, noodp, noydir" />
-    <meta name="Subject" content="Corporate and Administrative : Corporate Information" />
-    <meta name="title" content="Chevron Corporation - Human Energy" />
-    <meta name="description" content="Chevron works to meet the world&#39;s growing demand for energy by exploring for oil and natural gas; refining and marketing gasoline; producing chemicals and more." />
-    <meta name="keywords" content="" />
-    <meta name="type" content="Text" />
-    <meta name="id" content="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+    <meta name="author" content="Gas de Provincia" />
+    <meta name="language" content="es-mx" />
+    <meta name="robots" content="index, follow" />
 
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <!-- Descripción de la página -->
+    <meta name="description" content="Gas de Provincia ofrece distribución y comercialización de gas LP para hogares, industria y comercio, garantizando seguridad y calidad en cada servicio." />
+
+    <!-- Palabras clave -->
+    <meta name="keywords" content="Gas, LP, Seguridad, Calidad, Servicio, Confianza, Honestidad, Recarga, Hogares, Industria, Comercio, Tanques estacionarios, Cilindros portátiles, Distribución de gas, Satisfacción del cliente, Atención personalizada, Capacitación de personal, Certificaciones de calidad, Servicios de gas LP, Empresa local, Técnicos especializados" />
+
+    <!-- Open Graph para redes sociales -->
+    <meta property="og:title" content="Gas de Provincia - Tu Mejor Opción en Gas LP" />
+    <meta property="og:description" content="Descubre el servicio de gas LP de mayor calidad en Hidalgo con Gas de Provincia. Seguridad y atención personalizada garantizadas." />
+    <meta property="og:url" content="https://www.gasdeprovinciahidalgo.com.mx/" />
+    <meta property="og:image" content="URL-de-tu-imagen.jpg" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gas de Provincia" />
+
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@chevron" />
-    <meta name="twitter:title" content="Chevron Corporation - Human Energy" />
-    <meta name="twitter:description" content="Chevron works to meet the world's growing demand for energy by exploring for oil and natural gas; refining and marketing gasoline; producing chemicals and more." />
-    <meta name="twitter:image" content="-/media/chevron/homepage/images/hero_slider_03_fallback_large19b4.webp?w=600&amp;h=300&amp;hash=68ABA82F15B0B56E75E40172C2154A7E" />
-    <meta property="og:title" content="Chevron Corporation - Human Energy" />
-    <meta property="og:description" content="Chevron works to meet the world's growing demand for energy by exploring for oil and natural gas; refining and marketing gasoline; producing chemicals and more." />
-    <meta property="og:url" content="index.html" />
-    <meta property="og:image" content="-/media/chevron/homepage/images/hero_slider_03_fallback_larged003.webpp?w=1200&amp;h=630&amp;hash=8EA63D3AE2DE77299F03E97983AE6A77" />
-    <meta property="og:site_name" content="chevron.com" />
+    <meta name="twitter:title" content="Gas de Provincia - Tu Mejor Opción en Gas LP" />
+    <meta name="twitter:description" content="Descubre el servicio de gas LP de mayor calidad en Hidalgo con Gas de Provincia. Seguridad y atención personalizada garantizadas." />
+    <meta name="twitter:image" content="assets/images/logotype/logo_horozontal@8x.png" />
 
+    <!-- Favicon -->
+    <link rel="icon" href="assets/images/logotype/icon_1@8x.png" type="image/png">
 
+    <!-- Estilos y Fuentes -->
+    <link href="assets/css/base.css" rel="stylesheet" />
+    <link href="assets/fonts/gotham.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
 
-    <link rel="canonical" href="index.html" />
+    <!-- Etiquetas hreflang para SEO internacional -->
+    <link rel="alternate" href="https://www.gasdeprovinciahidalgo.com.mx/" hreflang="es-mx" />
 
-
-    <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/logotype/logotype.png">
-    <link rel="manifest" href="./assets/images/logotype/logotype.png">
-    <link rel="shortcut icon" href="./assets/images/logotype/logotype.png">
-    <meta name="msapplication-TileColor" content="#0b2d71">
-    <meta name="msapplication-config" content="assets/fav/browserconfig23b4.xml?v=7k4MjPGMX6">
-    <meta name="theme-color" content="#ffffff">
-    <link href="assets/fonts/monospace/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="assets/fonts/monospace/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="assets/fonts/monospace/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="assets/fonts/monospace/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="assets/fonts/monospace/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="assets/fonts/monospace/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
-
-    <link href="assets/css/basec5ea.css?v=9OsDOlqCA0-4DCVImliMiimI3v9QhOw6cbU-w2UbXZ01" rel="stylesheet" />
-
-
-
-
-
-    <!-- SEO International HREFLANG Tags -->
-    <link rel="alternate" href="index.html" hreflang="x-default" />
-    <link rel="alternate" href="https://angola.chevron.com/en" hreflang="en-ao" />
-    <link rel="alternate" href="https://angola.chevron.com/" hreflang="pt-ao" />
-    <link rel="alternate" href="https://australia.chevron.com/" hreflang="en-au" />
-    <link rel="alternate" href="https://bangladesh.chevron.com/" hreflang="en-bd" />
-    <link rel="alternate" href="https://brazil.chevron.com/en" hreflang="en-br" />
-    <link rel="alternate" href="https://brazil.chevron.com/" hreflang="pt-br" />
-    <link rel="alternate" href="https://canada.chevron.com/" hreflang="en-ca" />
-    <link rel="alternate" href="https://indonesia.chevron.com/" hreflang="in-id" />
-    <link rel="alternate" href="https://indonesia.chevron.com/en" hreflang="en-id" />
-    <link rel="alternate" href="https://thailand.chevron.com/en" hreflang="en-th" />
-    <link rel="alternate" href="https://thailand.chevron.com/" hreflang="th-th" />
-
-
-
-    <!-- Google Tag Manager -->
+    <!-- Google Tag Manager (ejemplo) -->
     <script>
         (function(w, d, s, l, i) {
             w[l] = w[l] || [];
@@ -93,21 +57,13 @@
                 dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src =
-                '../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MMCQ2RJB');
+        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
     </script>
-    <!-- End Google Tag Manager -->
-    <script>
-        var dataLayer = window.dataLayer || [];
-        dataLayer.push({
-            "CVXID": "a1de029971064339871efbf831f76c49"
-        });
-    </script>
-
-
-
+    <!-- Fin Google Tag Manager -->
 </head>
+
 
 <body class="body-home" ontouchstart="">
     <!-- Google Tag Manager (noscript) -->

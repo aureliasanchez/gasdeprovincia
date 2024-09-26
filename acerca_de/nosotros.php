@@ -7,98 +7,41 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Nosotros | Gas Provincia</title>
-
-    <meta name="VIcurrentDateTime" content="638615084802738420" />
-    <script type="text/javascript" src="https://www.chevron.com/layouts/system/VisitorIdentification.js"></script>
+    <title>Nosotros | Gas de Provincia</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="coverage" content="Global" />
-    <meta name="format" content="text/html" />
-    <meta name="language" content="en-us" />
-    <meta name="pubdate" content="2023-12-11" />
-    <meta name="publisher" content="Chevron Policy, Government and Public Affairs" />
-    <meta name="retention" content="pub1100" />
-    <meta name="rights" content="Copyright Chevron Corporation 2024" />
-    <meta name="robots" content="index, follow, noodp, noydir" />
-    <meta name="Subject" content="Corporate and Administrative : Corporate Information" />
-    <meta name="title" content="Our Brands" />
-    <meta name="description" content="Whether we’re fueling cars or advancing the energy system of tomorrow, Chevron’s brands set the standard for excellence. With a rich history dating back over a century, Chevron’s family of brands has built trust and recognition worldwide." />
-    <meta name="keywords" content="" />
-    <meta name="type" content="Text" />
-    <meta name="id" content="{5DA6EAFF-0D2B-4547-AA54-DCBD6E7E409E}" />
+    <meta name="author" content="Gas de Provincia" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="es-mx" />
 
-    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <!-- Descripción de la página -->
+    <meta name="description" content="Conoce la historia, misión y valores de Gas de Provincia, una empresa comprometida con la seguridad y calidad en la distribución de gas LP." />
+
+    <!-- Open Graph para redes sociales -->
+    <meta property="og:title" content="Nosotros | Gas de Provincia" />
+    <meta property="og:description" content="Conoce la historia, misión y valores de Gas de Provincia, una empresa comprometida con la seguridad y calidad en la distribución de gas LP." />
+    <meta property="og:url" content="https://www.gasdeprovinciahidalgo.com.mx/nosotros" />
+    <meta property="og:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Gas de Provincia" />
+
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@chevron" />
-    <meta name="twitter:title" content="Our Brands" />
-    <meta name="twitter:description" content="Whether we’re fueling cars or advancing the energy system of tomorrow, Chevron’s brands set the standard for excellence. With a rich history dating back over a century, Chevron’s family of brands has built trust and recognition worldwide." />
-    <meta name="twitter:image" content="https://www.chevron.com/-/media/chevron/who-we-are/our-brands/images/01_hero_1920x1080.jpg?w=600&h=300&hash=7BD49767744EA9FF505552A0807AD1D6" />
-    <meta property="og:title" content="Our Brands" />
-    <meta property="og:description" content="Whether we’re fueling cars or advancing the energy system of tomorrow, Chevron’s brands set the standard for excellence. With a rich history dating back over a century, Chevron’s family of brands has built trust and recognition worldwide." />
-    <meta property="og:url" content="https://www.chevron.com/who-we-are/our-brands" />
-    <meta property="og:image" content="https://www.chevron.com/-/media/chevron/who-we-are/our-brands/images/01_hero_1920x1080.jpg?w=1200&h=630&hash=9F2C24AA0A34892823672E12E50ADDB9" />
-    <meta property="og:site_name" content="chevron.com" />
+    <meta name="twitter:title" content="Nosotros | Gas de Provincia" />
+    <meta name="twitter:description" content="Conoce la historia, misión y valores de Gas de Provincia, una empresa comprometida con la seguridad y calidad en la distribución de gas LP." />
+    <meta name="twitter:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
 
+    <!-- Favicon -->
+    <link rel="icon" href="assets/images/logotype/icon_1@8x.png" type="image/png">
 
-
-    <link rel="canonical" href="our-brands.html" />
-
-
-    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/logotype/logotype.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/logotype/logotype.png">
-    <link rel="manifest" href="../assets/images/logotype/logotype.png">
-    <link rel="shortcut icon" href="../assets/images/logotype/logotype.png">
-    <meta name="msapplication-TileColor" content="#0b2d71">
-    <meta name="msapplication-config" content="/assets/fav/browserconfig.xml?v=7k4MjPGMX6">
-    <meta name="theme-color" content="#ffffff">
-    <link href="../assets/fonts/monospace/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/monospace/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/monospace/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/monospace/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/monospace/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/monospace/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
-
-    <link href="../assets/css/basec5ea.css?v=9OsDOlqCA0-4DCVImliMiimI3v9QhOw6cbU-w2UbXZ01" rel="stylesheet" />
-
-
-
-
-
-    <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "WebPage",
-            "@id": "https://www.chevron.com/operations/products-services",
-            "@graph": [{
-                    "@type": "brand",
-                    "name": "Chevron With Techron",
-                    "description": "We’ve been committed to advance innovation, technology and high-quality care for your car.",
-                    "logo": "https://www.chevronwithtechron.com/images/layout/logo.svg",
-                    "url": "https://www.chevronwithtechron.com/"
-                },
-                {
-                    "@type": "brand",
-                    "name": "Texaco",
-                    "description": "After more than a century, we've never stopped delivering high fuel performance you can trust.",
-                    "logo": "https://www.texaco.com/images/logo.svg",
-                    "url": "https://www.texaco.com/"
-                },
-                {
-                    "@type": "brand",
-                    "name": "Caltex",
-                    "description": "Around the world, Caltex strives to meet its customers’ needs without compromise.",
-                    "logo": "https://www.caltex.com/content/dam/caltex/common/icon/corporate/caltex_logo.png",
-                    "url": "https://www.caltex.com/sg/"
-                }
-            ]
-        }
-    </script>
-
-
-
+    <!-- Estilos y Fuentes -->
+    <link href="../assets/css/base.css" rel="stylesheet" />
+    <link href="../assets/fonts/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
     <script>
@@ -113,23 +56,13 @@
                 dl = l != 'dataLayer' ? '&l=' + l : '';
             j.async = true;
             j.src =
-                '../../www.googletagmanager.com/gtm5445.html?id=' + i + dl;
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MMCQ2RJB');
+        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
     </script>
-    <!-- End Google Tag Manager -->
-    <script>
-        var dataLayer = window.dataLayer || [];
-        dataLayer.push({
-            "CVXID": "695a25bb4b49411d9dbd11c035a8ca2c"
-        });
-    </script>
-
-
-
-
-
+    <!-- Fin Google Tag Manager -->
 </head>
+
 
 <body class="body-who-we-are" ontouchstart="">
     <!-- Google Tag Manager (noscript) -->

@@ -11,6 +11,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Gas de Provincia" />
+    <link href="../assets/css/basec5ea.css" rel="stylesheet" />
     <meta name="robots" content="index, follow" />
     <meta name="language" content="es-mx" />
 
@@ -24,6 +25,12 @@
     <meta property="og:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Gas de Provincia" />
+
+    <style>
+        .c01f .content-container {
+            min-height: 358px;
+        }
+    </style>
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />

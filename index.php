@@ -10,6 +10,7 @@
     <title>Gas de Provincia - Distribución y Comercialización de Gas LP</title>
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../assets/css/basec5ea.css" rel="stylesheet" />
     <meta name="author" content="Gas de Provincia" />
     <meta name="language" content="es-mx" />
     <meta name="robots" content="index, follow" />

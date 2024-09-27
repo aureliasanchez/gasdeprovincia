@@ -105,7 +105,7 @@
                                 <h1 class="headline color-dark-blue">Asesoría técnica</h1>
                                 <h3 class="text-center">
                                     <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
-                                        En Gas de Provincia S.A. de C.V., somos líderes en la venta y distribución de Gas L.P., comprometidos con la seguridad y satisfacción de nuestros clientes desde 2005 en Hidalgo, y con una historia que se remonta a 1947 en Toluca y Atlacomulco. Nos destacamos por nuestra calidad, servicio y honestidad, atendiendo tanto a hogares como a industrias y comercios.
+                                        En <span class="color-medium-yellow">Gas</span> de <span class="color-medium-yellow">Provincia S.A.</span> de <span class="color-medium-yellow">C.V.</span>, somos líderes en la venta y distribución de <span class="color-medium-yellow">Gas L.P.</span>, comprometidos con la seguridad y satisfacción de nuestros clientes desde 2005 en <span class="color-medium-yellow">Hidalgo</span>, y con una historia que se remonta a 1947 en <span class="color-medium-yellow">Toluca</span> y <span class="color-medium-yellow">Atlacomulco</span>. Nos destacamos por nuestra calidad, servicio y honestidad, atendiendo tanto a hogares como a industrias y comercios.
                                     </span>
                                 </h3>
                             </div>
@@ -125,7 +125,7 @@
                                     <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Servicio técnico a hogares
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -139,7 +139,7 @@
                                     <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/2.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Servicio técnico a empresas
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -153,7 +153,7 @@
                                     <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/3.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Presupuestos
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -167,7 +167,7 @@
                                     <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/4.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Mantenimiento preventivo y correctivo
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -181,7 +181,7 @@
                                     <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/5.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Diseño de proyectos
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -195,7 +195,7 @@
                                     <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/6.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Instalaciones
                                         </h3>
                                         <div class="description type-body text-reduced centered">
@@ -209,7 +209,7 @@
                                     <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/7.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Dictámenes
                                         </h3>
                                         <div class="description type-body text-reduced centered">

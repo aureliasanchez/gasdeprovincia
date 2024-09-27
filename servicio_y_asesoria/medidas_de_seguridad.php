@@ -105,7 +105,7 @@
                                 <p class="text-center">
                                 <h3>
                                     <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
-                                        Adoptar y mantener estrictas medidas de seguridad es esencial para prevenir accidentes y garantizar el bienestar de nuestros clientes y sus instalaciones.
+                                    <span class="color-medium-yellow">Adoptar</span> y <span class="color-medium-yellow">mantener</span> estrictas medidas de seguridad es esencial para prevenir accidentes y garantizar el bienestar de nuestros clientes y sus instalaciones.
                                     </span>
                                 </h3>
                                 </p>
@@ -128,8 +128,8 @@
                                         <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/1.webp" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
-                                            Mantén los cilindros retirados de cualquier instalación eléctrica para prevenir cortocircuitos y posibles explosiones.
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                            Mantén los cilindros retirados de cualquier instalación eléctrica para prevenir <span class="color-dark-yellow">cortocircuitos</span> y posibles explosiones.
                                         </h3>
                                     </div>
                                 </div>
@@ -140,8 +140,8 @@
                                         <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/2.webp" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
-                                            Protege los cilindros de cualquier posible daño causado por animales.
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                            Protege los cilindros de cualquier posible daño causado por <span class="color-dark-yellow">animales</span>.
                                         </h3>
                                     </div>
                                 </div>
@@ -152,8 +152,8 @@
                                         <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/3.webp" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
-                                            Coloca los cilindros sobre un suelo nivelado y que ofrezca protección contra movimientos bruscos.
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                            Coloca los cilindros sobre un suelo nivelado y que ofrezca <span class="color-dark-yellow">protección</span> contra movimientos bruscos.
                                         </h3>
                                     </div>
                                 </div>
@@ -164,8 +164,8 @@
                                         <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/4.webp" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
-                                            Mantén los cilindros alejados de objetos o materiales inflamables que puedan generar riesgos de incendio.
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                            Mantén los cilindros alejados de objetos o materiales <span class="color-dark-yellow">inflamables</span> que puedan generar riesgos de incendio.
                                         </h3>
                                     </div>
                                 </div>
@@ -176,8 +176,8 @@
                                         <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/5.webp" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
-                                            Siempre que sea posible, instala los cilindros en azoteas para evitar la acumulación de gas en espacios cerrados.
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                            Siempre que sea posible, instala los cilindros en <span class="color-dark-yellow">azoteas</span> para evitar la acumulación de gas en espacios cerrados.
                                         </h3>
                                     </div>
                                 </div>
@@ -188,8 +188,8 @@
                                         <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/6.webp" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
-                                            Asegúrate de que los cilindros estén situados al menos a 3 metros de cualquier fuente de chispa o flama.
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                            Asegúrate de que los cilindros estén situados al menos a 3 metros de cualquier fuente de <span class="color-dark-yellow">chispa</span> o <span class="color-dark-yellow">flama</span>.
                                         </h3>
                                     </div>
                                 </div>
@@ -200,8 +200,8 @@
                                         <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/7.webp" class="centered img-fluid" alt="Chevron center of target icon" />
                                     </div>
                                     <div class="content-container">
-                                        <h3 class="sub-header color-dark-blue type-eyebrow text-reduced">
-                                            No utilices recámaras ni espacios sin ventilación adecuada para cocinar, para evitar la acumulación de gases tóxicos.
+                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                            No utilices recámaras ni espacios sin ventilación adecuada para cocinar, para evitar la acumulación de <span class="color-dark-yellow">gases tóxicos</span>.
                                         </h3>
                                     </div>
                                 </div>

@@ -99,7 +99,7 @@
                             <h1 class="headline color-dark-blue">Facturacion</h1>
                             <div class="body width-600 centered">
                                 <h3 style="text-align: center;">
-                                    En Gas de Provincia, facilitamos tu proceso de facturación.
+                                    En <span class="color-dark-yellow">Gas</span> de <span class="color-dark-yellow">Provincia</span>, facilitamos tu proceso de facturación.
                                 </h3>
                                 <div id="gtx-trans" style="position: absolute; left: -193px; top: -25px;">
                                     <div class="gtx-trans-icon">&nbsp;</div>
@@ -126,7 +126,7 @@
 
                 <div class="bg-white">
                     <h1 class="headline color-dark-blue"><br>
-                        Completa nuestro formulario para obtener tu factura de manera rápida y sin complicaciones.
+                        Completa nuestro <span class="color-medium-yellow">formulario</span> para obtener tu <span class="color-medium-yellow">factura</span> de manera <span class="color-medium-yellow">rápida</span> y <span class="color-medium-yellow">sin complicaciones</span>.
                     </h1>
                     <h2 class="headline color-medium-blue">
                         Asegúrate de tener a mano tu RFC y los detalles necesarios para el trámite.

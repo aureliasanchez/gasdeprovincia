@@ -99,7 +99,7 @@
                             <h1 class="headline color-dark-blue">Pedidos</h1>
                             <div class="body width-600 centered">
                                 <h3 style="text-align: center;">
-                                    En Gas de Provincia, hacemos que la recarga de gas LP sea rápida y conveniente para ti. Utiliza nuestro formulario para realizar tu pedido de manera fácil y segura. Proporcionamos tanques estacionarios y cilindros portátiles con diferentes capacidades para satisfacer tus necesidades específicas.
+                                    En <span class="color-dark-yellow">Gas</span> de <span class="color-dark-yellow">Provincia</span>, hacemos que la recarga de gas LP sea rápida y conveniente para ti. Utiliza nuestro <span class="color-dark-yellow">formulario</span> para realizar tu pedido de manera fácil y segura. Proporcionamos <span class="color-dark-yellow">tanques estacionarios</span> y <span class="color-dark-yellow">cilindros portátiles</span> con diferentes capacidades para satisfacer tus necesidades específicas.
                                 </h3>
                                 <div id="gtx-trans" style="position: absolute; left: -193px; top: -25px;">
                                     <div class="gtx-trans-icon">&nbsp;</div>

@@ -99,7 +99,7 @@
                             <h1 class="headline color-dark-blue">Contacto</h1>
                             <div class="body width-600 centered">
                                 <h3 style="text-align: center;">
-                                    En Gas de Provincia, estamos siempre disponibles para ayudarte con cualquier duda o consulta que puedas tener.
+                                    En <span class="color-dark-yellow">Gas</span> de <span class="color-dark-yellow">Provincia</span>, estamos siempre disponibles para ayudarte con cualquier <span class="color-dark-yellow">duda</span> o <span class="color-dark-yellow">consulta</span> que puedas tener.
                                 </h3>
                                 <div id="gtx-trans" style="position: absolute; left: -193px; top: -25px;">
                                     <div class="gtx-trans-icon">&nbsp;</div>
@@ -402,7 +402,7 @@
                         Formulario de Contacto
                     </h1>
                     <h2 class="headline color-medium-blue">
-                        Para cualquier consulta, por favor completa el siguiente formulario. Nos comprometemos a responderte lo antes posible.
+                        Para cualquier <span class="color-medium-yellow">consulta</span>, por favor completa el siguiente <span class="color-medium-yellow">formulario</span>. Nos comprometemos a responderte lo antes posible.
                     </h2>
                 </div>
 

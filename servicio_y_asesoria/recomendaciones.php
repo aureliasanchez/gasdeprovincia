@@ -115,18 +115,14 @@
                 </div>
 
 
-                <div id="mod_3202dd35" class="c11 container-fluid  column-count-8 section-bg-color bg-offwhite background-color-white" data-cvx-module-name="c11">
-                    <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:50px;">
-                        <div class="parent-text-container centered text-center r">
+                <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                    <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                        <div class="c11b-container">
 
-                        </div>
-                        <div class="c11-container">
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
 
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/1.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Evitar colocar tanques estacionarios en <span class="color-dark-yellow">escaleras</span> para prevenir accidentes.
@@ -134,11 +130,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/2.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/2.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Proteger los tanques contra <span class="color-dark-yellow">animales</span> y mantenerlos alejados de instalaciones eléctricas.
@@ -146,11 +141,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/3.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/3.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             No utilizar recámaras y espacios no ventilados para cocinar, para prevenir <span class="color-dark-yellow">acumulaciones</span> peligrosas de gas.
@@ -158,11 +152,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/4.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/4.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Mantener los alrededores de los tanques libres de <span class="color-dark-yellow">basura</span> y <span class="color-dark-yellow">enseres domésticos</span> que puedan obstruir el acceso o generar riesgos.
@@ -170,11 +163,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/5.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/5.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Colocar los <span class="color-dark-yellow">cilindros</span> y las <span class="color-dark-yellow">instalaciones</span> en azoteas o áreas elevadas, siempre que sea posible.
@@ -182,11 +174,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/6.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/6.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Asegurarse de que los tanques estén sobre un <span class="color-dark-yellow">piso nivelado</span> y <span class="color-dark-yellow">protegido</span> por muros de material incombustible.
@@ -194,11 +185,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/7.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/7.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Instalar los cilindros a una distancia mínima de <span class="color-dark-yellow">3 metros</span> de cualquier fuente de <span class="color-dark-yellow">flama</span> o <span class="color-dark-yellow">chispa</span>, y en lugares ventilados o al aire libre.
@@ -206,11 +196,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/8.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/recomendaciones/_02_Conjunto/8.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Mantener el área alrededor de los tanques <span class="color-dark-yellow">limpia</span> y <span class="color-dark-yellow">alejada</span> de materiales combustibles para evitar riesgos de incendio.

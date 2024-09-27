@@ -105,7 +105,7 @@
                                 <p class="text-center">
                                 <h3>
                                     <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
-                                    <span class="color-medium-yellow">Adoptar</span> y <span class="color-medium-yellow">mantener</span> estrictas medidas de seguridad es esencial para prevenir accidentes y garantizar el bienestar de nuestros clientes y sus instalaciones.
+                                        <span class="color-medium-yellow">Adoptar</span> y <span class="color-medium-yellow">mantener</span> estrictas medidas de seguridad es esencial para prevenir accidentes y garantizar el bienestar de nuestros clientes y sus instalaciones.
                                     </span>
                                 </h3>
                                 </p>
@@ -115,18 +115,14 @@
                 </div>
 
 
-                <div id="mod_3202dd35" class="c11 container-fluid  column-count-8 section-bg-color bg-offwhite background-color-white" data-cvx-module-name="c11">
-                    <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:50px;">
-                        <div class="parent-text-container centered text-center r">
+                <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                    <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                        <div class="c11b-container">
 
-                        </div>
-                        <div class="c11-container">
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
 
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/1.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Mantén los cilindros retirados de cualquier instalación eléctrica para prevenir <span class="color-dark-yellow">cortocircuitos</span> y posibles explosiones.
@@ -134,11 +130,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/2.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/2.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Protege los cilindros de cualquier posible daño causado por <span class="color-dark-yellow">animales</span>.
@@ -146,11 +141,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/3.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/3.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Coloca los cilindros sobre un suelo nivelado y que ofrezca <span class="color-dark-yellow">protección</span> contra movimientos bruscos.
@@ -158,11 +152,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/4.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/4.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Mantén los cilindros alejados de objetos o materiales <span class="color-dark-yellow">inflamables</span> que puedan generar riesgos de incendio.
@@ -170,11 +163,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/5.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/5.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Siempre que sea posible, instala los cilindros en <span class="color-dark-yellow">azoteas</span> para evitar la acumulación de gas en espacios cerrados.
@@ -182,11 +174,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/6.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/6.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             Asegúrate de que los cilindros estén situados al menos a 3 metros de cualquier fuente de <span class="color-dark-yellow">chispa</span> o <span class="color-dark-yellow">flama</span>.
@@ -194,11 +185,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="tile linked-item common-tile">
-                                <div class="tile-inner text-center">
-                                    <div class="image-container margin-bottom-20">
-                                        <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/7.webp" class="centered img-fluid" alt="Chevron center of target icon" />
-                                    </div>
+                            <div class="c11-1 r tile item background-color-">
+                                <div class="icon-tile-inner text-center">
+                                    <img src="../assets/images/pages/soporte/seguridad/_02_Conjunto/7.webp" class="img-fluid centered icon-grid-image" alt="" />
+
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
                                             No utilices recámaras ni espacios sin ventilación adecuada para cocinar, para evitar la acumulación de <span class="color-dark-yellow">gases tóxicos</span>.

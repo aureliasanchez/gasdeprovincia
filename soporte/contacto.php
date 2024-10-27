@@ -83,6 +83,7 @@
         <div>
             <link rel="stylesheet" href="../assets/css/colores.css">
             <link rel="stylesheet" href="../assets/css/whatsapp.css">
+            <link rel="stylesheet" href="../assets/css/gas.css">
             <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
                 <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
             </a>
@@ -128,7 +129,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/1.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/telefono.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
@@ -152,7 +153,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/2.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/correo.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
@@ -176,7 +177,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/3.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/3.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
@@ -197,7 +198,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/4.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/4.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
@@ -218,7 +219,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_01_Conjunto/5.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/instagram.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
@@ -284,7 +285,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/1.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/ubicaciones/1.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
@@ -308,7 +309,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/2.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/ubicaciones/2.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
@@ -332,7 +333,7 @@
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/servicios/contacto/_02_Conjunto/3.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/ubicaciones/3.webp" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
@@ -381,20 +382,6 @@
 
                     </div>
 
-                </div>
-
-                <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
-                    <div class="toast-header">
-                        <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
-                            <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
-                        </button>
-                    </div>
-                    <div class="toast-body font-gotham">
-                        <p class="toast-message">subscribe to our newsletter to receive news and updates.</p>
-                        <div class="mt-2 pt-2 primary-link">
-                            <a href="../../newsroom/subscribe.html" class="link signup-button theme-bg-color" target="">sign up now</a>
-                        </div>
-                    </div>
                 </div>
 
                 <div class="bg-white">

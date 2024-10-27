@@ -84,6 +84,7 @@
             ?>
             <link rel="stylesheet" href="./assets/css/colores.css">
             <link rel="stylesheet" href="./assets/css/whatsapp.css">
+            <link rel="stylesheet" href="./assets/css/gas.css">
             <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
                 <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
             </a>

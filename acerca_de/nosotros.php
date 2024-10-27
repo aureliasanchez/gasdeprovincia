@@ -83,6 +83,7 @@
             ?>
             <link rel="stylesheet" href="../assets/css/colores.css">
             <link rel="stylesheet" href="../assets/css/whatsapp.css">
+            <link rel="stylesheet" href="../assets/css/gas.css">
             <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
                 <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
             </a>
@@ -92,32 +93,18 @@
 
             <div class=" module-looper">
 
-                <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
-                    <div class="toast-header">
-                        <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
-                            <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
-                        </button>
-                    </div>
-                    <div class="toast-body font-gotham">
-                        <p class="toast-message">subscribe to our newsletter to receive news and updates.</p>
-                        <div class="mt-2 pt-2 primary-link">
-                            <a href="../newsroom/subscribe.html" class="link signup-button theme-bg-color" target="">sign up now</a>
-                        </div>
-                    </div>
-                </div>
-
                 <div id="mod_a7829895" class="r c74 video-common text-center background-color-dark-gray " data-cvx-first-module-no-adjustment="true" data-cvx-module-name="c74">
                     <div class="inner-container text-center" style="margin-top:0px;margin-bottom:0px;">
                         <div class="gradient-container background-color-gradient"></div>
 
                         <style type="text/css">
                             #mod_a7829895.c74 .background-container {
-                                background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.webp');
+                                background-image: url('../assets/images/pages/acerca_de/nosotros/portada/nosotros.webp');
                             }
 
                             @media screen and (min-width: 768px) {
                                 #mod_a7829895.c74 .background-container {
-                                    background-image: url('../assets/images/pages/acerca_de/nosotros/_01_Conjunto/1.webp');
+                                    background-image: url('../assets/images/pages/acerca_de/nosotros/portada/nosotros.webp');
                                 }
                             }
                         </style>
@@ -146,7 +133,7 @@
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/1.webp); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/mision.webp); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -178,7 +165,7 @@
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/2.webp); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/visión.webp); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -208,7 +195,7 @@
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/_02_Conjunto/3.webp); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/factorHumano.webp); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -256,16 +243,20 @@
 
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
+
+                                    <img src="../assets/images/pages/acerca_de/nosotros/iconos/compromiso.png" class="valores">
                                     <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Compromiso
                                     </p>
                                     <p class="description theme-text-color body-2">
                                         Cumplimos con lo prometido, generando orgullo y satisfacción tanto para la empresa como para nuestros colaboradores.
                                     </p>
+
                                 </div>
                             </div>
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
+                                    <img src="../assets/images/pages/acerca_de/nosotros/iconos/calidad.png" class="valores">
                                     <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Calidad
                                     </p>
@@ -276,6 +267,7 @@
                             </div>
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
+                                    <img src="../assets/images/pages/acerca_de/nosotros/iconos/servicio.png" class="valores">
                                     <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Servicio
                                     </p>
@@ -286,6 +278,7 @@
                             </div>
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
+                                    <img src="../assets/images/pages/acerca_de/nosotros/iconos/honestidad.png" class="valores">
                                     <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Honestidad
                                     </p>
@@ -296,6 +289,7 @@
                             </div>
                             <div class="tile fact-tile bg-dark-blue theme-text-white">
                                 <div class="fact-tile-inner text-center">
+                                    <img src="../assets/images/pages/acerca_de/nosotros/iconos/seguridad.png" class="valores">
                                     <p class="figure-description color-light-yellow font-gotham text-bold">
                                         Seguridad
                                     </p>
@@ -341,7 +335,7 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/1.webp" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/clientes/1.webp" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
                                                         <p class="type-body text-caption date white">
@@ -357,7 +351,7 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/2.webp" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/clientes/2.webp" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
                                                         <p class="type-body text-caption date white">
@@ -373,7 +367,7 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/_03_Conjunto/3.webp" alt="" />
+                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/clientes/3.webp" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
                                                         <p class="type-body text-caption date white">
@@ -415,7 +409,6 @@
                 </div>
 
             </div>
-
 
         </main>
 

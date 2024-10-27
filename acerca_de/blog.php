@@ -83,6 +83,7 @@
             ?>
             <link rel="stylesheet" href="../assets/css/colores.css">
             <link rel="stylesheet" href="../assets/css/whatsapp.css">
+            <link rel="stylesheet" href="../assets/css/gas.css">
             <a href="https://wa.me/7717112599" target="_blank" class="whatsapp-button">
                 <img src="/assets/images/icons/redes_sosciales/whatsapp.webp" alt="WhatsApp" />
             </a>
@@ -92,32 +93,18 @@
 
             <div class=" module-looper">
 
-                <div id="mod_38130ff8" class="a13 bg-white toast " role="alert" aria-live="polite" aria-atomic="true" data-bs-autohide="false" data-cvx-first-module-exclude="true" data-cvx-module-name="a13">
-                    <div class="toast-header">
-                        <button type="button" class="close btn btn-link" data-bs-dismiss="toast" aria-label="Close">
-                            <span class="glyphicon glyphicon-remove black" aria-hidden="true"></span><span class="sr-only">close</span>
-                        </button>
-                    </div>
-                    <div class="toast-body font-gotham">
-                        <p class="toast-message">subscribe to our newsletter to receive news and updates.</p>
-                        <div class="mt-2 pt-2 primary-link">
-                            <a href="../newsroom/subscribe.html" class="link signup-button theme-bg-color" target="">sign up now</a>
-                        </div>
-                    </div>
-                </div>
-
                 <div id="mod_a7829895" class="r c74 video-common text-center background-color-dark-gray " data-cvx-first-module-no-adjustment="true" data-cvx-module-name="c74">
                     <div class="inner-container text-center" style="margin-top:0px;margin-bottom:0px;">
                         <div class="gradient-container background-color-gradient"></div>
 
                         <style type="text/css">
                             #mod_a7829895.c74 .background-container {
-                                background-image: url('../assets/images/pages/acerca_de/blog/_01_Conjunto/1.webp');
+                                background-image: url('../assets/images/pages/acerca_de/blog/portada/portada.webp');
                             }
 
                             @media screen and (min-width: 768px) {
                                 #mod_a7829895.c74 .background-container {
-                                    background-image: url('../assets/images/pages/acerca_de/blog/_01_Conjunto/1.webp');
+                                    background-image: url('../assets/images/pages/acerca_de/blog/portada/portada.webp');
                                 }
                             }
                         </style>

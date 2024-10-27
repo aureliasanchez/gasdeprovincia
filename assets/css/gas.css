@@ -1,0 +1,15 @@
+.valores {
+    height: 200px;
+    width: 200px;
+}
+
+@media (min-width: 992px) {
+    .c01 .image-container {
+        margin-bottom: 0px;
+    }
+}
+
+.c01 .image-container {
+    margin-bottom: 0px;
+    padding: 0;
+}

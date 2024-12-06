@@ -14099,7 +14099,7 @@ fieldset:disabled .btn {
 @charset 'UTF-8';
 
 .slick-loading .slick-list {
-    background: #fff url('../js/lib/slick-1.8.1/slick/ajax-loader.gif') center center no-repeat;
+    background: #fff url('../images/otras/ajax-loader.gif') center center no-repeat;
 }
 
 @font-face {
@@ -14107,7 +14107,7 @@ fieldset:disabled .btn {
     font-weight: normal;
     font-style: normal;
     src: url('../js/lib/slick-1.8.1/slick/fonts/slick.eot');
-    src: url('../js/lib/slick-1.8.1/slick/fonts/slickd41d.eot?#iefix') format('embedded-opentype'), url('../js/lib/slick-1.8.1/slick/fonts/slick.woff') format('woff'), url('../js/lib/slick-1.8.1/slick/fonts/slick.ttf') format('truetype'), url('../js/lib/slick-1.8.1/slick/fonts/slick.svg#slick') format('svg');
+    src: url('../fonts/slick/slickd41d.eot') format('embedded-opentype'), url('../js/lib/slick-1.8.1/slick/fonts/slick.woff') format('woff'), url('../js/lib/slick-1.8.1/slick/fonts/slick.ttf') format('truetype'), url('../js/lib/slick-1.8.1/slick/fonts/slick.svg#slick') format('svg');
 }
 
 @font-face {
@@ -20750,8 +20750,8 @@ p.text-caption,
 
 @font-face {
     font-family: 'ChevronIcons';
-    src: url('../fonts/ChevronIconsf247.eot?qg7vaw');
-    src: url('../fonts/ChevronIconsf247.eot?qg7vaw#iefix') format('embedded-opentype'), url('../fonts/ChevronIconsf247.ttf?qg7vaw') format('truetype'), url('../fonts/ChevronIconsf247.woff?qg7vaw') format('woff'), url('../fonts/ChevronIconsf247.svg?qg7vaw#ChevronIcons') format('svg');
+    src: url('../fonts/chevron/ChevronIconsf247.eot');
+    src: url('../fonts/chevron/ChevronIconsf247.eot') format('embedded-opentype'), url('../fonts/chevron/ChevronIconsf247.ttf') format('truetype'), url('../fonts/chevron/ChevronIconsf247.woff') format('woff'), url('../fonts/chevron/ChevronIconsf247.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -21043,8 +21043,8 @@ p.text-caption,
 
 @font-face {
     font-family: 'ChevronIcons2023';
-    src: url('../fonts/glyph-icons-2023/ChevronIcons20237531.eot?kxnre9');
-    src: url('../fonts/glyph-icons-2023/ChevronIcons20237531.eot?kxnre9#iefix') format('embedded-opentype'), url('../fonts/glyph-icons-2023/ChevronIcons20237531.woff2?kxnre9') format('woff2'), url('../fonts/glyph-icons-2023/ChevronIcons20237531.ttf?kxnre9') format('truetype'), url('../fonts/glyph-icons-2023/ChevronIcons20237531.woff?kxnre9') format('woff'), url('../fonts/glyph-icons-2023/ChevronIcons20237531.svg?kxnre9#Chevron_FunctionalIcons_2023') format('svg');
+    src: url('../fonts/chevron/ChevronIcons20237531.eot');
+    src: url('../fonts/chevron/ChevronIcons20237531.eot') format('embedded-opentype'), url('../fonts/chevron/ChevronIcons20237531.woff2') format('woff2'), url('../fonts/chevron/ChevronIcons20237531.ttf') format('truetype'), url('../fonts/glyph-icons-2023/ChevronIcons20237531.woff?kxnre9') format('woff'), url('../fonts/chevron/ChevronIcons20237531.svg') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -21440,7 +21440,7 @@ p.text-caption,
 }
 
 .breadcrumb-container {
-    background-image: url("../images/breadcrumb-bg.png");
+    background-image: url("../images/otras/breadcrumb-bg.png");
     background-repeat: repeat-x;
 }
 

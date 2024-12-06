@@ -37,12 +37,12 @@
 
     <!-- Estilos y Fuentes -->
     <link href="../assets/css/base.css" rel="stylesheet" />
-    <link href="../assets/fonts/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
+    <link href="../assets/fonts/gotham/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/css/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
     <script>
@@ -72,7 +72,7 @@
       height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
   </noscript>
   <!-- End Google Tag Manager (noscript) -->
-  <script src="../bundles/sitecd57?v=BTisMVzDjxGRpKmrFZiBcAmMjF_7-IZ3dbGXfEut2EQ1"></script>
+  <script src="../assets/js/sitecd57.js"></script>
 
   <div id="main-wrapper" class="container-fluid">
     <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
@@ -510,9 +510,9 @@
     include("../assets/html/footer.html");
     ?>
   </div>
-  <script src="../bundles/siteNavigationb9c1?v=9Kd8nQjERRHmWsj1-_ve2HyH3ztwPW5Fs5o0-YIEJI01"></script>
+  <script src="../assets/js/siteNavigationb9c1.js"></script>
 
-  <script src="../bundles/siteModulese688?v=0uwGi8Yh-XXXQnCuYSLcbsrFKBSuxE_ov8zwSfWBZPA1"></script>
+  <script src="../assets/js/siteModulese688.js"></script>
 
 
 

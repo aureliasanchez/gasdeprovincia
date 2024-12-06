@@ -40,7 +40,7 @@
 
     <!-- Estilos y Fuentes -->
     <link href="assets/css/base.css" rel="stylesheet" />
-    <link href="assets/fonts/gotham.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="./assets/fonts/gotham/gotham.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
 
     <!-- Etiquetas hreflang para SEO internacional -->
     <link rel="alternate" href="https://www.gasdeprovinciahidalgo.com.mx/" hreflang="es-mx" />
@@ -73,7 +73,7 @@
             height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <script src="bundles/sitecd57?v=BTisMVzDjxGRpKmrFZiBcAmMjF_7-IZ3dbGXfEut2EQ1"></script>
+    <script src="./assets/js/sitecd57.js"></script>
 
     <div id="main-wrapper" class="container-fluid">
         <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
@@ -1282,9 +1282,9 @@
     ?>
 
     </div>
-    <script src="bundles/siteNavigationb9c1?v=9Kd8nQjERRHmWsj1-_ve2HyH3ztwPW5Fs5o0-YIEJI01"></script>
+    <script src="./assets/js/siteNavigationb9c1.js"></script>
 
-    <script src="bundles/siteModulese688?v=0uwGi8Yh-XXXQnCuYSLcbsrFKBSuxE_ov8zwSfWBZPA1"></script>
+    <script src="./assets/js/siteModulese688.js"></script>
 
     <style>
         .nav-2023 .nav-2023-container.show {

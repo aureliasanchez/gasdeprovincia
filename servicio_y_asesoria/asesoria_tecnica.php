@@ -42,13 +42,13 @@
     <link rel="icon" href="assets/images/logotype/icon_1@8x.png" type="image/png">
 
     <!-- Estilos y Fuentes -->
-    <link href="../../assets/css/base.css" rel="stylesheet" />
-    <link href="../../assets/fonts/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../../assets/fonts/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
+    <link href="../assets/css/base.css" rel="stylesheet" />
+    <link href="../assets/fonts/gotham/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/fonts/gotham/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/css/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
     <script>
@@ -78,7 +78,7 @@
             height="0" width="0" style="display:none;visibility:hidden" title="Google Tag Manager"></iframe>
     </noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <script src="../../bundles/sitecd57?v=BTisMVzDjxGRpKmrFZiBcAmMjF_7-IZ3dbGXfEut2EQ1"></script>
+    <script src="../assets/js/sitecd57.js"></script>
 
     <div id="main-wrapper" class="container-fluid">
         <div id="skip-to-content"><a href="#main-content">skip to main content</a></div>
@@ -101,7 +101,7 @@
                 <div id="mod_d7b0c924" class="c01f container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01f">
                     <div class="inner-container row centered width-1920" style="margin-top:0px;margin-bottom:40px;">
                         <div class="box-container">
-                            <div class="background-container" style="background-image: url('../assets/images/pages/soporte/asesoria/_01_Conjunto/1.webp')"></div>
+                            <div class="background-container" style="background-image: url('../assets/images/pages/servicio/asesoria/portada/1.webp')"></div>
                             <div class="content-container bg-white width-800">
                                 <h1 class="headline color-dark-blue">Asesoría técnica</h1>
                                 <h3 class="text-center">
@@ -123,7 +123,7 @@
 
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/servicio/asesoria/servicios/1.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
@@ -137,7 +137,7 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/2.webp" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/servicio/asesoria/servicios/2.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
@@ -151,7 +151,7 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/3.webp" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/servicio/asesoria/servicios/3.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
@@ -165,7 +165,7 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/4.webp" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/servicio/asesoria/servicios/4.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
@@ -179,7 +179,7 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/5.webp" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/servicio/asesoria/servicios/5.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
@@ -193,7 +193,7 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/6.webp" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/servicio/asesoria/servicios/6.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
@@ -207,7 +207,7 @@
                             </div>
                             <div class="c11-1 r tile item background-color-">
                                 <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/soporte/asesoria/_02_Conjunto/7.webp" class="img-fluid centered icon-grid-image" alt="" />
+                                    <img src="../assets/images/pages/servicio/asesoria/servicios/7.webp" class="img-fluid centered icon-grid-image" alt="" />
 
                                     <div class="content-container">
                                         <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
@@ -233,9 +233,9 @@
         include("../assets/html/footer.html");
         ?>
     </div>
-    <script src="../../bundles/siteNavigationb9c1?v=9Kd8nQjERRHmWsj1-_ve2HyH3ztwPW5Fs5o0-YIEJI01"></script>
+    <script src="../assets/js/siteNavigationb9c1.js"></script>
 
-    <script src="../../bundles/siteModulese688?v=0uwGi8Yh-XXXQnCuYSLcbsrFKBSuxE_ov8zwSfWBZPA1"></script>
+    <script src="../assets/js/siteModulese688.js"></script>
 
 
 

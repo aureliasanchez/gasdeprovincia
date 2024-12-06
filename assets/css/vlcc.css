@@ -80,7 +80,7 @@
     position: fixed;
     top: 0;
     background-color: #203845;
-    background: linear-gradient(rgba(30, 30, 30, 0.3), rgba(30, 30, 30, 0.3)), url('../js/lib/threejs/textures/water/water-arial-1024.jpg') repeat;
+    background: linear-gradient(rgba(30, 30, 30, 0.3), rgba(30, 30, 30, 0.3)), url('../assets/images/otras/water-arial-1024.jpg') repeat;
     background-size: cover;
 }
 .vlcc-module .canvas-container canvas {

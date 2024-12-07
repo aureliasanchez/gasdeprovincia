@@ -13,3 +13,191 @@
     margin-bottom: 0px;
     padding: 0;
 }
+
+.paddingTop{
+    padding-top: 5%;
+}
+
+.listClear{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+@media screen and (min-width: 992px) {
+
+    .c73 .content-container {
+        padding: 0 120px 250px;
+        border-radius: 16px 16px 0px 0px;
+    }
+}
+
+/* Ajustes para el splide track */
+.splide__track {
+    position: relative;
+    overflow: visible;
+}
+
+/* Contenedor del texto con overlay gradiente */
+.splide__slide .text-container {
+    position: relative;
+    padding: 2rem;
+    width: 100%;
+    min-height: 100px;
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 0, 0, 0.9) 0%,
+        rgba(0, 0, 0, 0.85) 100%
+    );
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Ajuste del texto */
+.splide__slide .text-content {
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 500;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Títulos dentro del slide */
+.splide__slide .text-container h2,
+.splide__slide .text-container h3,
+.splide__slide .text-container h4 {
+    color: white;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 1.25em;
+}
+
+/* Destacar texto importante */
+.splide__slide .text-container .highlight {
+    color: #FFD700;
+    font-weight: 700;
+}
+
+/* Media queries para diferentes tamaños de pantalla */
+@media screen and (max-width: 768px) {
+    .splide__slide .text-container {
+        padding: 1.5rem;
+    }
+    
+    .splide__slide .text-content {
+        font-size: 14px;
+    }
+
+    .splide__slide .image-container {
+        height: 250px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .splide__slide .text-container {
+        padding: 1rem;
+    }
+    
+    .splide__slide .text-content {
+        font-size: 13px;
+    }
+
+    .splide__slide .image-container {
+        height: 200px;
+    }
+}
+
+/* Asegurar visibilidad en slides activos */
+.splide__slide.is-active .text-container {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    transition: all 0.3s ease-in-out;
+}
+
+/* Contenedor de imagen */
+.splide__slide .image-container {
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+
+/* Ajuste de imágenes */
+.splide__slide img,
+.splide__slide .background {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Efecto hover */
+.splide__slide:hover .text-container {
+    background: linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.95) 0%,
+        rgba(0, 0, 0, 0.8) 50%,
+        rgba(0, 0, 0, 0.5) 100%
+    );
+}
+
+/* Animación suave para el texto */
+.splide__slide .text-container {
+    transition: all 0.3s ease-in-out;
+}
+
+/* Ajuste para textos muy largos */
+.splide__slide .text-container.overflow {
+    max-height: 50%;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Estilo para el scroll */
+.splide__slide .text-container::-webkit-scrollbar {
+    width: 4px;
+}
+
+.splide__slide .text-container::-webkit-scrollbar-track {
+    background: rgba(255,255,255,0.1);
+}
+
+.splide__slide .text-container::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.3);
+    border-radius: 2px;
+}
+
+/* Estructura del slide */
+.splide__slide {
+    display: flex;
+    flex-direction: column;
+    height: auto !important;
+}
+
+/* Ajustes para pantallas grandes */
+@media screen and (min-width: 992px) {
+    .splide__slide {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    .splide__slide .image-container {
+        height: 400px;
+    }
+
+    .splide__slide .text-container {
+        padding: 2.5rem;
+    }
+
+    .splide__slide .text-content {
+        font-size: 18px;
+    }
+}
+
+</```rewritten_file>

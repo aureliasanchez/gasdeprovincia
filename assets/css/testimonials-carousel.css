@@ -33,57 +33,6 @@
     line-height: 1.6;
 }
 
-/* Ajustes responsivos */
-@media (max-width: 768px) {
-    .testimonials-carousel {
-        padding: 1rem 0;
-    }
-
-    .testimonials-carousel .carousel-inner {
-        width: 95%;
-    }
-
-    .testimonials-carousel .fact-tile {
-        padding: 1.5rem;
-        margin: 0.5rem;
-    }
-
-    .testimonials-carousel .figure {
-        font-size: 1.1rem;
-        margin-bottom: 0.75rem;
-    }
-
-    .testimonials-carousel .description {
-        font-size: 0.9rem;
-        line-height: 1.5;
-    }
-
-    /* Ajustar altura mínima para móviles */
-    .testimonials-carousel .carousel-item {
-        min-height: 180px;
-    }
-}
-
-/* Ajustes para pantallas muy pequeñas */
-@media (max-width: 480px) {
-    .testimonials-carousel .fact-tile {
-        padding: 1rem;
-        margin: 0.25rem;
-    }
-
-    .testimonials-carousel .figure {
-        font-size: 1rem;
-    }
-
-    .testimonials-carousel .description {
-        font-size: 0.85rem;
-    }
-
-    .testimonials-carousel .carousel-item {
-        min-height: 160px;
-    }
-}
-
 .testimonials-carousel .carousel-control-prev,
 .testimonials-carousel .carousel-control-next {
     width: 40px;
@@ -92,23 +41,6 @@
     opacity: 1;
     top: 50%;
     transform: translateY(-50%);
-}
-
-/* Ajustar controles para móviles */
-@media (max-width: 768px) {
-    .testimonials-carousel .carousel-control-prev,
-    .testimonials-carousel .carousel-control-next {
-        width: 32px;
-        height: 32px;
-    }
-
-    .testimonials-carousel .carousel-control-prev {
-        left: -5px;
-    }
-
-    .testimonials-carousel .carousel-control-next {
-        right: -5px;
-    }
 }
 
 .testimonials-carousel .carousel-indicators {
@@ -120,17 +52,4 @@
     height: 10px;
     border-radius: 50%;
     margin: 0 5px;
-}
-
-/* Ajustar indicadores para móviles */
-@media (max-width: 768px) {
-    .testimonials-carousel .carousel-indicators {
-        bottom: -30px;
-    }
-
-    .testimonials-carousel .carousel-indicators button {
-        width: 8px;
-        height: 8px;
-        margin: 0 4px;
-    }
 } 

@@ -63,6 +63,9 @@
         })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
     </script>
     <!-- Fin Google Tag Manager -->
+
+    <link href="assets/css/testimonials-carousel.css" rel="stylesheet" />
+    <script src="assets/js/testimonials-carousel.js"></script>
 </head>
 
 
@@ -988,59 +991,56 @@
         </main>
     </div>
 
-    <div id="mod_d187c1f3" class="c11 container-fluid  column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
+    <div id="mod_d187c1f3" class="c11 container-fluid column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
         <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
             <div class="parent-text-container centered text-center r">
                 <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">Opiniones de Clientes Satisfechos</h3>
             </div>
-            <div class="c11-container">
 
-                <div class="tile fact-tile bg-dark-blue theme-text-white">
-                    <div class="fact-tile-inner text-center">
-
-                        <p class="figure colorAmarilloClaro font-gotham text-bold">
-                            Juan Pérez
-                        </p>
-                        <p class="description theme-text-color body-2">"El servicio de Gas de Provincia es excepcional. Siempre puntuales y con atención personalizada" </p>
+            <div id="testimonialCarousel" class="carousel slide d-flex justify-content-center align-items-center position-relative" data-bs-ride="carousel">
+                <div class="carousel-inner w-100">
+                    <div class="carousel-item active">
+                        <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
+                            <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
+                                <p class="figure colorAmarilloClaro font-gotham text-bold mb-3">
+                                    Juan Pérez
+                                </p>
+                                <p class="description theme-text-color body-2 m-0">
+                                    "Me gusta que Gas de Provincia siempre llega cuando los necesito y el personal es muy atento con las dudas que tengo"
+                                </p>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="tile fact-tile bg-dark-blue theme-text-white">
-                    <div class="fact-tile-inner text-center">
-
-                        <p class="figure colorAmarilloClaro font-gotham text-bold">
-                            María López
-                        </p>
-                        <p class="description theme-text-color body-2">"Confío plenamente en la seguridad y calidad del gas que nos suministran. Altamente recomendable."</p>
+                    
+                    <div class="carousel-item">
+                        <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
+                            <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
+                                <p class="figure colorAmarilloClaro font-gotham text-bold mb-3">
+                                    María López
+                                </p>
+                                <p class="description theme-text-color body-2 m-0">
+                                    "El servicio es confiable y el gas siempre llega en buenas condiciones. No he tenido problemas hasta ahora."
+                                </p>
+                            </div>
+                        </div>
                     </div>
-                </div>
-                <div class="tile fact-tile bg-dark-blue theme-text-white">
-                    <div class="fact-tile-inner text-center">
-
-                        <p class="figure colorAmarilloClaro font-gotham text-bold">
-                            Empresa 1
-                        </p>
-                        <p class="description theme-text-color body-2">
-                            "Soy la empresa 1."
-                        </p>
-
-                    </div>
-                </div>
-                <div class="tile fact-tile bg-dark-blue theme-text-white">
-                    <div class="fact-tile-inner text-center">
-
-                        <p class="figure colorAmarilloClaro font-gotham text-bold">
-                            Empresa 2
-                        </p>
-                        <p class="description theme-text-color body-2">
-                            "Soy la empresa 2."
-                        </p>
-
-                    </div>
+                    
+                    <!-- Más items del carrusel -->
                 </div>
 
-            </div>
+                <div class="carousel-indicators" style="bottom: -50px;">
+                    <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1" style="background-color: #003767;"></button>
+                    <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="1" aria-label="Slide 2" style="background-color: #003767;"></button>
+                </div>
 
-            <div class="modal-container">
+                <button class="carousel-control-prev d-none d-md-flex position-absolute top-50 translate-middle-y" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev" style="background: #003767; width: 40px; height: 40px; border-radius: 50%; left: 10px;">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Anterior</span>
+                </button>
+                <button class="carousel-control-next d-none d-md-flex position-absolute top-50 translate-middle-y" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="next" style="background: #003767; width: 40px; height: 40px; border-radius: 50%; right: 10px;">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Siguiente</span>
+                </button>
             </div>
         </div>
     </div>

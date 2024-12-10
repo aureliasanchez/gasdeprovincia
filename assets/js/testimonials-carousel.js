@@ -1,26 +1,87 @@
-(function($) {
-    'use strict';
+document.addEventListener('DOMContentLoaded', function() {
+    // Función para ajustar el contenido según la altura del texto
+    function adjustContentHeight() {
+        const slides = document.querySelectorAll('.c57 .splide__slide');
+        
+        slides.forEach(slide => {
+            const content = slide.querySelector('.content-container');
+            const opacityCover = slide.querySelector('.opacity-cover');
+            const contentHeight = content.scrollHeight;
+            
+            // El degradado será un poco más alto que el contenido
+            opacityCover.style.height = `${contentHeight + 40}px`;
 
-    // Inicialización del carrusel
-    function initTestimonialsCarousel() {
-        $('#testimonialCarousel').carousel({
-            interval: 5000,
-            keyboard: true,
-            pause: 'hover'
-        });
-
-        // Manejo de controles de accesibilidad
-        $('.carousel-control-prev, .carousel-control-next').on('keydown', function(e) {
-            if (e.which === 32) {
-                e.preventDefault();
-                $(this).click();
+            // Ajustar la posición del contenido si es necesario
+            if (contentHeight > slide.offsetHeight * 0.4) {
+                content.classList.add('adjust-up');
+            } else {
+                content.classList.remove('adjust-up');
             }
         });
     }
 
-    // Ejecutar cuando el documento esté listo
-    $(document).ready(function() {
-        initTestimonialsCarousel();
+    // Inicializar todos los carruseles c57
+    const carouselsC57 = document.querySelectorAll('.c57 .splide');
+    
+    carouselsC57.forEach(carousel => {
+        new Splide(carousel, {
+            type: 'slide',
+            perPage: 3,
+            perMove: 1,
+            gap: '20px',
+            pagination: true,
+            arrows: true,
+            autoplay: false,
+            breakpoints: {
+                992: {
+                    perPage: 2,
+                },
+                768: {
+                    perPage: 1,
+                }
+            }
+        }).mount();
     });
 
-})(jQuery); 
+    // Ajustar altura inicial
+    adjustContentHeight();
+
+    // Ajustar altura cuando cambie el tamaño de la ventana
+    window.addEventListener('resize', adjustContentHeight);
+
+    // Ajustar cuando el carrusel cambie de slide
+    carouselsC57.forEach(carousel => {
+        carousel.addEventListener('moved', adjustContentHeight);
+    });
+
+    // Funcionalidad de los botones de navegación
+    const prevButtons = document.querySelectorAll('.c57 .splide__arrow--prev');
+    const nextButtons = document.querySelectorAll('.c57 .splide__arrow--next');
+
+    prevButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            const carousel = this.closest('.splide').splide;
+            carousel.go('<');
+        });
+    });
+
+    nextButtons.forEach(button => {
+        button.addEventListener('click', function(e) {
+            e.preventDefault();
+            const carousel = this.closest('.splide').splide;
+            carousel.go('>');
+        });
+    });
+
+    // Prevenir comportamiento por defecto en los enlaces dentro del carrusel
+    const carouselLinks = document.querySelectorAll('.c57 .cta-link-parent');
+    carouselLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            if (this.getAttribute('href')) {
+                return true;
+            }
+            e.preventDefault();
+        });
+    });
+}); 

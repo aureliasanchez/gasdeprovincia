@@ -1,0 +1,49 @@
+.carousel-shared.alt-carousel .splide__track {
+    padding: 20px 0;
+}
+
+.carousel-shared.alt-carousel .articles {
+    width: 100%;
+}
+
+.carousel-shared.alt-carousel .splide-wrapper {
+    position: relative;
+}
+
+.carousel-shared.alt-carousel .opening-content {
+    text-align: left;
+    padding: 0 20px;
+}
+
+.carousel-shared.alt-carousel .cta-link-parent {
+    text-decoration: none;
+    color: inherit;
+}
+
+.carousel-shared.alt-carousel .cta-container {
+    margin-top: auto;
+}
+
+.carousel-shared.alt-carousel .cta-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.carousel-shared.alt-carousel .cta-glyphicon {
+    display: flex;
+    align-items: center;
+}
+
+.carousel-shared.alt-carousel .control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.carousel-shared.alt-carousel .splide__arrows {
+    display: flex;
+    gap: 10px;
+} 

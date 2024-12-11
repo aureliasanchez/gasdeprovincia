@@ -6,17 +6,15 @@ document.addEventListener('DOMContentLoaded', function() {
         slides.forEach(slide => {
             const content = slide.querySelector('.content-container');
             const opacityCover = slide.querySelector('.opacity-cover');
-            const contentHeight = content.scrollHeight;
             
-            // El degradado será un poco más alto que el contenido
-            opacityCover.style.height = `${contentHeight + 40}px`;
-
-            // Ajustar la posición del contenido si es necesario
-            if (contentHeight > slide.offsetHeight * 0.4) {
-                content.classList.add('adjust-up');
-            } else {
-                content.classList.remove('adjust-up');
-            }
+            // Asegurarnos que el contenido tenga su altura natural
+            content.style.height = 'auto';
+            
+            // Obtener la altura real del contenido
+            const contentHeight = content.getBoundingClientRect().height;
+            
+            // El degradado siempre cubre el contenido exactamente
+            opacityCover.style.height = `${contentHeight}px`;
         });
     }
 
@@ -49,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Ajustar altura cuando cambie el tamaño de la ventana
     window.addEventListener('resize', adjustContentHeight);
 
-    // Ajustar cuando el carrusel cambie de slide
+    // Ajustar altura cuando el carrusel cambie de slide
     carouselsC57.forEach(carousel => {
         carousel.addEventListener('moved', adjustContentHeight);
     });

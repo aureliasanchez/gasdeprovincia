@@ -6,59 +6,59 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 
 <head>
-    <meta charset="utf-8" />
-    <title>¿Qué es Gas LP? | Gas de Provincia</title>
+  <meta charset="utf-8" />
+  <title>¿Qué es Gas LP? | Gas de Provincia</title>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../assets/css/basec5ea.css" rel="stylesheet" />
-    <meta name="author" content="Gas de Provincia" />
-    <meta name="robots" content="index, follow" />
-    <meta name="language" content="es-mx" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="../assets/css/basec5ea.css" rel="stylesheet" />
+  <meta name="author" content="Gas de Provincia" />
+  <meta name="robots" content="index, follow" />
+  <meta name="language" content="es-mx" />
 
-    <!-- Descripción de la página -->
-    <meta name="description" content="Descubre qué es el gas LP, sus usos y beneficios para el hogar, la industria y el comercio. Gas de Provincia te ofrece la mejor calidad y seguridad." />
+  <!-- Descripción de la página -->
+  <meta name="description" content="Descubre qué es el gas LP, sus usos y beneficios para el hogar, la industria y el comercio. Gas de Provincia te ofrece la mejor calidad y seguridad." />
 
-    <!-- Open Graph para redes sociales -->
-    <meta property="og:title" content="¿Qué es Gas LP? | Gas de Provincia" />
-    <meta property="og:description" content="Descubre qué es el gas LP, sus usos y beneficios para el hogar, la industria y el comercio. Gas de Provincia te ofrece la mejor calidad y seguridad." />
-    <meta property="og:url" content="https://www.gasdeprovinciahidalgo.com.mx/que-es-gas-lp" />
-    <meta property="og:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
-    <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Gas de Provincia" />
+  <!-- Open Graph para redes sociales -->
+  <meta property="og:title" content="¿Qué es Gas LP? | Gas de Provincia" />
+  <meta property="og:description" content="Descubre qué es el gas LP, sus usos y beneficios para el hogar, la industria y el comercio. Gas de Provincia te ofrece la mejor calidad y seguridad." />
+  <meta property="og:url" content="https://www.gasdeprovinciahidalgo.com.mx/que-es-gas-lp" />
+  <meta property="og:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Gas de Provincia" />
 
-    <!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="¿Qué es Gas LP? | Gas de Provincia" />
-    <meta name="twitter:description" content="Descubre qué es el gas LP, sus usos y beneficios para el hogar, la industria y el comercio. Gas de Provincia te ofrece la mejor calidad y seguridad." />
-    <meta name="twitter:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="¿Qué es Gas LP? | Gas de Provincia" />
+  <meta name="twitter:description" content="Descubre qué es el gas LP, sus usos y beneficios para el hogar, la industria y el comercio. Gas de Provincia te ofrece la mejor calidad y seguridad." />
+  <meta name="twitter:image" content="assets/images/logotype/horizontal_azul2@8x.png" />
 
-    <!-- Favicon -->
-    <link rel="icon" href="assets/images/logotype/icon_1@8x.png" type="image/png">
+  <!-- Favicon -->
+  <link rel="icon" href="assets/images/logotype/icon_1@8x.png" type="image/png">
 
-    <!-- Estilos y Fuentes -->
-    <link href="../assets/css/base.css" rel="stylesheet" />
-    <link href="../assets/fonts/gotham/gotham.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/css/testimonials-carousel.css" rel="stylesheet" />
-    <script src="../assets/js/testimonials-carousel.js"></script>
+  <!-- Estilos y Fuentes -->
+  <link href="../assets/css/base.css" rel="stylesheet" />
+  <link href="../assets/fonts/gotham/gotham.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+  <link href="../assets/css/testimonials-carousel.css" rel="stylesheet" />
+  <script src="../assets/js/testimonials-carousel.js"></script>
 
-    <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
-    </script>
-    <!-- Fin Google Tag Manager -->
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
+  </script>
+  <!-- Fin Google Tag Manager -->
 </head>
 
 
@@ -87,10 +87,6 @@
     </div>
 
     <main role="main" id="main-content" tabindex="-1">
-
-
-
-
       <div class=" module-looper">
 
         <div id="mod_a7829895" class="r c74 video-common text-center background-color-dark-gray " data-cvx-first-module-no-adjustment="true" data-cvx-module-name="c74">
@@ -111,12 +107,14 @@
             <div class="background-container" style="background-position:center center"></div>
             <div class="parent-container">
               <div class="text-window-container background-color-white">
-                <h1 class="type-display text-elevated text-window width-1200 centered text-center">¿Qué es gas LP?</h1>
+                <h1 class="type-display text-elevated text-window width-1200 centered text-center">
+                  ¿Qué es gas LP?
+                </h1>
               </div>
               <div class="description-container background-color-white">
                 <div class="description type-body text-elevated width-600 centered text-center">
                   <h3>
-                    El gas LP (Gas Licuado de Petróleo) es una mezcla de hidrocarburos derivada del crudo. Es un recurso energético limpio y eficiente, ideal para una variedad de aplicaciones.
+                    El Gas Licuado del Petróleo (GLP) es una fuente de energía eficiente, limpia y versátil, proveniente de la refinación del petróleo y el gas natural. Es la opción preferida para hogares e industrias por su rendimiento y seguridad
                   </h3>
                 </div>
               </div>
@@ -133,7 +131,9 @@
 
                   <div class="opening-content">
                     <div>
-                      <h3 class="type-header text-base main-header color-dark-blue">Caracteristicas</h3>
+                      <h3 class="type-header text-base main-header color-dark-blue">
+                        Características
+                      </h3>
                     </div>
                   </div>
 
@@ -148,10 +148,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              NO TIENE COLOR
+                              Incoloro
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Es transparente como el aire.
+                              Totalmente transparente en estado líquido, como el agua
                             </h4>
                           </div>
                         </div>
@@ -164,10 +164,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              NO TIENE OLOR
+                              Inodoro
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Se le agrega un olor característico (similar a huevo podrido) para detectar fugas.
+                              Naturalmente no tiene olor, se le agrega etilmercaptano para detectar fugas
                             </h4>
                           </div>
                         </div>
@@ -180,10 +180,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              ES TÓXICO
+                              Inflamable
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              La inhalación prolongada puede ser perjudicial.
+                              Se enciende con facilidad, lo que lo hace muy eficiente
                             </h4>
                           </div>
                         </div>
@@ -196,10 +196,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              ES LIMPIO
+                              Frío
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              No contamina y, al usarse correctamente, no forma hollín ni afecta el sabor de los alimentos.
+                              Puede causar quemaduras al contacto directo con la piel
                             </h4>
                           </div>
                         </div>
@@ -212,10 +212,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              ES MÁS PESADO QUE EL AIRE
+                              No tóxico
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Se acumula en las partes bajas como sótanos.
+                              Cuando se quema correctamente, no es peligroso, pero su combustión incompleta puede generar monóxido de carbono
                             </h4>
                           </div>
                         </div>
@@ -228,10 +228,42 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              ES EXCESIVAMENTE FRÍO
+                              Limpio
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Puede causar quemaduras al contacto con la piel.
+                              Combustión sin hollín ni mal sabor, ideal para cocinar alimentos
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/frio.webp" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date white">
+                              Energía limpia
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                              Amigable con el medio ambiente, libre de azufre y plomo
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/frio.webp" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date white">
+                              Más pesado que el aire
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                              Se acumula en las partes bajas, como sótanos y alcantarillas, en caso de fuga
                             </h4>
                           </div>
                         </div>
@@ -289,10 +321,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              USO Y CONSUMO
+                              Eficiencia superior
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Ideal para instalaciones sin necesidad de modificaciones adicionales.
+                              Posee un poder calorífico más alto que muchos otros combustibles
                             </h4>
                           </div>
                         </div>
@@ -305,10 +337,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              ESTABILIDAD DE PRECIOS
+                              Poder calorífico
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Permite un mejor control de costos comparado con el gas natural.
+                              Un kilogramo de GLP genera más energía que gas natural, leña o carbón
                             </h4>
                           </div>
                         </div>
@@ -321,10 +353,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              MAYOR PODER CALORÍFICO
+                              Transformación eficiente
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Proporciona más calor con menor volumen que el gas natural.
+                              Un litro de gas líquido produce 273 litros de vapor, maximizando el uso
                             </h4>
                           </div>
                         </div>
@@ -337,10 +369,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              PRESIÓN CONSTANTE
+                              Limpio y seguro
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              No sufre cortes de suministro por mantenimientos generales.
+                              No emite humo negro y ayuda a mejorar la calidad del aire
                             </h4>
                           </div>
                         </div>
@@ -353,10 +385,42 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              ES MÁS PESADO QUE EL AIRE
+                              Versatilidad
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Se acumula en las partes bajas como sótanos.
+                              Utilizable en aplicaciones domésticas, industriales, agrícolas y automotrices
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/ventaja/pesado.webp" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date white">
+                              Accesibilidad
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                              Fácil de transportar sin necesidad de infraestructura costosa
+                            </h4>
+                          </div>
+                        </div>
+                      </a>
+                      <a class="splide__slide cta-link-parent">
+                        <div class="inner-slide-wrapper fondoAzulOscuro">
+                          <div class="opacity-cover"></div>
+                          <div class="image-container">
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/ventaja/pesado.webp" alt="" />
+                          </div>
+                          <div class="content-container text-left">
+                            <p class="type-body text-caption date white">
+                              Ahorro económico
+                            </p>
+                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                              Hasta un 40% más económico que la gasolina, brindando un ahorro significativo
                             </h4>
                           </div>
                         </div>
@@ -414,10 +478,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              DOMÉSTICO
+                              Doméstico
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Perfecto para cocinas, calentadores y otros aparatos del hogar.
+                              Perfecto para cocinas, calentadores y otros aparatos del hogar
                             </h4>
                           </div>
                         </div>
@@ -430,10 +494,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              INDUSTRIAL
+                              Industrial
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Esencial para procesos de manufactura y generación de calor.
+                              Esencial para procesos de manufactura y generación de calor
                             </h4>
                           </div>
                         </div>
@@ -446,10 +510,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              COMERCIAL
+                              Comercial
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Utilizado en restaurantes, hoteles y comercios.
+                              Utilizado en restaurantes, hoteles y comercios
                             </h4>
                           </div>
                         </div>
@@ -462,10 +526,10 @@
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
-                              CARBURACIÓN AUTOMOTRIZ
+                              Carburación automotriz
                             </p>
                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                              Alternativa de combustible para vehículos.
+                              Alternativa de combustible para vehículos
                             </h4>
                           </div>
                         </div>
@@ -500,7 +564,6 @@
         </div>
 
       </div>
-
     </main>
 
     <?php

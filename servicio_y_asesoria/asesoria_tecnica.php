@@ -103,10 +103,12 @@
                         <div class="box-container">
                             <div class="background-container" style="background-image: url('../assets/images/pages/servicio/asesoria/portada/1.webp')"></div>
                             <div class="content-container bg-white width-800">
-                                <h1 class="headline color-dark-blue">Asesoría técnica</h1>
+                                <h1 class="headline color-dark-blue">
+                                    Asesoría Técnica Especializada
+                                </h1>
                                 <h3 class="text-center">
                                     <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
-                                        En <span class="color-medium-yellow">Gas</span> de <span class="color-medium-yellow">Provincia S.A.</span> de <span class="color-medium-yellow">C.V.</span>, somos líderes en la venta y distribución de <span class="color-medium-yellow">Gas L.P.</span>, comprometidos con la seguridad y satisfacción de nuestros clientes desde 2005 en <span class="color-medium-yellow">Hidalgo</span>, y con una historia que se remonta a 1947 en <span class="color-medium-yellow">Toluca</span> y <span class="color-medium-yellow">Atlacomulco</span>. Nos destacamos por nuestra calidad, servicio y honestidad, atendiendo tanto a hogares como a industrias y comercios.
+                                        Soluciones seguras y eficientes para hogares y empresas
                                     </span>
                                 </h3>
                             </div>
@@ -114,119 +116,126 @@
                     </div>
                 </div>
 
-                <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                <div name="servicios_ofrecidos">
 
-                    <h2 class="headline color-dark-blue">Servicios Ofrecidos</h2>
-
-                    <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
-                        <div class="c11b-container">
-
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/asesoria/servicios/1.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Servicio técnico a hogares
-                                        </h3>
-                                        <div class="description type-body text-reduced centered">
-                                            Brindamos asistencia técnica especializada para garantizar que las instalaciones domésticas sean seguras y operen de manera eficiente.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/asesoria/servicios/2.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Servicio técnico a empresas
-                                        </h3>
-                                        <div class="description type-body text-reduced centered">
-                                            Ofrecemos soluciones técnicas personalizadas para empresas, asegurando el cumplimiento de las normativas y la seguridad en sus instalaciones.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/asesoria/servicios/3.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Presupuestos
-                                        </h3>
-                                        <div class="description type-body text-reduced centered">
-                                            Elaboramos presupuestos detallados y claros para todos nuestros servicios, adaptados a las necesidades específicas de cada cliente.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/asesoria/servicios/4.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Mantenimiento preventivo y correctivo
-                                        </h3>
-                                        <div class="description type-body text-reduced centered">
-                                            Implementamos programas de mantenimiento que aseguran el correcto funcionamiento de las instalaciones, previniendo posibles fallos y corrigiendo problemas existentes.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/asesoria/servicios/5.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Diseño de proyectos
-                                        </h3>
-                                        <div class="description type-body text-reduced centered">
-                                            Desarrollamos proyectos de instalación y adecuación de sistemas de gas LP, adaptados a las especificaciones técnicas y de seguridad.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/asesoria/servicios/6.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Instalaciones
-                                        </h3>
-                                        <div class="description type-body text-reduced centered">
-                                            Realizamos nuevas instalaciones y adaptaciones de sistemas de gas LP, cumpliendo con los estándares de seguridad y eficiencia.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/asesoria/servicios/7.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Dictámenes
-                                        </h3>
-                                        <div class="description type-body text-reduced centered">
-                                            Llevamos a cabo revisiones exhaustivas para evaluar las condiciones de las instalaciones de gas LP. Determinamos si requieren mantenimiento o correcciones para cumplir con las Normas Oficiales y garantizar la seguridad. Emitimos documentos oficiales que acreditan la seguridad de las instalaciones tras una verificación exhaustiva.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
+                    <div class="bg-offwhite">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Servicios Ofrecidos
+                            </h1>
                         </div>
                     </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Asistencia para Hogares
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Garantizamos instalaciones domésticas seguras y eficientes con nuestro soporte técnico especializado
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Soporte para Empresas
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Ofrecemos soluciones personalizadas que cumplen con todas las normativas de seguridad
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Presupuestos Claros
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Presupuestos detallados y adaptados a tus necesidades específicas
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Mantenimiento Integral
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Programas preventivos y correctivos para asegurar un funcionamiento óptimo de las instalaciones
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Diseño de Proyectos
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Desarrollamos proyectos a medida con los más altos estándares de seguridad y eficiencia
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Instalaciones Seguras
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Realizamos instalaciones nuevas y adaptaciones que cumplen con todas las normas oficiales
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Dictámenes y Verificaciones
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Evaluamos y certificamos la seguridad de las instalaciones, emitiendo documentos oficiales tras inspecciones detalladas
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
-
-
         </main>
 
         <?php

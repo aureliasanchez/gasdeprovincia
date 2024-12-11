@@ -47,3 +47,9 @@
 .fondoAmarilloOscuro {
     background-color: #7d5d15;
 }
+
+.margin-0_Padding {
+    margin: 0 !important;
+    padding-top: 5% !important;
+    padding-bottom: 5% !important;
+}

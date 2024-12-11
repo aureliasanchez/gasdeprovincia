@@ -106,7 +106,7 @@
                                 <p class="text-center">
                                 <h3>
                                     <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
-                                        Para mantener la <span class="color-medium-yellow">seguridad</span> y el <span class="color-medium-yellow">buen funcionamiento</span> de las instalaciones de <span class="color-medium-yellow">gas LP</span>, es fundamental seguir las siguientes recomendaciones.
+                                        Para mantener la seguridad y el buen funcionamiento de las instalaciones de gas LP, es fundamental seguir las siguientes recomendaciones.
                                     </span>
                                 </h3>
                                 </p>
@@ -115,102 +115,249 @@
                     </div>
                 </div>
 
+                <div name="instalacion_y_distancias_seguras">
 
-                <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
-                    <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
-                        <div class="c11b-container">
-
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Evitar colocar tanques estacionarios en <span class="color-dark-yellow">escaleras</span> para prevenir accidentes.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/2.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Proteger los tanques contra <span class="color-dark-yellow">animales</span> y mantenerlos alejados de instalaciones eléctricas.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/3.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            No utilizar recámaras y espacios no ventilados para cocinar, para prevenir <span class="color-dark-yellow">acumulaciones</span> peligrosas de gas.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/4.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Mantener los alrededores de los tanques libres de <span class="color-dark-yellow">basura</span> y <span class="color-dark-yellow">enseres domésticos</span> que puedan obstruir el acceso o generar riesgos.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/5.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Colocar los <span class="color-dark-yellow">cilindros</span> y las <span class="color-dark-yellow">instalaciones</span> en azoteas o áreas elevadas, siempre que sea posible.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/6.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Asegurarse de que los tanques estén sobre un <span class="color-dark-yellow">piso nivelado</span> y <span class="color-dark-yellow">protegido</span> por muros de material incombustible.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/7.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Instalar los cilindros a una distancia mínima de <span class="color-dark-yellow">3 metros</span> de cualquier fuente de <span class="color-dark-yellow">flama</span> o <span class="color-dark-yellow">chispa</span>, y en lugares ventilados o al aire libre.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/recomendaciones/_02_Conjunto/8.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Mantener el área alrededor de los tanques <span class="color-dark-yellow">limpia</span> y <span class="color-dark-yellow">alejada</span> de materiales combustibles para evitar riesgos de incendio.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-
+                    <div class="bg-offwhite">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Instalación y Distancias Seguras
+                            </h1>
                         </div>
                     </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Áreas Elevadas Preferibles
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Siempre que sea posible, coloca los cilindros en azoteas o lugares elevados
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Piso Nivelado y Protegido
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Asegúrate de que los tanques estén sobre un suelo nivelado y protegidos por muros de material incombustible
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Distancia Mínima
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Instala los cilindros a al menos 3 metros de cualquier fuente de flama o chispa, y asegúrate de que estén en lugares bien ventilados
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div name="uso_de_reguladores_y_mangueras">
+
+                    <div class="bg-white">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Uso de Reguladores y Mangueras
+                            </h1>
+                        </div>
+                    </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-white column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Reguladores Adecuados
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Utiliza reguladores diseñados específicamente para gas LP y revisa su buen estado regularmente
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Mangueras Correctas
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Emplea mangueras certificadas para gas LP, ya que las mangueras comunes pueden deteriorarse rápidamente. Verifica que no presenten grietas o daños
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div name="informacion_sobre_consumo_y_medidas">
+
+                    <div class="bg-offwhite">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Información sobre Consumo y Medidas
+                            </h1>
+                        </div>
+                    </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Diferencias entre Kilogramos y Litros
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Entiende la conversión correcta para solicitar la cantidad exacta de gas que necesitas. 1 kg de gas propano equivale aproximadamente a 1,24 m³ de gas natural
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Toma de Llenado en Casa
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                El proceso de llenado debe hacerse con precaución. Asegúrate de estar presente y revisa que el tanque no se llene más allá del 80% de su capacidad
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div name="cuidado_y_mantenimiento_de_tanques">
+
+                    <div class="bg-white">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Cuidado y Mantenimiento de Tanques
+                            </h1>
+                        </div>
+                    </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-white column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Cuidado de Cilindros
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Protege tus cilindros de caídas y daños físicos. Si el tanque tiene más de 10 años, pide una inspección profesional
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Área Despejada y Segura
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Mantén el área alrededor de los tanques limpia y libre de materiales combustibles para prevenir incendios
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div name="conciencia_y_seguros">
+
+                    <div class="bg-offwhite">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Conciencia y Seguros
+                            </h1>
+                        </div>
+                    </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Póliza de Seguro
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Para tu protección, adquiere una póliza de seguro. Para que sea válida, realiza el registro llamando a nuestra planta y conserva la nota de compra. Esta póliza protege tu vida y bienes en caso de un accidente.
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>

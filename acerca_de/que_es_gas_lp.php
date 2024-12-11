@@ -37,12 +37,9 @@
 
     <!-- Estilos y Fuentes -->
     <link href="../assets/css/base.css" rel="stylesheet" />
-    <link href="../assets/fonts/gotham/gothamnarrowbook_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gotham/gothamnarrowbold_normal_condensed.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gotham/gothambold_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gotham/gothamblack_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/fonts/gotham/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-    <link href="../assets/css/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
+    <link href="../assets/fonts/gotham/gotham.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
+    <link href="../assets/css/testimonials-carousel.css" rel="stylesheet" />
+    <script src="../assets/js/testimonials-carousel.js"></script>
 
     <!-- Google Tag Manager -->
     <script>

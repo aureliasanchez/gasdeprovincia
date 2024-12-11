@@ -89,6 +89,13 @@
 .carousel-shared.c57 .cta-glyphicon {
     display: flex;
     align-items: center;
+    line-height: 1;
+}
+
+.carousel-shared.c57 .cta-underline {
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
 }
 
 .carousel-shared.c57 .control {
@@ -139,18 +146,27 @@
     z-index: 2;
     background: linear-gradient(
         to bottom,
-        rgba(0, 0, 0, 0.9) 0%,
-        rgba(0, 0, 0, 0.85) 100%
+        rgba(0, 115, 135, 0.9) 0%,
+        rgba(0, 115, 135, 0.85) 100%
     );
     transition: background 0.3s ease;
 }
 
+/* Para slides activos/seleccionados */
+.carousel-shared.c57 .splide__slide.is-active .content-container {
+    background: linear-gradient(
+        to bottom,
+        rgba(1, 36, 72, 0.95) 0%,
+        rgba(1, 36, 72, 0.8) 100%
+    );
+}
+
+/* Mantener el hover para interactividad */
 .carousel-shared.c57 .inner-slide-wrapper:hover .content-container {
     background: linear-gradient(
-        to top,
-        rgba(0, 0, 0, 0.95) 0%,
-        rgba(0, 0, 0, 0.8) 50%,
-        rgba(0, 0, 0, 0.5) 100%
+        to bottom,
+        rgba(1, 36, 72, 0.95) 0%,
+        rgba(1, 36, 72, 0.8) 100%
     );
 }
 

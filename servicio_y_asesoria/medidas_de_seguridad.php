@@ -102,11 +102,13 @@
                         <div class="box-container">
                             <div class="background-container" style="background-image: url('../assets/images/pages/servicio/seguridad/_01_Conjunto/1.webp')"></div>
                             <div class="content-container bg-white width-800">
-                                <h1 class="headline color-dark-blue">Medidas de Seguridad</h1>
+                                <h1 class="headline color-dark-blue">
+                                    Tu Seguridad es lo Primero
+                                </h1>
                                 <p class="text-center">
                                 <h3>
                                     <span class="ui-provider ec byk brc byl bym byn byo byp byq byr bys byt byu byv byw byx byy byz bza bzb bzc bzd bze bzf bzg bzh bzi bzj bzk bzl bzm bzn bzo bzp bzq" dir="ltr">
-                                        <span class="color-medium-yellow">Adoptar</span> y <span class="color-medium-yellow">mantener</span> estrictas medidas de seguridad es esencial para prevenir accidentes y garantizar el bienestar de nuestros clientes y sus instalaciones.
+                                        Sigue estas recomendaciones para un uso seguro del Gas LP
                                     </span>
                                 </h3>
                                 </p>
@@ -115,96 +117,287 @@
                     </div>
                 </div>
 
+                <div name="reglas_de_seguridad_esenciales">
 
-                <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
-                    <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
-                        <div class="c11b-container">
-
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Mantén los cilindros retirados de cualquier instalación eléctrica para prevenir <span class="color-dark-yellow">cortocircuitos</span> y posibles explosiones.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/2.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Protege los cilindros de cualquier posible daño causado por <span class="color-dark-yellow">animales</span>.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/3.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Coloca los cilindros sobre un suelo nivelado y que ofrezca <span class="color-dark-yellow">protección</span> contra movimientos bruscos.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/4.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Mantén los cilindros alejados de objetos o materiales <span class="color-dark-yellow">inflamables</span> que puedan generar riesgos de incendio.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/5.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Siempre que sea posible, instala los cilindros en <span class="color-dark-yellow">azoteas</span> para evitar la acumulación de gas en espacios cerrados.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/6.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            Asegúrate de que los cilindros estén situados al menos a 3 metros de cualquier fuente de <span class="color-dark-yellow">chispa</span> o <span class="color-dark-yellow">flama</span>.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="c11-1 r tile item background-color-">
-                                <div class="icon-tile-inner text-center">
-                                    <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/7.webp" class="img-fluid centered icon-grid-image" alt="" />
-
-                                    <div class="content-container">
-                                        <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
-                                            No utilices recámaras ni espacios sin ventilación adecuada para cocinar, para evitar la acumulación de <span class="color-dark-yellow">gases tóxicos</span>.
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-
+                    <div class="bg-offwhite">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Reglas de Seguridad Esenciales
+                            </h1>
                         </div>
                     </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Encender de Forma Segura
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Enciende primero el piloto o fósforo antes de girar la perilla para liberar el gas
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Válvula Cerrada
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Asegúrate de que la válvula esté siempre cerrada al conectar o desconectar el cilindro. Reporta cualquier daño a tu distribuidor de inmediato
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Evita Manipular las Válvulas
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Nunca insertes objetos en la válvula ni uses fuego para detectar fugas
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Inspección Regular
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Revisa periódicamente tanques y cilindros para asegurarte de su buen estado
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div name="mantenimiento_y_cuidados">
+
+                    <div class="bg-white">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Mantenimiento y Cuidados
+                            </h1>
+                        </div>
+                    </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-white column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Protege y Previene Daños
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                No dejes caer ni maltratar los cilindros. Evita que sean expuestos a animales o situaciones que puedan dañarlos
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Mangueras Adecuadas
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Utiliza siempre mangueras y equipos diseñados específicamente para el Gas LP, ya que este deteriora materiales comunes como el caucho
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Ubicación Segura
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Sitúa los cilindros en áreas ventiladas, libres de obstáculos, y sobre superficies niveladas
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div name="instalacion_de_tanques_y_cilindros">
+
+                    <div class="bg-offwhite">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                Instalación de Tanques y Cilindros
+                            </h1>
+                        </div>
+                    </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-offwhite column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Alejados de Riesgos
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Instala los cilindros lejos de fuentes eléctricas, chispas y materiales inflamables. Mantén al menos 3 metros de distancia de cualquier flama
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Lugares Altos Preferibles
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Siempre que sea posible, coloca los cilindros en azoteas para prevenir la acumulación de gas en espacios cerrados
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Espacio Adecuado
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Si tienes más de un cilindro, mantenlos separados por al menos 60 cm. Los tanques estacionarios deben estar a 1.5 metros de distancia entre sí
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div name="en_caso_de_emergencia">
+
+                    <div class="bg-white">
+                        <div class="centered">
+                            <h1 class="color-dark-blue margin-0_Padding">
+                                En Caso de Emergencia
+                            </h1>
+                        </div>
+                    </div>
+
+                    <div id="mod_2b2c4387" class="r c11b container-fluid background-color-white column-count-xs-1 column-count-md-3 " data-cvx-module-name="c11b">
+                        <div class="inner-container centered width-1200" style="margin-top:0px;margin-bottom:0px;">
+                            <div class="c11b-container">
+
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Detecta Fugas de Forma Segura
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Usa agua con jabón en tuberías y válvulas para verificar si hay fugas
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Ventila Inmediatamente
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Si detectas una fuga, ventila el área y evita encender o apagar aparatos eléctricos
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Llama a un Especialista
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Si las válvulas o conexiones están dañadas, no intentes repararlas tú mismo. Pide ayuda a un profesional
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="c11-1 r tile item background-color-">
+                                    <div class="icon-tile-inner text-center">
+                                        <img src="../assets/images/pages/servicio/seguridad/_02_Conjunto/1.webp" class="img-fluid centered icon-grid-image" alt="" />
+
+                                        <div class="content-container">
+                                            <h2 class="sub-header colorAmarilloOscuro type-eyebrow">
+                                                Incendios Pequeños
+                                            </h2>
+                                            <h3 class="sub-header color-light-blue type-eyebrow text-reduced">
+                                                Usa extintores solo si es seguro. Si el fuego se expande, evacua y espera instrucciones de las autoridades
+                                            </h3>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
-
-
         </main>
 
         <?php

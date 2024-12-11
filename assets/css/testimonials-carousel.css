@@ -1,0 +1,187 @@
+/* Estilos específicos para el carrusel de testimonios */
+.testimonials-carousel {
+    padding: 2rem 0;
+}
+
+.testimonials-carousel .carousel-inner {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.testimonials-carousel .carousel-item {
+    min-height: 200px;
+}
+
+.testimonials-carousel .fact-tile {
+    border-radius: 8px;
+    padding: 2rem;
+    margin: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.testimonials-carousel .fact-tile-inner {
+    height: 100%;
+}
+
+.testimonials-carousel .figure {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.testimonials-carousel .description {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.testimonials-carousel .carousel-control-prev,
+.testimonials-carousel .carousel-control-next {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    opacity: 1;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.testimonials-carousel .carousel-indicators {
+    bottom: -40px;
+}
+
+.testimonials-carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 0 5px;
+}
+
+.carousel-shared.c57 .splide__track {
+    padding: 20px 0;
+}
+
+.carousel-shared.c57 .articles {
+    width: 100%;
+}
+
+.carousel-shared.c57 .splide-wrapper {
+    position: relative;
+}
+
+.carousel-shared.c57 .opening-content {
+    text-align: left;
+    padding: 0 20px;
+}
+
+.carousel-shared.c57 .cta-link-parent {
+    text-decoration: none;
+    color: inherit;
+}
+
+.carousel-shared.c57 .cta-container {
+    margin-top: auto;
+    display: flex;
+    align-items: baseline;
+}
+
+.carousel-shared.c57 .cta-link {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 8px;
+}
+
+.carousel-shared.c57 .cta-glyphicon {
+    display: inline-flex;
+    align-items: baseline;
+    position: relative;
+    top: 3px;
+}
+
+.carousel-shared.c57 .cta-underline {
+    display: inline-flex;
+    align-items: center;
+}
+
+.carousel-shared.c57 .control {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.carousel-shared.c57 .splide__arrows {
+    display: flex;
+    gap: 10px;
+}
+
+.carousel-shared.c57 .inner-slide-wrapper {
+    position: relative;
+    height: 400px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.carousel-shared.c57 .image-container {
+    height: 100%;
+}
+
+.carousel-shared.c57 .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-shared.c57 .opacity-cover {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 40%, rgba(0,0,0,0.9) 100%);
+}
+
+.carousel-shared.c57 .content-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px;
+    color: white;
+    z-index: 2;
+    background: linear-gradient(
+        to bottom,
+        rgba(0, 115, 135, 0.9) 0%,
+        rgba(0, 115, 135, 0.85) 100%
+    );
+    transition: background 0.3s ease;
+}
+
+/* Para slides activos/seleccionados */
+.carousel-shared.c57 .splide__slide.is-active .content-container {
+    background: linear-gradient(
+        to bottom,
+        rgba(1, 36, 72, 0.95) 0%,
+        rgba(1, 36, 72, 0.8) 100%
+    );
+}
+
+/* Mantener el hover para interactividad */
+.carousel-shared.c57 .inner-slide-wrapper:hover .content-container {
+    background: linear-gradient(
+        to bottom,
+        rgba(1, 36, 72, 0.95) 0%,
+        rgba(1, 36, 72, 0.8) 100%
+    );
+}
+
+/* Ajuste para móviles */
+@media (max-width: 768px) {
+    .carousel-shared.c57 .opacity-cover.extend-up {
+        height: 80%;
+    }
+}
+
+/* Asegurar que el párrafo no añada márgenes extra */
+.carousel-shared.c57 .cta-container p {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}

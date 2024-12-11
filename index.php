@@ -63,6 +63,9 @@
         })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
     </script>
     <!-- Fin Google Tag Manager -->
+
+    <link href="assets/css/testimonials-carousel.css" rel="stylesheet" />
+    <script src="assets/js/testimonials-carousel.js"></script>
 </head>
 
 
@@ -175,6 +178,7 @@
                             </div>
                             <div class="content-container background-color-gradient">
                                 <ul class="content-list">
+
                                     <li class="list-item active">
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
@@ -186,7 +190,7 @@
                                                         Brindando servicio de calidad y seguridad desde 2005
                                                     </h3>
                                                 </div>
-                                                <a href="https://wa.me/7717112599" class="cta-link type-cta text-base" target="_blank"> <span class="cta-glyphicon">
+                                                <a href="https://wa.me/7717112599" target="_blank" class="cta-link type-cta text-base"> <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
                                                     </span>
                                                     <span class="cta-underline">
@@ -209,7 +213,7 @@
                                                         Instalaciones y servicios que cumplen con las normativas oficiales para garantizar tu tranquilidad
                                                     </h3>
                                                 </div>
-                                                <a href="./servicio_y_asesoria/medidas_de_seguridad.php" class="cta-link type-cta text-base" target="_self"> <span class="cta-glyphicon">
+                                                <a href="./servicio_y_asesoria/medidas_de_seguridad.php" target="_self" class="cta-link type-cta text-base"> <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
                                                     </span>
                                                     <span class="cta-underline">
@@ -223,14 +227,15 @@
                                         <div class="text-container text-center width-1000 background-color-dark-blue color-opacity-50">
                                             <div class="text-container-inner centered">
                                                 <h2 class="heading type-header text-elevated color-dark-blue">
-                                                    <span class="colorAmarilloClaro">Atención </span> a tu medida
+                                                    <span class="colorAmarilloClaro">Atención</span>
+                                                    a tu medida
                                                 </h2>
                                                 <div class="description centered type-body text-reduced width-600">
                                                     <h3>
                                                         Servicios diseñados para satisfacer las necesidades específicas de hogares e industrias
                                                     </h3>
                                                 </div>
-                                                <a href="./soporte/contacto.php" class="cta-link type-cta text-base" target="_self"> <span class="cta-glyphicon">
+                                                <a href="./soporte/contacto.php" target="_self" class="cta-link type-cta text-base"> <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
                                                     </span>
                                                     <span class="cta-underline">
@@ -244,7 +249,8 @@
                                         <div class="text-container text-center width-1000 background-color-dark-purple color-opacity-50">
                                             <div class="text-container-inner centered">
                                                 <h2 class="heading type-header text-elevated color-dark-blue">
-                                                    <span class="colorAmarilloClaro">Innovación</span> para tu comodidad
+                                                    <span class="colorAmarilloClaro">Innovación</span>
+                                                    para tu comodidad
                                                 </h2>
                                                 <div class="description centered type-body text-reduced width-600">
                                                     <h3>
@@ -258,7 +264,8 @@
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
                                                 <h2 class="heading type-header text-elevated color-dark-blue">
-                                                    <span class="colorAmarilloClaro">Cuidamos</span> el medio ambiente
+                                                    <span class="colorAmarilloClaro">Cuidamos</span>
+                                                    el medio ambiente
                                                 </h2>
                                                 <div class="description centered type-body text-reduced width-600">
                                                     <h3>
@@ -268,6 +275,7 @@
                                             </div>
                                         </div>
                                     </li>
+
                                 </ul>
                             </div>
                             <div class="control">
@@ -585,7 +593,7 @@
                             Soluciones de Gas LP para Todos
                         </h1>
                         <h3 class="headline color-dark-blue">
-                            Servicios diseñados para hogares, empresas e industrias con la máxima seguridad y eficiencia.
+                            Servicios diseñados para hogares, empresas e industrias con la máxima seguridad y eficiencia
                         </h3>
                     </div>
 
@@ -613,12 +621,12 @@
                                                 </div>
                                                 <div class="description body-2 color-dark-yellow d-print-none">
                                                     <h3>
-                                                        <ul class="listClear">
-                                                            <li>Asesoría técnica.</li>
-                                                            <li>Elaboración de proyectos.</li>
-                                                            <li>Tratamiento de dictámenes.</li>
-                                                            <li>Ultrasonidos a tanques estacionarios.</li>
-                                                            <li>Programa de pedidos.</li>
+                                                        <ul class="lisNotSimbolo">
+                                                            <li>Asesoría técnica</li>
+                                                            <li>Elaboración de proyectos</li>
+                                                            <li>Tratamiento de dictámenes</li>
+                                                            <li>Ultrasonidos a tanques estacionarios</li>
+                                                            <li>Programa de pedidos</li>
                                                         </ul>
                                                     </h3>
                                                 </div>
@@ -647,14 +655,13 @@
                                                 </div>
                                                 <div class="description body-2 color-dark-yellow d-print-none">
                                                     <h3>
-                                                        <ul class="listClear">
-                                                            <li>Pedidos.</li>
-                                                            <li>Mantenimiento.</li>
-                                                            <li>Instalaciones.</li>
-                                                            <li>Venta de tanques estacionarios.</li>
-                                                            <li>Suministro.</li>
-                                                            <li>Venta al público de Gas L.P.</li>
-                                                        </ul>
+                                                        <ul class="lisNotSimbolo">
+                                                            <li>Pedidos</li>
+                                                            <li>Mantenimiento</li>
+                                                            <li>Instalaciones</li>
+                                                            <li>Venta de tanques estacionarios</li>
+                                                            <li>Suministro</li>
+                                                            <li>Venta al público de Gas L.P</li>
                                                         </ul>
                                                     </h3>
                                                 </div>
@@ -947,6 +954,7 @@
 
             <div id="mod_215c5be0" class="r c73 container-fluid background-color-offwhite " data-cvx-module-name="c73">
                 <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
+
                     <div class="heading-container">
                         <h2 class="heading type-display text-elevated color-dark-blue width-1000 centered">
                             Certificación y Calidad Garantizadas
@@ -958,29 +966,27 @@
                             <div class="image-container centered">
                                 <img src="./assets/images/pages/index/_06_Conjunto/1.webp" class="img-fluid" alt="" />
                             </div>
-                            <div class="text-container">
+                            <div class="text-container textoCentrado">
                                 <h3 class="sub-heading text-left type-display text-reduced color-light-yellow text-super color-important">
                                     Norma NOM 016
                                 </h3>
                                 <h4>
                                     <div class="description type-body text-base white">
-                                        Mayor calidad, mayor rendimiento: una carga de nuestro gas rinde más, optimizando tus recursos y cuidando tu economía.
+                                        Mayor calidad, mayor rendimiento: una carga de nuestro gas rinde más, optimizando tus recursos y cuidando tu economía
                                     </div>
                                 </h4>
                             </div>
-
                         </div>
 
                     </div>
 
                 </div>
-
             </div>
 
         </main>
     </div>
 
-    <div id="mod_d187c1f3" class="c11 container-fluid  column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
+    <div id="mod_d187c1f3" class="c11 container-fluid column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
         <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
             <div class="parent-text-container centered text-center r">
                 <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">
@@ -997,7 +1003,7 @@
                                     Juan Pérez
                                 </p>
                                 <p class="description theme-text-color body-2 m-0">
-                                    "Me gusta que Gas de Provincia siempre llega cuando los necesito y el personal es muy atento con las dudas que tengo"
+                                    "Gas de Provincia cumple con los tiempos de entrega y su personal resuelve mis dudas de manera clara y directa"
                                 </p>
                             </div>
                         </div>
@@ -1010,36 +1016,18 @@
                                     María López
                                 </p>
                                 <p class="description theme-text-color body-2 m-0">
-                                    "El servicio es confiable y el gas siempre llega en buenas condiciones. No he tenido problemas hasta ahora."
+                                    "La verdad es que el servicio es muy puntual y el gas siempre llega como debe ser. Hasta el momento todo ha funcionado bien."
                                 </p>
                             </div>
                         </div>
                     </div>
 
-                    <div class="carousel-item">
-                        <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
-                            <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
-                                <p class="figure colorAmarilloClaro font-gotham text-bold mb-3">Empresa 1</p>
-                                <p class="description theme-text-color body-2 m-0">"Soy la empresa 1."</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="carousel-item">
-                        <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
-                            <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
-                                <p class="figure colorAmarilloClaro font-gotham text-bold mb-3">Empresa 2</p>
-                                <p class="description theme-text-color body-2 m-0">"Soy la empresa 2."</p>
-                            </div>
-                        </div>
-                    </div>
+                    <!-- Más items del carrusel -->
                 </div>
 
                 <div class="carousel-indicators" style="bottom: -50px;">
                     <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1" style="background-color: #003767;"></button>
                     <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="1" aria-label="Slide 2" style="background-color: #003767;"></button>
-                    <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="2" aria-label="Slide 3" style="background-color: #003767;"></button>
-                    <button type="button" data-bs-target="#testimonialCarousel" data-bs-slide-to="3" aria-label="Slide 4" style="background-color: #003767;"></button>
                 </div>
 
                 <button class="carousel-control-prev d-none d-md-flex position-absolute top-50 translate-middle-y" type="button" data-bs-target="#testimonialCarousel" data-bs-slide="prev" style="background: #003767; width: 40px; height: 40px; border-radius: 50%; left: 10px;">
@@ -1050,9 +1038,6 @@
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Siguiente</span>
                 </button>
-            </div>
-
-            <div class="modal-container">
             </div>
         </div>
     </div>
@@ -1089,7 +1074,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1113,7 +1098,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1137,7 +1122,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1161,7 +1146,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1185,7 +1170,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1212,7 +1197,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>

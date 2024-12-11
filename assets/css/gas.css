@@ -13,3 +13,47 @@
     margin-bottom: 0px;
     padding: 0;
 }
+
+.paddingTop {
+    padding-top: 5%;
+}
+
+@media (min-width: 992px) {
+    .x01 .text-container {
+        padding: 5% 5% 5%;
+    }
+}
+
+.x01 .text-container {
+    padding: 5% 5% 5%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.textoCentrado {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lisNotSimbolo {
+    list-style-type: none;
+    /* Elimina los símbolos */
+    padding: 0;
+    /* Elimina el espacio de padding */
+    margin: 0;
+    /* Elimina el espacio de margen */
+}
+
+@media screen and (min-width: 992px) {
+ 
+    .c73 .content-container {
+        padding: 0 120px 150px;
+        border-radius: 16px 16px 0px 0px;
+    }
+}

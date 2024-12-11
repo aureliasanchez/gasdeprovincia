@@ -8,7 +8,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Gas de Provincia - Distribución y Comercialización de Gas LP</title>
-    
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../assets/css/basec5ea.css" rel="stylesheet" />
     <meta name="author" content="Gas de Provincia" />
@@ -178,6 +178,7 @@
                             </div>
                             <div class="content-container background-color-gradient">
                                 <ul class="content-list">
+
                                     <li class="list-item active">
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
@@ -189,6 +190,13 @@
                                                         Brindando servicio de calidad y seguridad desde 2005
                                                     </h3>
                                                 </div>
+                                                <a href="https://wa.me/7717112599" target="_blank" class="cta-link type-cta text-base"> <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">
+                                                        Solicita tu servicio ahora
+                                                    </span>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
@@ -196,13 +204,22 @@
                                         <div class="text-container text-center width-1000 background-color-dark-blue color-opacity-50">
                                             <div class="text-container-inner centered">
                                                 <h2 class="heading type-header text-elevated color-dark-blue">
-                                                    <span class="colorAmarilloClaro">Seguridad</span> Garantizada
+                                                    Tu
+                                                    <span class="colorAmarilloClaro">seguridad</span>
+                                                    es nuestra prioridad
                                                 </h2>
                                                 <div class="description centered type-body text-reduced width-600">
                                                     <h3>
-                                                        Instalaciones y servicios que cumplen con todas las normativas oficiales para garantizar tu seguridad.
+                                                        Instalaciones y servicios que cumplen con las normativas oficiales para garantizar tu tranquilidad
                                                     </h3>
                                                 </div>
+                                                <a href="./servicio_y_asesoria/medidas_de_seguridad.php" target="_self" class="cta-link type-cta text-base"> <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">
+                                                        Conoce nuestras medidas de seguridad
+                                                    </span>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
@@ -210,13 +227,21 @@
                                         <div class="text-container text-center width-1000 background-color-dark-blue color-opacity-50">
                                             <div class="text-container-inner centered">
                                                 <h2 class="heading type-header text-elevated color-dark-blue">
-                                                    <span class="colorAmarilloClaro">Servicio</span> Personalizado
+                                                    <span class="colorAmarilloClaro">Atención</span>
+                                                    a tu medida
                                                 </h2>
                                                 <div class="description centered type-body text-reduced width-600">
                                                     <h3>
-                                                        Atención a medida para cada cliente (tanto en hogares como en empresas), para satisfacer las necesidades específicas de cada cliente, a su medida.
+                                                        Servicios diseñados para satisfacer las necesidades específicas de hogares e industrias
                                                     </h3>
                                                 </div>
+                                                <a href="./soporte/contacto.php" target="_self" class="cta-link type-cta text-base"> <span class="cta-glyphicon">
+                                                        <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
+                                                    </span>
+                                                    <span class="cta-underline">
+                                                        Solicita tu servicio personalizado
+                                                    </span>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
@@ -224,11 +249,12 @@
                                         <div class="text-container text-center width-1000 background-color-dark-purple color-opacity-50">
                                             <div class="text-container-inner centered">
                                                 <h2 class="heading type-header text-elevated color-dark-blue">
-                                                    <span class="colorAmarilloClaro">Tecnología</span> Avanzada
+                                                    <span class="colorAmarilloClaro">Innovación</span>
+                                                    para tu comodidad
                                                 </h2>
                                                 <div class="description centered type-body text-reduced width-600">
                                                     <h3>
-                                                        Utilizamos equipos y técnicas modernas para asegurar la eficiencia en cada recarga.
+                                                        Utilizamos técnicas de llenado y monitoreo, desde ultrasonidos a tanques estacionarios hasta sistemas de control digital
                                                     </h3>
                                                 </div>
                                             </div>
@@ -238,16 +264,18 @@
                                         <div class="text-container text-center width-1000 background-color-dark-teal color-opacity-50">
                                             <div class="text-container-inner centered">
                                                 <h2 class="heading type-header text-elevated color-dark-blue">
-                                                    <span class="colorAmarilloClaro">Compromiso</span> Ambiental
+                                                    <span class="colorAmarilloClaro">Cuidamos</span>
+                                                    el medio ambiente
                                                 </h2>
                                                 <div class="description centered type-body text-reduced width-600">
                                                     <h3>
-                                                        Prácticas sostenibles y amigables con el medio ambiente.
+                                                        Buscamos certificar prácticas limpias y responsables
                                                     </h3>
                                                 </div>
                                             </div>
                                         </div>
                                     </li>
+
                                 </ul>
                             </div>
                             <div class="control">
@@ -561,7 +589,12 @@
 
                 <div class="bg-white">
                     <div class="col col-12 width-800 centered text-container">
-                        <h1 class="headline color-dark-blue"><BR> Productos Y Servicios Destacados</h1>
+                        <h1 class="headline color-dark-blue paddingTop">
+                            Soluciones de Gas LP para Todos
+                        </h1>
+                        <h3 class="headline color-dark-blue">
+                            Servicios diseñados para hogares, empresas e industrias con la máxima seguridad y eficiencia
+                        </h3>
                     </div>
 
                     <div id="mod_9eef00d3" class="x01 carousel container-fluid section-bg-color bg-white " data-cvx-module-name="x01">
@@ -582,15 +615,19 @@
                                                 <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                     <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
                                                         <h2 class="headline color-dark-blue">
-                                                            Tanques Estacionarios
+                                                            Servicios Empresariales
                                                         </h2>
                                                     </div>
                                                 </div>
                                                 <div class="description body-2 color-dark-yellow d-print-none">
                                                     <h3>
-                                                        Ideal para grandes consumos.
-                                                        <br>
-                                                        Ofrecemos tanques estacionarios con instalación segura y mantenimiento garantizado.
+                                                        <ul class="lisNotSimbolo">
+                                                            <li>Asesoría técnica</li>
+                                                            <li>Elaboración de proyectos</li>
+                                                            <li>Tratamiento de dictámenes</li>
+                                                            <li>Ultrasonidos a tanques estacionarios</li>
+                                                            <li>Programa de pedidos</li>
+                                                        </ul>
                                                     </h3>
                                                 </div>
                                                 <div class="bottom">
@@ -603,39 +640,7 @@
                                     <div class="row card-box bg-offwhite">
                                         <div class="col-12 col-lg-6 background-col col-no-padding">
                                             <div class="image-container responsive-container">
-                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_05_Conjunto/2.webp); background-position: 50% 50%;">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-lg-6 text-col col-no-padding">
-                                            <div class="text-container">
-
-                                                <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
-                                                    <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                                                        <h2 class="headline color-dark-blue">
-                                                            Cilindros Portátiles
-                                                        </h2>
-                                                    </div>
-                                                </div>
-                                                <div class="description body-2 color-dark-yellow d-print-none">
-                                                    <h3>
-                                                        Perfectos para uso doméstico y pequeñas empresas.
-                                                        <br>
-                                                        Disponibles en capacidades de 20 y 30 litros.
-                                                    </h3>
-                                                </div>
-                                                <div class="bottom">
-                                                </div>
-
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item row">
-                                    <div class="row card-box bg-offwhite">
-                                        <div class="col-12 col-lg-6 background-col col-no-padding">
-                                            <div class="image-container responsive-container">
-                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_05_Conjunto/3.webp); background-position: 50% 50%;">
+                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_05_Conjunto/1.webp); background-position: 50% 50%;">
                                                 </div>
                                             </div>
                                         </div>
@@ -644,13 +649,20 @@
                                                 <div id="mod_351c10e3" class="c06 container-fluid   section-bg-color bg-offwhite" data-cvx-module-name="c06">
                                                     <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
                                                         <h2 class="headline color-dark-blue">
-                                                            Servicios de Mantenimiento
+                                                            Servicios Domésticos
                                                         </h2>
                                                     </div>
                                                 </div>
                                                 <div class="description body-2 color-dark-yellow d-print-none">
                                                     <h3>
-                                                        Mantenimiento preventivo/correctivo para garantizar la seguridad y eficiencia de tus instalaciones.
+                                                        <ul class="lisNotSimbolo">
+                                                            <li>Pedidos</li>
+                                                            <li>Mantenimiento</li>
+                                                            <li>Instalaciones</li>
+                                                            <li>Venta de tanques estacionarios</li>
+                                                            <li>Suministro</li>
+                                                            <li>Venta al público de Gas L.P</li>
+                                                        </ul>
                                                     </h3>
                                                 </div>
                                                 <div class="bottom">
@@ -942,9 +954,10 @@
 
             <div id="mod_215c5be0" class="r c73 container-fluid background-color-offwhite " data-cvx-module-name="c73">
                 <div class="inner-container centered" style="margin-top:0px;margin-bottom:0px;">
+
                     <div class="heading-container">
                         <h2 class="heading type-display text-elevated color-dark-blue width-1000 centered">
-                            Certificados y Premios
+                            Certificación y Calidad Garantizadas
                         </h2>
                     </div>
                     <div class="content-container bg-dark-blue width-1400 centered">
@@ -953,39 +966,21 @@
                             <div class="image-container centered">
                                 <img src="./assets/images/pages/index/_06_Conjunto/1.webp" class="img-fluid" alt="" />
                             </div>
-                            <div class="text-container">
+                            <div class="text-container textoCentrado">
                                 <h3 class="sub-heading text-left type-display text-reduced color-light-yellow text-super color-important">
-                                    Certificación ISO
+                                    Norma NOM 016
                                 </h3>
                                 <h4>
                                     <div class="description type-body text-base white">
-                                        Cumplimos con los más altos estándares de calidad.
+                                        Mayor calidad, mayor rendimiento: una carga de nuestro gas rinde más, optimizando tus recursos y cuidando tu economía
                                     </div>
                                 </h4>
                             </div>
-
-                        </div>
-                        <div class="upper-content centered">
-                            <div class="image-container centered">
-                                <img src="./assets/images/pages/index/_06_Conjunto/2.webp" class="img-fluid" alt="" />
-                            </div>
-                            <div class="text-container">
-                                <h3 class="sub-heading text-left type-display text-reduced text-super color-light-yellow color-important">
-                                    Premio a la Exelencia
-                                </h3>
-                                <H4>
-                                    <div class="description type-body text-base white">
-                                        Reconocimiento a nuestra dedicación y servicio.
-                                    </div>
-                                </H4>
-                            </div>
-
                         </div>
 
                     </div>
 
                 </div>
-
             </div>
 
         </main>
@@ -994,7 +989,9 @@
     <div id="mod_d187c1f3" class="c11 container-fluid column-count-4 section-bg-color bg-white background-color-white" data-cvx-module-name="c11">
         <div class="inner-container width-1200 centered" style="margin-top:0px;margin-bottom:40px;">
             <div class="parent-text-container centered text-center r">
-                <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">Opiniones de Clientes Satisfechos</h3>
+                <h3 class="type-header parent-header text-base color-dark-blue theme-text-color">
+                    Lo que nuestros clientes dicen
+                </h3>
             </div>
 
             <div id="testimonialCarousel" class="carousel slide d-flex justify-content-center align-items-center position-relative" data-bs-ride="carousel">
@@ -1006,12 +1003,12 @@
                                     Juan Pérez
                                 </p>
                                 <p class="description theme-text-color body-2 m-0">
-                                    "Me gusta que Gas de Provincia siempre llega cuando los necesito y el personal es muy atento con las dudas que tengo"
+                                    "Gas de Provincia cumple con los tiempos de entrega y su personal resuelve mis dudas de manera clara y directa"
                                 </p>
                             </div>
                         </div>
                     </div>
-                    
+
                     <div class="carousel-item">
                         <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
                             <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
@@ -1019,12 +1016,12 @@
                                     María López
                                 </p>
                                 <p class="description theme-text-color body-2 m-0">
-                                    "El servicio es confiable y el gas siempre llega en buenas condiciones. No he tenido problemas hasta ahora."
+                                    "La verdad es que el servicio es muy puntual y el gas siempre llega como debe ser. Hasta el momento todo ha funcionado bien."
                                 </p>
                             </div>
                         </div>
                     </div>
-                    
+
                     <!-- Más items del carrusel -->
                 </div>
 
@@ -1077,7 +1074,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1101,7 +1098,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1125,7 +1122,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1149,7 +1146,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1173,7 +1170,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>
@@ -1200,7 +1197,7 @@
                                                     <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline white">Saber más</span>
+                                                    <span class="cta-underline white">Descubre más</span>
                                                 </span>
                                             </p>
                                         </div>

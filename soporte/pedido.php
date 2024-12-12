@@ -45,22 +45,49 @@
     <link href="../assets/css/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
-    </script>
+    <script type="text/javascript">
+  (function(f, b) {
+    if (!b.__SV) {
+      var a, e, i, g;
+      window.mixpanel = b;
+      b._i = [];
+      b.init = function(a, e, d) {
+        function f(b, h) {
+          var a = h.split(".");
+          2 == a.length && (b = b[a[0]], h = a[1]);
+          b[h] = function() {
+            b.push([h].concat(Array.prototype.slice.call(arguments, 0)))
+          }
+        }
+        var c = b;
+        "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
+        c.people = c.people || [];
+        c.toString = function(b) {
+          var a = "mixpanel";
+          "mixpanel" !== d && (a += "." + d);
+          b || (a += " (stub)");
+          return a
+        };
+        c.people.toString = function() {
+          return c.toString(1) + ".people (stub)"
+        };
+        i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+        for (g = 0; g < i.length; g++) f(c, i[g]);
+        b._i.push([a, e, d])
+      };
+      b.__SV = 1.2;
+      a = f.createElement("script");
+      a.type = "text/javascript";
+      a.async = !0;
+      a.src = "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+      e = f.getElementsByTagName("script")[0];
+      e.parentNode.insertBefore(a, e)
+    }
+  })(document, window.mixpanel || []);
+  mixpanel.init("376541747e4d3cb491f25efb46e1f8d7");
+</script>
+
+
     <!-- Fin Google Tag Manager -->
 </head>
 
@@ -784,7 +811,39 @@
         }
     </style>
 
+        <script>
+            mixpanel.track("Page_View", {
+            "page_name": document.title,
+            "url": window.location.href,
+            "referrer": document.referrer,
+            "device": navigator.userAgent,
+            });
+            document.getElementById("00N5Y00000Qdv0q").addEventListener("change", function() {
+            mixpanel.track("Municipio_Seleccionado", {
+                "municipio": this.value,
+                "page_name": document.title,
+            });
+            });
+            document.getElementById("commentform").addEventListener("submit", function(event) {
+            mixpanel.track("Pedido_Enviado", {
+                "cliente_nombre": document.getElementById("00N300000015pb2").value || "No proporcionado",
+                "telefono": document.getElementById("00N300000015pbC").value || "No proporcionado",
+                "email": document.getElementById("00N300000015pY9").value || "No proporcionado",
+                "tipo_servicio": document.querySelector('input[name="servicio"]:checked').value,
+                "cilindro": document.querySelector('input[name="cilindro"]:checked').value,
+                "page_name": document.title,
+            });
+            });
+            document.querySelector('.whatsapp-button').addEventListener('click', function() {
+            mixpanel.track("WhatsApp_Click", {
+                "page_name": document.title,
+                "user_intent": "Contacto por WhatsApp",
+                "time_of_day": new Date().toLocaleTimeString()
+            });
+            });
 
+
+        </script>
     <!-- s: 005MB @ 9/9/2024 7:57:41 PM UTC -->
 
 </body>

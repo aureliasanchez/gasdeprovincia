@@ -42,22 +42,58 @@
   <script src="../assets/js/testimonials-carousel.js"></script>
 
   <!-- Google Tag Manager -->
-  <script>
-    (function(w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({
-        'gtm.start': new Date().getTime(),
-        event: 'gtm.js'
-      });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-      j.async = true;
-      j.src =
-        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
-  </script>
+  <script type="text/javascript">
+    (function(f, b) {
+        if (!b.__SV) {
+            var a, e, i, g;
+            window.mixpanel = b;
+            b._i = [];
+            b.init = function(a, e, d) {
+                function f(b, h) {
+                    var a = h.split(".");
+                    2 == a.length && (b = b[a[0]], h = a[1]);
+                    b[h] = function() {
+                        b.push([h].concat(Array.prototype.slice.call(arguments, 0)));
+                    };
+                }
+                var c = b;
+                "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
+                c.people = c.people || [];
+                c.toString = function(b) {
+                    var a = "mixpanel";
+                    "mixpanel" !== d && (a += "." + d);
+                    b || (a += " (stub)");
+                    return a;
+                };
+                c.people.toString = function() {
+                    return c.toString(1) + ".people (stub)";
+                };
+                i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+                for (g = 0; g < i.length; g++) f(c, i[g]);
+                b._i.push([a, e, d]);
+            };
+            b.__SV = 1.2;
+            a = f.createElement("script");
+            a.type = "text/javascript";
+            a.async = !0;
+            a.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ?
+                MIXPANEL_CUSTOM_LIB_URL : "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+            e = f.getElementsByTagName("script")[0];
+            e.parentNode.insertBefore(a, e);
+        }
+    })(document, window.mixpanel || []);
+
+    // Inicializar Mixpanel con tu token
+    mixpanel.init("376541747e4d3cb491f25efb46e1f8d7");
+
+    // Opcional: Identificar usuarios automáticamente
+    mixpanel.track("Page Loaded", {
+        page: window.location.pathname,
+        url: window.location.href,
+    });
+</script>
+
+
   <!-- Fin Google Tag Manager -->
 </head>
 
@@ -607,6 +643,113 @@
       }
     }
   </style>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Función para rastrear eventos en Mixpanel
+        function trackEvent(eventName, eventData) {
+            if (typeof mixpanel !== "undefined") {
+                mixpanel.track(eventName, eventData);
+            } else {
+                console.warn("Mixpanel no está inicializado.");
+            }
+        }
+
+        // Rastrear clic en botón de WhatsApp
+        const whatsappButton = document.querySelector(".whatsapp-button");
+        if (whatsappButton) {
+            whatsappButton.addEventListener("click", function () {
+                trackEvent("WhatsApp CTA Clicked", {
+                    page: "¿Qué es Gas LP?",
+                    action: "Abrir WhatsApp",
+                    buttonText: "Contactar por WhatsApp",
+                    url: window.location.href
+                });
+            });
+        }
+
+        // Rastrear clic en los slides de "Características"
+        const featureSlides = document.querySelectorAll("#mod_85834f74 .splide__slide");
+        featureSlides.forEach(function (slide, index) {
+            slide.addEventListener("click", function () {
+                const header = slide.querySelector("h4")?.textContent.trim() || "Sin título";
+                trackEvent("Feature Slide Clicked", {
+                    page: "¿Qué es Gas LP?",
+                    section: "Características",
+                    slideNumber: index + 1,
+                    slideTitle: header,
+                    url: window.location.href
+                });
+            });
+        });
+
+        // Rastrear clic en los slides de "Ventajas"
+        const advantageSlides = document.querySelectorAll("#mod_85834f74 .splide__slide");
+        advantageSlides.forEach(function (slide, index) {
+            slide.addEventListener("click", function () {
+                const header = slide.querySelector("h4")?.textContent.trim() || "Sin título";
+                trackEvent("Advantage Slide Clicked", {
+                    page: "¿Qué es Gas LP?",
+                    section: "Ventajas",
+                    slideNumber: index + 1,
+                    slideTitle: header,
+                    url: window.location.href
+                });
+            });
+        });
+
+        // Rastrear clic en los slides de "Aplicaciones"
+        const applicationSlides = document.querySelectorAll("#mod_85834f74 .splide__slide");
+        applicationSlides.forEach(function (slide, index) {
+            slide.addEventListener("click", function () {
+                const header = slide.querySelector("h4")?.textContent.trim() || "Sin título";
+                trackEvent("Application Slide Clicked", {
+                    page: "¿Qué es Gas LP?",
+                    section: "Aplicaciones",
+                    slideNumber: index + 1,
+                    slideTitle: header,
+                    url: window.location.href
+                });
+            });
+        });
+
+        // Rastrear navegación entre secciones
+        const navigationLinks = document.querySelectorAll("nav a");
+        navigationLinks.forEach(function (link) {
+            link.addEventListener("click", function () {
+                trackEvent("Navigation Click", {
+                    page: "¿Qué es Gas LP?",
+                    action: "Navegación",
+                    linkText: link.textContent.trim(),
+                    linkUrl: link.href
+                });
+            });
+        });
+
+        // Rastrear tiempo en página (10 segundos)
+        setTimeout(function () {
+            trackEvent("Time on Page", {
+                page: "¿Qué es Gas LP?",
+                action: "Tiempo en Página",
+                duration: "10 segundos",
+                url: window.location.href
+            });
+        }, 10000);
+
+        // Rastrear scroll al final de la página
+        let scrolled = false;
+        window.addEventListener("scroll", function () {
+            if (!scrolled && (window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+                scrolled = true;
+                trackEvent("Page Scrolled", {
+                    page: "¿Qué es Gas LP?",
+                    action: "Scroll Completo",
+                    url: window.location.href
+                });
+            }
+        });
+    });
+</script>
+
 
 
   <!-- s: 005MB @ 9/9/2024 7:54:40 PM UTC -->

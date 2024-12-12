@@ -46,22 +46,23 @@
     <link rel="alternate" href="https://www.gasdeprovinciahidalgo.com.mx/" hreflang="es-mx" />
 
     <!-- Google Tag Manager (ejemplo) -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
-    </script>
+    <script type="text/javascript">
+  (function(f,b){
+    if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];
+    b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);
+    b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;
+    "undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];
+    c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);
+    b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};
+    i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+    for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};
+    b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";
+    a.async=!0;a.src="https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+    e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+    mixpanel.init("376541747e4d3cb491f25efb46e1f8d7");
+</script>
+
+
     <!-- Fin Google Tag Manager -->
 
     <link href="assets/css/testimonials-carousel.css" rel="stylesheet" />
@@ -190,10 +191,10 @@
                                                         Brindando servicio de calidad y seguridad desde 2005
                                                     </h3>
                                                 </div>
-                                                <a href="https://wa.me/7717112599" target="_blank" class="cta-link type-cta text-base"> <span class="cta-glyphicon">
+                                                <a href="https://wa.me/7717112599" target="_blank" class="cta-link type-cta text-base whatsapp-button"> <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
                                                     </span>
-                                                    <span class="cta-underline">
+                                                    <span class="cta-underline cta-link">
                                                         Solicita tu servicio ahora
                                                     </span>
                                                 </a>
@@ -1311,6 +1312,53 @@
             }
         }
     </style>
+<script>
+    mixpanel.track("Page_View", {
+  "page_name": document.title,
+  "url": window.location.href,
+  "referrer": document.referrer,
+  "device": navigator.userAgent,
+  "user_region": "México"
+});
+document.querySelectorAll('.cta-link').forEach(button => {
+  button.addEventListener('click', function() {
+    mixpanel.track("CTA_Click", {
+      "button_name": this.textContent.trim(),
+      "page_name": document.title,
+      "cta_type": this.getAttribute('href'),
+      "time_of_day": new Date().toLocaleTimeString()
+    });
+  });
+});
+document.querySelectorAll('form').forEach(form => {
+  form.addEventListener('submit', function() {
+    mixpanel.track("Form_Submit", {
+      "form_name": form.getAttribute('id') || "Unnamed Form",
+      "user_email": form.querySelector('input[type="email"]')?.value || "Not Provided",
+      "status": "Éxito",
+      "form_message_length": form.querySelector('textarea')?.value.length || 0
+    });
+  });
+});
+document.querySelector('.whatsapp-button').addEventListener('click', function() {
+  mixpanel.track("WhatsApp_Click", {
+    "page_name": document.title,
+    "user_intent": "Contacto por WhatsApp",
+    "time_of_day": new Date().toLocaleTimeString()
+  });
+});
+document.querySelectorAll('.service-request-button').forEach(button => {
+  button.addEventListener('click', function() {
+    mixpanel.track("Servicio_Solicitado", {
+      "servicio_nombre": this.dataset.serviceName || "Servicio no identificado",
+      "cliente_tipo": this.dataset.clientType || "No especificado",
+      "ubicación_cliente": "México",
+      "medio_contacto": "Botón de servicio"
+    });
+  });
+});
+
+</script>
 </body>
 
 </html>

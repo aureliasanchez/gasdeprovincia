@@ -7,7 +7,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Medidas de Seguridad | Gas de Provincia</title>
+    <title>Medidas de Seguridad para Gas LP | Gas de Provincia</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../assets/css/basec5ea.css" rel="stylesheet" />
@@ -52,21 +52,47 @@
 
     <!-- Google Tag Manager -->
     <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
+        (function(f, b) {
+            if (!b.__SV) {
+                var e, g, i, h;
+                window.mixpanel = b;
+                b._i = [];
+                b.init = function(e, f, c) {
+                    function g(a, d) {
+                        var b = d.split(".");
+                        2 == b.length && (a = a[b[0]], d = b[1]);
+                        a[d] = function() {
+                            a.push([d].concat(Array.prototype.slice.call(arguments, 0)));
+                        };
+                    }
+                    var a = b;
+                    "undefined" !== typeof c ? a = b[c] = [] : c = "mixpanel";
+                    a.people = a.people || [];
+                    a.toString = function(a) {
+                        var d = "mixpanel";
+                        "mixpanel" !== c && (d += "." + c);
+                        a || (d += " (stub)");
+                        return d;
+                    };
+                    a.people.toString = function() {
+                        return a.toString(1) + ".people (stub)";
+                    };
+                    i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+                    for (h = 0; h < i.length; h++) g(a, i[h]);
+                    b._i.push([e, f, c]);
+                };
+                b.__SV = 1.2;
+                e = f.createElement("script");
+                e.type = "text/javascript";
+                e.async = !0;
+                e.src = "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+                g = f.getElementsByTagName("script")[0];
+                g.parentNode.insertBefore(e, g);
+            }
+        })(document, window.mixpanel || []);
+        mixpanel.init("376541747e4d3cb491f25efb46e1f8d7");
     </script>
+
     <!-- Fin Google Tag Manager -->
 </head>
 
@@ -121,7 +147,7 @@
 
                     <div class="bg-offwhite">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding" data-section="Reglas de Seguridad Esenciales">
                                 Reglas de Seguridad Esenciales
                             </h1>
                         </div>
@@ -198,7 +224,7 @@
 
                     <div class="bg-white">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding" data-section="mantenimientoycuidado">
                                 Mantenimiento y Cuidados
                             </h1>
                         </div>
@@ -261,7 +287,7 @@
 
                     <div class="bg-offwhite">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding" data-section="instslacion_tanques_cilindros">
                                 Instalación de Tanques y Cilindros
                             </h1>
                         </div>
@@ -324,7 +350,7 @@
 
                     <div class="bg-white">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding" data-section="caso_emergencia">
                                 En Caso de Emergencia
                             </h1>
                         </div>
@@ -441,6 +467,23 @@
             }
         }
     </style>
+    <script>
+        mixpanel.track("Page_View", {
+  "page_name": "Medidas de Seguridad",
+  "url": window.location.href,
+  "referrer": document.referrer,
+  "device": navigator.userAgent,
+});
+document.querySelectorAll("[data-section]").forEach(function(section) {
+  section.addEventListener("click", function() {
+    mixpanel.track("Section_Interaction", {
+      "section_name": this.getAttribute("data-section"),
+      "page_name": "Medidas de Seguridad",
+    });
+  });
+});
+
+    </script>
 
 
     <!-- s: 005MB @ 9/9/2024 7:54:24 PM UTC -->

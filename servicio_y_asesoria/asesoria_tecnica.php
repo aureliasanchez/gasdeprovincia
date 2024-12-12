@@ -51,22 +51,50 @@
     <link href="../assets/css/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
-    </script>
+     <!-- Mixpanel Tracking -->
+<script>
+    (function(f, b) {
+        if (!b.__SV) {
+            var e, g, i, h;
+            window.mixpanel = b;
+            b._i = [];
+            b.init = function(e, f, c) {
+                function g(a, d) {
+                    var b = d.split(".");
+                    2 == b.length && (a = a[b[0]], d = b[1]);
+                    a[d] = function() {
+                        a.push([d].concat(Array.prototype.slice.call(arguments, 0)));
+                    };
+                }
+                var a = b;
+                "undefined" !== typeof c ? a = b[c] = [] : c = "mixpanel";
+                a.people = a.people || [];
+                a.toString = function(a) {
+                    var d = "mixpanel";
+                    "mixpanel" !== c && (d += "." + c);
+                    a || (d += " (stub)");
+                    return d;
+                };
+                a.people.toString = function() {
+                    return a.toString(1) + ".people (stub)";
+                };
+                i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+                for (h = 0; h < i.length; h++) g(a, i[h]);
+                b._i.push([e, f, c]);
+            };
+            b.__SV = 1.2;
+            e = f.createElement("script");
+            e.type = "text/javascript";
+            e.async = !0;
+            e.src = "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+            g = f.getElementsByTagName("script")[0];
+            g.parentNode.insertBefore(e, g);
+        }
+    })(document, window.mixpanel || []);
+    mixpanel.init("376541747e4d3cb491f25efb46e1f8d7");
+</script>
+
+
     <!-- Fin Google Tag Manager -->
 </head>
 
@@ -279,6 +307,36 @@
             }
         }
     </style>
+    <script>
+    // Rastrear vistas de página
+    mixpanel.track("Page Viewed", {
+        page: "Asesoría Técnica",
+        url: window.location.href
+    });
+
+    // Rastrear clics en secciones específicas
+    document.addEventListener("DOMContentLoaded", function() {
+        // Rastrear clics en "Asistencia para Hogares"
+        document.querySelectorAll(".c11b-container .tile").forEach(function(tile, index) {
+            tile.addEventListener("click", function() {
+                mixpanel.track("Service Section Clicked", {
+                    section: index + 1,
+                    serviceName: tile.querySelector("h2").innerText
+                });
+            });
+        });
+
+        // Rastrear clic en el botón de WhatsApp
+        var whatsappButton = document.querySelector(".whatsapp-button");
+        if (whatsappButton) {
+            whatsappButton.addEventListener("click", function() {
+                mixpanel.track("WhatsApp Clicked", {
+                    page: "Asesoría Técnica"
+                });
+            });
+        }
+    });
+</script>
 
 
     <!-- s: 005MB @ 9/9/2024 7:54:24 PM UTC -->

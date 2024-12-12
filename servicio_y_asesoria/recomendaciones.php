@@ -51,22 +51,49 @@
     <link href="../assets/css/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
     <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
-    </script>
+    <script type="text/javascript">
+  (function(f, b) {
+    if (!b.__SV) {
+      var a, e, i, g;
+      window.mixpanel = b;
+      b._i = [];
+      b.init = function(a, e, d) {
+        function f(b, h) {
+          var a = h.split(".");
+          2 == a.length && (b = b[a[0]], h = a[1]);
+          b[h] = function() {
+            b.push([h].concat(Array.prototype.slice.call(arguments, 0)))
+          }
+        }
+        var c = b;
+        "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
+        c.people = c.people || [];
+        c.toString = function(b) {
+          var a = "mixpanel";
+          "mixpanel" !== d && (a += "." + d);
+          b || (a += " (stub)");
+          return a
+        };
+        c.people.toString = function() {
+          return c.toString(1) + ".people (stub)"
+        };
+        i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+        for (g = 0; g < i.length; g++) f(c, i[g]);
+        b._i.push([a, e, d])
+      };
+      b.__SV = 1.2;
+      a = f.createElement("script");
+      a.type = "text/javascript";
+      a.async = !0;
+      a.src = "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+      e = f.getElementsByTagName("script")[0];
+      e.parentNode.insertBefore(a, e)
+    }
+  })(document, window.mixpanel || []);
+  mixpanel.init("376541747e4d3cb491f25efb46e1f8d7");
+</script>
+
+
     <!-- Fin Google Tag Manager -->
 </head>
 
@@ -119,7 +146,7 @@
 
                     <div class="bg-offwhite">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding data-section="instalacion_y_distancias_seguras">
                                 Instalación y Distancias Seguras
                             </h1>
                         </div>
@@ -182,7 +209,7 @@
 
                     <div class="bg-white">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding" data-section="uso_de_reguladores_y_mangueras">
                                 Uso de Reguladores y Mangueras
                             </h1>
                         </div>
@@ -231,7 +258,7 @@
 
                     <div class="bg-offwhite">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding" data-section="informacion_consumo_medidas">
                                 Información sobre Consumo y Medidas
                             </h1>
                         </div>
@@ -280,7 +307,7 @@
 
                     <div class="bg-white">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding data-section="cuidado_mantenimiento_tanques">
                                 Cuidado y Mantenimiento de Tanques
                             </h1>
                         </div>
@@ -329,7 +356,7 @@
 
                     <div class="bg-offwhite">
                         <div class="centered">
-                            <h1 class="color-dark-blue margin-0_Padding">
+                            <h1 class="color-dark-blue margin-0_Padding data-section="conciencia_seguros">
                                 Conciencia y Seguros
                             </h1>
                         </div>
@@ -406,7 +433,39 @@
             }
         }
     </style>
+    <script>
+        mixpanel.track("Page_View", {
+  "page_name": "Recomendaciones",
+  "url": window.location.href,
+  "referrer": document.referrer,
+  "device": navigator.userAgent,
+});
+document.querySelectorAll("[data-section]").forEach(function(section) {
+  section.addEventListener("click", function() {
+    mixpanel.track("Section_Interaction", {
+      "section_name": this.getAttribute("data-section"),
+      "page_name": "Recomendaciones",
+    });
+  });
+});
+document.querySelectorAll(".c11b-container .tile").forEach(function(tile) {
+  tile.addEventListener("click", function() {
+    const title = this.querySelector("h2").innerText;
+    mixpanel.track("Recomendacion_Clic", {
+      "recomendacion": title,
+      "page_name": "Recomendaciones",
+    });
+  });
+});
+document.querySelector('.whatsapp-button').addEventListener('click', function() {
+  mixpanel.track("WhatsApp_Click", {
+    "user_intent": "Contacto desde Recomendaciones",
+    "page_name": "Recomendaciones",
+    "time_of_day": new Date().toLocaleTimeString(),
+  });
+});
 
+    </script>
 
     <!-- s: 005MB @ 9/9/2024 7:54:24 PM UTC -->
 

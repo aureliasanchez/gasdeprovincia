@@ -42,22 +42,65 @@
     <script src="../assets/js/testimonials-carousel.js"></script>
 
     <!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-XXXXXXX');
-    </script>
+     <script>
+        // Integración con Mixpanel
+(function(f,b){if(!b.__SV){var e,g,i,h;window.mixpanel=b;b._i=[];b.init=function(e,f,c){function g(a,d){var b=d.split(".");2==b.length&&(a=a[b[0]],d=b[1]);a[d]=function(){a.push([d].concat(Array.prototype.slice.call(arguments,0)))}}var a=b;"undefined"!==typeof c?a=b[c]=[]:c="mixpanel";a.people=a.people||[];a.toString=function(a){var d="mixpanel";"mixpanel"!==c&&(d+="."+c);a||(d+=" (stub)");return d};a.people.toString=function(){return a.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");for(h=0;h<i.length;h++)g(a,i[h]);b._i.push([e,f,c])};b.__SV=1.2;e=f.createElement("script");e.type="text/javascript";e.async=!0;e.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";g=f.getElementsByTagName("script")[0];g.parentNode.insertBefore(e,g)}})(document,window.mixpanel||[]);
+
+// Inicializar Mixpanel
+mixpanel.init("YOUR_MIXPANEL_PROJECT_TOKEN");
+
+// Eventos de la página "Nosotros"
+document.addEventListener("DOMContentLoaded", function() {
+  // Evento: Visualización de la página "Nosotros"
+  mixpanel.track("Page View", {
+    page: "Nosotros",
+    title: document.title,
+    url: window.location.href
+  });
+
+  // Evento: Clic en la misión
+  document.querySelector("h2.headline:contains('Misión')").addEventListener("click", function() {
+    mixpanel.track("Mission Click", {
+      section: "Misión",
+      page: "Nosotros"
+    });
+  });
+
+  // Evento: Clic en la visión
+  document.querySelector("h2.headline:contains('Visión')").addEventListener("click", function() {
+    mixpanel.track("Vision Click", {
+      section: "Visión",
+      page: "Nosotros"
+    });
+  });
+
+  // Evento: Clic en un valor
+  document.querySelectorAll(".fact-tile-inner").forEach(function(tile) {
+    tile.addEventListener("click", function() {
+      mixpanel.track("Value Click", {
+        value: tile.querySelector(".figure-description").innerText,
+        page: "Nosotros"
+      });
+    });
+  });
+
+  // Evento: Desplazamiento al carrusel de clientes
+  const clientesSection = document.querySelector("h3:contains('Clientes')");
+  if (clientesSection) {
+    const observer = new IntersectionObserver(function(entries) {
+      if (entries[0].isIntersecting) {
+        mixpanel.track("Clients Carousel Viewed", {
+          page: "Nosotros"
+        });
+        observer.disconnect();
+      }
+    });
+    observer.observe(clientesSection);
+  }
+});
+
+     </script>
+
     <!-- Fin Google Tag Manager -->
 </head>
 

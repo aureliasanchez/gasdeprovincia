@@ -41,6 +41,15 @@
     <link href="../assets/css/testimonials-carousel.css" rel="stylesheet" />
     <script src="../assets/js/testimonials-carousel.js"></script>
 
+    <!--Analytics-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPB9M32VTF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-QPB9M32VTF');
+    </script>
     <!-- Google Tag Manager -->
     <script type="text/javascript">
   (function(f, b) {
@@ -149,11 +158,11 @@
                                         <div class="splide__track">
                                             <div class="splide__list">
 
-                                                <a class="splide__slide cta-link-parent" href="">
+                                                <a class="splide__slide cta-link-parent" href="https://wa.me/7717112599" target="_blank">
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/telefono.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/woman-showing-whatsapp-messenger-icon.jpg" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <p class="type-body text-caption date white">
@@ -173,35 +182,11 @@
                                                         </div>
                                                     </div>
                                                 </a>
-                                                <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                        <div class="opacity-cover"></div>
-                                                        <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/correo.webp" alt="" />
-                                                        </div>
-                                                        <div class="content-container text-left">
-                                                            <p class="type-body text-caption date white">
-                                                                Correo Electrónico
-                                                            </p>
-                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                                contacto@<wbr>gasdeprovinciahidalgo<wbr>.com.mx
-                                                            </h4>
-                                                            <p class="cta-container">
-                                                                <span class="cta-link type-cta text-base">
-                                                                    <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                    </span>
-                                                                    <span class="cta-underline white">Saber más</span>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </a>
                                                 <a class="splide__slide cta-link-parent" href="https://www.facebook.com/garzagashgo/?locale=es_LA" target="_blank">
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/3.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/mujer-mostrando-icono-facebook_53876-65415.jpg" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
@@ -218,32 +203,11 @@
                                                         </div>
                                                     </div>
                                                 </a>
-                                                <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                        <div class="opacity-cover"></div>
-                                                        <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/4.webp" alt="" />
-                                                        </div>
-                                                        <div class="content-container text-left">
-                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                                Twitter
-                                                            </h4>
-                                                            <p class="cta-container">
-                                                                <span class="cta-link type-cta text-base">
-                                                                    <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                    </span>
-                                                                    <span class="cta-underline white">Saber más</span>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </a>
                                                 <a class="splide__slide cta-link-parent" href="https://www.instagram.com/gasdeprovincia/" target="_blank">
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/instagram.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/mujer-mostrando-icono-instagram_53876-65416.jpg" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
                                                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
@@ -260,112 +224,19 @@
                                                         </div>
                                                     </div>
                                                 </a>
-
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-
-                                <div class="control">
-                                    <div class="splide__arrows">
-                                        <button class="splide__arrow splide__arrow--prev cta-button secondary">
-                                            <span class="cta-glyphicon">
-                                                <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
-                                            </span>
-                                        </button>
-                                    </div>
-                                    <ul class="splide__pagination"></ul>
-                                    <div class="splide__arrows">
-                                        <button class="splide__arrow splide__arrow--next cta-button secondary">
-                                            <span class="cta-glyphicon">
-                                                <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                            </span>
-                                        </button>
-                                    </div>
-                                </div>
-
-                            </section>
-                        </div>
-                    </div>
-
-                    <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
-                        <div class="inner-container centered" style="margin-top:0px;">
-                            <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
-
-                                <div class="articles">
-                                    <div class="splide-wrapper">
-
-                                        <div class="opening-content">
-                                            <div>
-                                                <h3 class="type-header text-base main-header color-dark-blue">Ubicaciones</h3>
-                                            </div>
-                                        </div>
-
-                                        <div class="splide__track">
-                                            <div class="splide__list">
-
-                                                <a class="splide__slide cta-link-parent" href="">
+                                                
+                                                <a class="splide__slide cta-link-parent" href="mailto:info@gasdeprovincia.com">
                                                     <div class="inner-slide-wrapper fondoAzulOscuro">
                                                         <div class="opacity-cover"></div>
                                                         <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/ubicaciones/1.webp" alt="" />
+                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/contactos/woman-holding-google-plus-icon.png" alt="" />
                                                         </div>
                                                         <div class="content-container text-left">
-                                                            <p class="type-body text-caption date white">
-                                                                Hidalgo
+                                                            <p class="type-subhead text-reduced slide-header color-light-yellow">
+                                                                Correo Electrónico
                                                             </p>
                                                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                                KM. 84+500 Col. Colonias, Pachuca de Soto.
-                                                            </h4>
-                                                            <p class="cta-container">
-                                                                <span class="cta-link type-cta text-base">
-                                                                    <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                    </span>
-                                                                    <span class="cta-underline white">Saber más</span>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                                <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                        <div class="opacity-cover"></div>
-                                                        <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/ubicaciones/2.webp" alt="" />
-                                                        </div>
-                                                        <div class="content-container text-left">
-                                                            <p class="type-body text-caption date white">
-                                                                Toluca
-                                                            </p>
-                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                                Santiago Graff 103. Santa Cruz Atzcapotzaltongo. Estado de México.
-                                                            </h4>
-                                                            <p class="cta-container">
-                                                                <span class="cta-link type-cta text-base">
-                                                                    <span class="cta-glyphicon">
-                                                                        <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                    </span>
-                                                                    <span class="cta-underline white">Saber más</span>
-                                                                </span>
-                                                            </p>
-                                                        </div>
-                                                    </div>
-                                                </a>
-                                                <a class="splide__slide cta-link-parent" href="">
-                                                    <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                        <div class="opacity-cover"></div>
-                                                        <div class="image-container">
-                                                            <img class="img-fluid" src="../assets/images/pages/soporte/contacto/ubicaciones/3.webp" alt="" />
-                                                        </div>
-                                                        <div class="content-container text-left">
-                                                            <p class="type-body text-caption date white">
-                                                                Atlacomulco
-                                                            </p>
-                                                            <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                                Rancho Santa Barbara, San Martin Atlacomulco, Estado de México.
-                                                            </h4>
+                                                             </h4>
                                                             <p class="cta-container">
                                                                 <span class="cta-link type-cta text-base">
                                                                     <span class="cta-glyphicon">
@@ -401,10 +272,11 @@
                                         </button>
                                     </div>
                                 </div>
+
                             </section>
                         </div>
-
                     </div>
+                    
 
                 </div>
 
@@ -482,7 +354,6 @@
                         color: #0b2d71;
                         display: inline-block;
                         flex: 0.4;
-                        text-transform: lowercase;
                         width: auto;
                     }
 
@@ -725,7 +596,7 @@
                                 </div>
                                 <div id="submit-container" class="submit-container">
                                     <div class="primary-link theme-bg-medium-blue">
-                                        <input type="submit" name="submit" id="contact-submit" class="link theme-bg-color" value="submit" />
+                                        <input type="submit" name="submit" id="contact-submit" class="link theme-bg-color" value="Enviar" />
                                     </div>
                                 </div>
                             </div>

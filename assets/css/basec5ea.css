@@ -9427,9 +9427,7 @@ fieldset:disabled .btn {
     text-decoration: line-through !important
 }
 
-.text-lowercase {
-    text-transform: lowercase !important
-}
+
 
 .text-uppercase {
     text-transform: uppercase !important
@@ -17709,9 +17707,7 @@ img[src='http://www.chevron.com/'] {
     text-transform: capitalize !important;
 }
 
-.text-lowercase {
-    text-transform: lowercase !important;
-}
+
 
 .text-italic {
     font-style: italic !important;
@@ -20252,9 +20248,6 @@ p.text-caption,
     text-transform: capitalize !important;
 }
 
-.text-lowercase {
-    text-transform: lowercase !important;
-}
 
 .text-italic {
     font-style: italic !important;

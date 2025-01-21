@@ -136,7 +136,7 @@
 
               @media screen and (min-width: 768px) {
                 #mod_a7829895.c74 .background-container {
-                  background-image: url('../assets/images/pages/acerca_de/gas_lp/portada/portada.webp');
+                  background-image: url('../assets/images/pages/acerca_de/gas_lp/IMG_9298.JPG');
                 }
               }
             </style>
@@ -228,7 +228,7 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/limpio.webp" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/image.png" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
@@ -260,7 +260,7 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/frio.webp" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/sooking-burgers-kitchen-home-quarantine-time.jpg" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
@@ -276,7 +276,7 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/frio.webp" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/caracteristicas/power-supply-sun-machinery-sunny-holding.jpg" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
@@ -433,7 +433,7 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/ventaja/pesado.webp" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/ventaja/IMG_9403.JPG" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">
@@ -449,7 +449,7 @@
                         <div class="inner-slide-wrapper fondoAzulOscuro">
                           <div class="opacity-cover"></div>
                           <div class="image-container">
-                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/ventaja/pesado.webp" alt="" />
+                            <img class="img-fluid" src="../assets/images/pages/acerca_de/gas_lp/ventaja/freepik.png" alt="" />
                           </div>
                           <div class="content-container text-left">
                             <p class="type-body text-caption date white">

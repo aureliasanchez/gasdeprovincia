@@ -50,6 +50,26 @@
     <link href="../assets/fonts/gotham/gothambook_normal_normal.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
     <link href="../assets/css/f4c72400-1179-11ed-b0a0-02c6998740a0.css" rel="stylesheet" />
 
+    <!--Analytics-->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPB9M32VTF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-QPB9M32VTF');
+    </script>
+
+        <!--Analytics-->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPB9M32VTF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-QPB9M32VTF');
+    </script>
+
     <!-- Google Tag Manager -->
     <script>
         (function(f, b) {
@@ -126,7 +146,7 @@
                 <div id="mod_d7b0c924" class="c01f container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01f">
                     <div class="inner-container row centered width-1920" style="margin-top:0px;margin-bottom:40px;">
                         <div class="box-container">
-                            <div class="background-container" style="background-image: url('../assets/images/pages/servicio/seguridad/_01_Conjunto/1.webp')"></div>
+                            <div class="background-container" style="background-image: url('../assets/images/pages/servicio/seguridad/IMG_9308.JPG')"></div>
                             <div class="content-container bg-white width-800">
                                 <h1 class="headline color-dark-blue">
                                     Tu Seguridad es lo Primero

@@ -127,7 +127,7 @@
                 <div id="mod_d7b0c924" class="c01f container-fluid  section-bg-color bg-offwhite" data-cvx-module-name="c01f">
                     <div class="inner-container row centered width-1920" style="margin-top:0px;margin-bottom:40px;">
                         <div class="box-container">
-                            <div class="background-container" style="background-image: url('../assets/images/pages/servicio/recomendaciones/_01_Conjunto/1.webp')"></div>
+                            <div class="background-container" style="background-image: url('../assets/images/pages/servicio/recomendaciones/IMG_9337.JPG')"></div>
                             <div class="content-container bg-white width-800">
                                 <h1 class="headline color-dark-blue">Recomendaciones</h1>
                                 <p class="text-center">
@@ -433,6 +433,17 @@
             }
         }
     </style>
+
+    
+        <!--Analytics-->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPB9M32VTF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-QPB9M32VTF');
+    </script>
     <script>
         mixpanel.track("Page_View", {
   "page_name": "Recomendaciones",

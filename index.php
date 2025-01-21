@@ -191,7 +191,7 @@
                                                         Brindando servicio de calidad y seguridad desde 2005
                                                     </h3>
                                                 </div>
-                                                <a href="https://wa.me/7717112599" target="_blank" class="cta-link type-cta text-base whatsapp-button"> <span class="cta-glyphicon">
+                                                <a href="https://wa.me/7717112599" target="_blank" class="cta-link type-cta text-base "> <span class="cta-glyphicon">
                                                         <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
                                                     </span>
                                                     <span class="cta-underline cta-link">
@@ -316,13 +316,13 @@
                             <div class="images-container">
 
                                 <div class="first-image image">
-                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/1.webp" class="img-fluid" />
+                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/IMG_9344.JPG" class="img-fluid" />
                                 </div>
                                 <div class="second-image image">
-                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/2.webp" class="img-fluid" />
+                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/IMG_9373.JPG" class="img-fluid" />
                                 </div>
                                 <div class="third-image image">
-                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/3.webp" class="img-fluid" />
+                                    <img alt="" src="./assets/images/pages/index/_02_Conjunto/IMG_9447 (1).JPG" class="img-fluid" />
                                 </div>
 
                             </div>
@@ -331,16 +331,16 @@
                                     <p>Tenemos <b><span class="colorAmarilloClaro">PRESENCIA</span></b> en...
                                         <span class="text-opacity">
                                             <br>
-                                            <span class="colorAmarilloClaro">Lugar 1</span>.
+                                            <span class="colorAmarilloClaro">Hidalgo</span>.
                                             <br>
-                                            <span class="colorAmarilloClaro">Lugar 2</span>.
+                                            <span class="colorAmarilloClaro">Toluca</span>.
                                             <br>
-                                            <span class="colorAmarilloClaro">Lugar 3</span>.
+                                            <span class="colorAmarilloClaro">Atlacomulco</span>.
                                         </span>
                                     </p>
                                 </div>
                                 <div class="cta-container">
-                                    <a href="" class="cta-button type-cta text-base fondoAzulOscuro">
+                                    <a href="/soporte/contacto.php" class="cta-button type-cta text-base fondoAzulOscuro">
                                         <span class="cta-glyphicon">
                                             <span class="animate glyphicon glyphicon-2023-arrow-right"
                                                 aria-hidden="true"></span>
@@ -376,21 +376,13 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/1.webp" alt="" />
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/PACHUCA.jpg" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            Lugar 1
-                                                        </p>
                                                         <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            Descripcion 1
-                                                        </h4>
+                                                            Pachuca                                                        </h4>
                                                         <p class="cta-container">
                                                             <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline white">Saber más</span>
                                                             </span>
                                                         </p>
                                                     </div>
@@ -400,21 +392,13 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/2.webp" alt="" />
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/imagesarenal.jpg" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            Lugar 2
-                                                        </p>
                                                         <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            Descripcion 2
-                                                        </h4>
+                                                            El Arenal                                                        </h4>
                                                         <p class="cta-container">
                                                             <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline white">Saber más</span>
                                                             </span>
                                                         </p>
                                                     </div>
@@ -424,91 +408,12 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/3.webp" alt="" />
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/Ciudad-1024x576.jpg" alt="" style="object-fit: cover;" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            Lugar 3
-                                                        </p>
                                                         <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            Descripcion 3
-                                                        </h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline white">Saber más</span>
-                                                            </span>
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="control">
-                                <div class="splide__arrows">
-                                    <button class="splide__arrow splide__arrow--prev cta-button secondary">
-                                        <span class="cta-glyphicon">
-                                            <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
-                                        </span>
-                                    </button>
-                                </div>
-                                <ul class="splide__pagination"></ul>
-                                <div class="splide__arrows">
-                                    <button class="splide__arrow splide__arrow--next cta-button secondary">
-                                        <span class="cta-glyphicon">
-                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                        </span>
-                                    </button>
-                                </div>
-                            </div>
-
-                        </section>
-                    </div>
-                </div>
-
-                <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-offwhite " data-cvx-module-name="c57">
-                    <div class="inner-container centered" style="margin-top:0px;">
-                        <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
-
-                            <div class="articles">
-                                <div class="splide-wrapper">
-                                    <div class="opening-content">
-                                        <div>
-                                            <h3 class="type-header text-base main-header color-dark-blue">
-                                                Distribuimos en
-                                            </h3>
-                                        </div>
-                                    </div>
-                                    <div class="splide__track">
-                                        <div class="splide__list">
-
-                                            <a class="splide__slide cta-link-parent" href="">
-                                                <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="./assets/images/pages/index/_04_Conjunto/1.webp" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            Lugar 1
-                                                        </p>
-                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            Descripcion 1
-                                                        </h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline white">Saber más</span>
-                                                            </span>
-                                                        </p>
+                                                            Real del Monte                                                        </h4>
+                                                        
                                                     </div>
                                                 </div>
                                             </a>
@@ -516,23 +421,12 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="./assets/images/pages/index/_04_Conjunto/2.webp" alt="" />
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/5990896_orig.jpg" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            Lugar 2
-                                                        </p>
                                                         <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            Descripcion 2
-                                                        </h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline white">Saber más</span>
-                                                            </span>
-                                                        </p>
+                                                            Ixmiquilpan                                                        </h4>
+                                                        
                                                     </div>
                                                 </div>
                                             </a>
@@ -540,23 +434,51 @@
                                                 <div class="inner-slide-wrapper fondoAzulOscuro">
                                                     <div class="opacity-cover"></div>
                                                     <div class="image-container">
-                                                        <img class="img-fluid" src="./assets/images/pages/index/_04_Conjunto/3.webp" alt="" />
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/acelotla.jpg" alt="" />
                                                     </div>
                                                     <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            Lugar 3
-                                                        </p>
                                                         <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            Descripcion 3
-                                                        </h4>
-                                                        <p class="cta-container">
-                                                            <span class="cta-link type-cta text-base">
-                                                                <span class="cta-glyphicon">
-                                                                    <span class="animate glyphicon glyphicon-2023-arrow-right white" aria-hidden="true"></span>
-                                                                </span>
-                                                                <span class="cta-underline white">Saber más</span>
-                                                            </span>
-                                                        </p>
+                                                            Acelotla                                                       </h4>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a class="splide__slide cta-link-parent" href="">
+                                                <div class="inner-slide-wrapper fondoAzulOscuro">
+                                                    <div class="opacity-cover"></div>
+                                                    <div class="image-container">
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/ValleTgo.webp" alt="" />
+                                                    </div>
+                                                    <div class="content-container text-left">
+                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                                                            Tulancingo                                                      </h4>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a class="splide__slide cta-link-parent" href="">
+                                                <div class="inner-slide-wrapper fondoAzulOscuro">
+                                                    <div class="opacity-cover"></div>
+                                                    <div class="image-container">
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/espera-apan-recibir-mil-visitantes.jpeg" alt="" />
+                                                    </div>
+                                                    <div class="content-container text-left">
+                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                                                            Apan                                                      </h4>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <a class="splide__slide cta-link-parent" href="">
+                                                <div class="inner-slide-wrapper fondoAzulOscuro">
+                                                    <div class="opacity-cover"></div>
+                                                    <div class="image-container">
+                                                        <img class="img-fluid" src="./assets/images/pages/index/_03_Conjunto/zacualtipan.jpg" alt="" />
+                                                    </div>
+                                                    <div class="content-container text-left">
+                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
+                                                            Zacualtipan de Ángeles                                                        </h4>
+                                                        
                                                     </div>
                                                 </div>
                                             </a>
@@ -607,7 +529,7 @@
                                     <div class="row card-box bg-offwhite">
                                         <div class="col-12 col-lg-6 background-col col-no-padding">
                                             <div class="image-container responsive-container">
-                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_05_Conjunto/1.webp); background-position: 50% 50%;">
+                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_05_Conjunto/mujer-joven-constructor-uniforme-construccion-casco-seguridad-mirando-al-frente-feliz-positivo-mostrando-pulgar-arriba-signo-ok-pie-sobre-pared-naranja_141793-62194.jpg); background-position: 50% 50%;">
                                                 </div>
                                             </div>
                                         </div>
@@ -641,7 +563,7 @@
                                     <div class="row card-box bg-offwhite">
                                         <div class="col-12 col-lg-6 background-col col-no-padding">
                                             <div class="image-container responsive-container">
-                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_05_Conjunto/1.webp); background-position: 50% 50%;">
+                                                <div class="background vertical-align" style="background-image: url(./assets/images/pages/index/_05_Conjunto/freepik__expand__41849.jpeg); background-position: 50% 50%;">
                                                 </div>
                                             </div>
                                         </div>
@@ -654,9 +576,9 @@
                                                         </h2>
                                                     </div>
                                                 </div>
-                                                <div class="description body-2 color-dark-yellow d-print-none">
+                                                <div class="description body-2 color-dark-yellow d-print-none" style="text-align: left;">
                                                     <h3>
-                                                        <ul class="lisNotSimbolo">
+                                                        <ul>
                                                             <li>Pedidos</li>
                                                             <li>Mantenimiento</li>
                                                             <li>Instalaciones</li>
@@ -965,13 +887,13 @@
 
                         <div class="upper-content centered">
                             <div class="image-container centered">
-                                <img src="./assets/images/pages/index/_06_Conjunto/1.webp" class="img-fluid" alt="" />
+                                <img src="./assets/images/pages/index/_06_Conjunto/IMG_9337.JPG" class="img-fluid" alt="" />
                             </div>
                             <div class="text-container textoCentrado">
                                 <h3 class="sub-heading text-left type-display text-reduced color-light-yellow text-super color-important">
-                                    Norma NOM 016
+                                    <br>Norma NOM 016
                                 </h3>
-                                <h4>
+                                <h4 class="text-left">
                                     <div class="description type-body text-base white">
                                         Mayor calidad, mayor rendimiento: una carga de nuestro gas rinde más, optimizando tus recursos y cuidando tu economía
                                     </div>
@@ -1001,11 +923,10 @@
                         <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
                             <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
                                 <p class="figure colorAmarilloClaro font-gotham text-bold mb-3">
-                                    Juan Pérez
+                                    Carlos G., <br> <span style="font-size: 25px;">Dueño de restaurante "La Esquinita"</span>
                                 </p>
                                 <p class="description theme-text-color body-2 m-0">
-                                    "Gas de Provincia cumple con los tiempos de entrega y su personal resuelve mis dudas de manera clara y directa"
-                                </p>
+                                    Llevo años con mi cocina y siempre he buscado un servicio de gas que no me falle. Llegan a tiempo y no me quedo a medias con los pedidos. El proceso de pedido es sencillo y siempre están al pendiente si surge algo.                                </p>
                             </div>
                         </div>
                     </div>
@@ -1014,12 +935,22 @@
                         <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
                             <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
                                 <p class="figure colorAmarilloClaro font-gotham text-bold mb-3">
-                                    María López
+                                    — Martha R., <br> <span style="font-size: 25px;">Ama de casa</span>
                                 </p>
                                 <p class="description theme-text-color body-2 m-0">
-                                    "La verdad es que el servicio es muy puntual y el gas siempre llega como debe ser. Hasta el momento todo ha funcionado bien."
-                                </p>
+                                    El servicio es práctico y rápido. Antes tenía que estar llamando varias veces a otras compañías, pero con Gas de Provincia hago el pedido y llega en el tiempo que dicen. Me ha funcionado bien y el precio es justo.                                </p>
                             </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="tile fact-tile bg-dark-blue theme-text-white mx-auto" style="min-height: 200px; width: 90%; max-width: 600px;">
+                            <div class="fact-tile-inner text-center d-flex flex-column justify-content-center align-items-center h-100 p-3">
+                                <p class="figure colorAmarilloClaro font-gotham text-bold mb-3">
+                                    Javier L., <br> <span style="font-size: 25px;">Propietario de "Panadería Don Javier"</span>
+                                </p>
+                                <p class="description theme-text-color body-2 m-0">
+                                    En la panadería no nos podemos quedar sin gas, porque dependemos de él para la producción diaria. Gas de Provincia nos ha funcionado bien, no hemos tenido problemas de suministro y eso nos da tranquilidad para seguir trabajando                            </div>
                         </div>
                     </div>
 
@@ -1137,7 +1068,7 @@
                                         </div>
                                         <div class="content-container text-left">
                                             <p class="type-body text-caption date white">
-                                                Contactanos
+                                                Contáctanos
                                             </p>
                                             <h4 class="type-subhead text-reduced slide-header color-light-yellow">
                                                 Ponte en contacto con nuestro equipo de trabajo.
@@ -1312,6 +1243,15 @@
             }
         }
     </style>
+        <!--Analytics-->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPB9M32VTF"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    
+        gtag('config', 'G-QPB9M32VTF');
+        </script>
 <script>
     mixpanel.track("Page_View", {
   "page_name": document.title,

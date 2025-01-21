@@ -173,7 +173,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/mision.webp); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/IMG_0234.JPG); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -205,7 +205,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/visión.webp); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/IMG_0283.JPG); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -235,7 +235,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                 <div class="row card-box bg-offwhite">
                                     <div class="col-12 col-lg-6 background-col col-no-padding">
                                         <div class="image-container responsive-container">
-                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/factorHumano.webp); background-position: 50% 50%;">
+                                            <div class="background vertical-align" style="background-image: url(../assets/images/pages/acerca_de/nosotros/panel/IMG_0410.JPG); background-position: 50% 50%;">
                                             </div>
                                         </div>
                                     </div>
@@ -341,110 +341,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
                         </div>
 
-                    </div>
-                </div>
-
-                <div id="mod_351c10e3" class="c06 container-fluid section-bg-color bg-white" data-cvx-module-name="c06">
-                    <div class="inner-container col centered width-800" style="margin-top:39px;margin-bottom:40px;">
-                        <h2 class="headline color-dark-blue">Principales Clientes</h2>
-                        <div class="body width-600 centered">
-                            <h3>
-                                Atendemos a una amplia variedad de clientes, desde hogares hasta grandes industrias, siempre con el compromiso de brindar un servicio de excelencia.
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div id="mod_85834f74" class="r c57 container-fluid carousel-shared background-color-white " data-cvx-module-name="c57">
-                    <div class="inner-container centered" style="margin-top:0px;">
-                        <section class="splide splide-image centered" aria-label="latest at chevron Article Carousel">
-
-                            <div class="articles">
-                                <div class="splide-wrapper">
-
-                                    <div class="opening-content">
-                                        <div>
-                                            <h3 class="type-header text-base main-header color-dark-blue">Clientes</h3>
-                                        </div>
-                                    </div>
-
-                                    <div class="splide__track">
-                                        <div class="splide__list">
-
-                                            <a class="splide__slide cta-link-parent">
-                                                <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/clientes/1.webp" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            NOMBRE CLIENTE
-                                                        </p>
-                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            DESCRIPCION CLIENTE
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a class="splide__slide cta-link-parent">
-                                                <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/clientes/2.webp" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            NOMBRE CLIENTE
-                                                        </p>
-                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            DESCRIPCION CLIENTE
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                            <a class="splide__slide cta-link-parent">
-                                                <div class="inner-slide-wrapper fondoAzulOscuro">
-                                                    <div class="opacity-cover"></div>
-                                                    <div class="image-container">
-                                                        <img class="img-fluid" src="../assets/images/pages/acerca_de/nosotros/clientes/3.webp" alt="" />
-                                                    </div>
-                                                    <div class="content-container text-left">
-                                                        <p class="type-body text-caption date white">
-                                                            NOMBRE CLIENTE
-                                                        </p>
-                                                        <h4 class="type-subhead text-reduced slide-header color-light-yellow">
-                                                            DESCRIPCION CLIENTE
-                                                        </h4>
-                                                    </div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="control">
-                                <div class="splide__arrows">
-                                    <button class="splide__arrow splide__arrow--prev cta-button secondary">
-                                        <span class="cta-glyphicon">
-                                            <span class="animate glyphicon glyphicon-2023-arrow-left" aria-hidden="true"></span>
-                                        </span>
-                                    </button>
-                                </div>
-                                <ul class="splide__pagination"></ul>
-                                <div class="splide__arrows">
-                                    <button class="splide__arrow splide__arrow--next cta-button secondary">
-                                        <span class="cta-glyphicon">
-                                            <span class="animate glyphicon glyphicon-2023-arrow-right" aria-hidden="true"></span>
-                                        </span>
-                                    </button>
-                                </div>
-                            </div>
-
-                        </section>
                     </div>
                 </div>
 
